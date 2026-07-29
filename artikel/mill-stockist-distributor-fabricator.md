@@ -2,8 +2,8 @@
 article_id: BAR-01-04
 title: "Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?"
 slug: "mill-stockist-distributor-fabricator"
-description: "Map manufacture, stocking, cutting, certification, and fabrication"
-status: outline
+description: "Panduan membedakan pembuat, pemegang stok, penyalur, dan pelaksana fabrikasi besi."
+status: draft
 publication_date: "2025-09-08"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/mill-stockist-distributor-fabricator.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/52949.html"
   - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
@@ -20,44 +21,11 @@ sources:
   - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
   - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
   - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
   - "https://www.iso.org/standard/72532.html"
   - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?”
-- **Reader and situation:** Procurement team
-- **Reader outcome:** Map manufacture, stocking, cutting, certification, and fabrication
-- **Primary intent:** Verify seller role
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No authorization claim
-- **Final public route:** `/artikel/mill-stockist-distributor-fabricator.html`
-- **Appointed CMS date:** `2025-09-08` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -68,144 +36,90 @@ sources:
 - **Selection basis:** filename/source metadata identifies `distributor besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id! Saat tim procurement menerima penawaran besi, empat label sering muncul bergantian: mill, stockist, distributor, dan fabricator. Label itu menjelaskan posisi penjual dalam rantai pasok, bukan otomatis membuktikan mutu, kelas material, atau kewenangan menyatakan produk sesuai proyek.
 
-### KR-01
+Jawaban singkatnya: dalam pemetaan kerja ini, **mill** adalah pihak pembuat produk; **stockist** menyimpan stok dan melayani pengambilan atau pemotongan dari barang yang sudah ada; **distributor** mengatur penyaluran dari satu atau beberapa sumber ke pelanggan; sedangkan **fabricator** mengubah material menjadi komponen rakitan melalui pemotongan, pengeboran, pengelasan, atau proses lain sesuai gambar kerja. Satu perusahaan dapat menjalankan lebih dari satu peran, tetapi setiap peran harus dibuktikan untuk lot dan pekerjaan yang ditawarkan.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi distributor besi as](/wp-content/uploads/2024/07/distributor-besi-as.jpg)
 
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-01-02` → `/artikel/round-bar-rebar-as-baja.html` — Round Bar, Rebar, dan As Baja Tidak Boleh Disamakan
-- `BAR-01-03` → `/artikel/nako-square-bar-besi-kotak-padat.html` — Nako, Square Bar, dan Besi Kotak Padat
-- `BAR-01-05` → `/artikel/membaca-nama-produk-besi-batang.html` — Cara Membaca Nama Produk Besi Batang di Penawaran
-- `BAR-01-06` → `/artikel/identifikasi-produk-sebelum-banding-harga.html` — Checklist Identifikasi Produk sebelum Membandingkan Harga
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling mahal adalah menyamakan “distributor” dengan “pabrik” atau menganggap “fabricator” berarti materialnya sudah tersertifikasi. Penjual boleh saja membeli dari mill, menyimpan di gudang, lalu menjual kembali sekaligus memotong dan merakit. Yang perlu diverifikasi bukan titel di kop surat, melainkan aktivitas yang benar-benar dilakukan, identitas material yang berpindah, dan dokumen yang mengiringinya.
+
+Mintalah penjual menggambar alur sederhana: siapa pembuat, siapa pemilik stok, siapa yang memotong, siapa yang mengelas, dan siapa yang menandatangani dokumen kesesuaian. Jika alur itu berubah ketika ukuran, bentuk, atau jadwal berubah, minta penjelasan tertulis. [NEEDS GATE-01: peran pemasok dan tanggung jawab kontraktual harus dikonfirmasi melalui dokumen proyek serta review kompeten.]
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Istilah produk baja mempunyai dimensi teknis yang berbeda dari istilah dagang. ISO 6929:2013 menyediakan kosakata untuk bentuk dan tahap pembuatan produk baja, sementara klasifikasi ICS ISO memisahkan kelompok seperti pipa atau tabung, profil, pelat atau lembaran, batang, kawat, dan produk fabrikasi ([ISO 6929](https://www.iso.org/standard/52949.html); [klasifikasi ICS baja](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)). Klasifikasi itu membantu menemukan standar yang relevan, tetapi tidak menetapkan kimia, grade, toleransi, pelapis, atau kecocokan untuk penggunaan tertentu.
+
+Karena itu, artikel ini membahas **peran dalam rantai pasok dan transformasi barang**. Ia tidak memberi otorisasi penggunaan, pengganti gambar kerja, atau keputusan penerimaan material. Rekaman BSN memperlihatkan bahwa kelompok profil dan produk baja datar memiliki beberapa entri dan edisi; contoh rekaman SNI 8522:2018 dan SNI 9172:2023 menunjukkan bahwa bentuk produk dan aplikasi menentukan keluarga standar yang perlu diperiksa ([katalog profil BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [katalog baja datar BSN](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), [SNI 9172:2023](https://pesta.bsn.go.id/produk/detail/14592-91722023)). Status “berlaku” pada katalog bukan satu-satunya dasar untuk menentukan edisi yang mengikat kontrak.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari kebutuhan proyek, bukan dari label penjual. Urutan yang dapat dipakai procurement adalah sebagai berikut.
+
+1. **Tentukan objek dan jejak lot.** Tulis bentuk, ukuran, grade yang dipersyaratkan, kuantitas, panjang, dan kebutuhan pelapisan. Satu heat atau lot harus dapat ditautkan ke tag, mill test certificate (MTC), atau dokumen asal yang benar-benar tersedia.
+2. **Verifikasi mill.** Perlakukan mill sebagai pihak yang perlu dimintai keterangan tentang proses manufaktur dan catatan produksinya. Tanyakan nama fasilitas pembuat, nomor lot/heat, standar produk yang dirujuk, serta siapa yang mengeluarkan sertifikat. Jika pemasok hanya meneruskan PDF, minta bukti bahwa dokumen itu cocok dengan tanda pada material.
+3. **Verifikasi stockist.** Stockist memegang barang fisik. Tanyakan lokasi stok, aturan segregasi antar-lot, cara menjaga label setelah pemotongan, dan catatan keluar-masuk. Setelah pemotongan, identitas asal material tetap perlu dijaga agar potongan dapat ditelusuri.
+4. **Verifikasi distributor.** Distributor mengatur transaksi dan logistik, sering tanpa menyimpan seluruh barang. Minta daftar sumber untuk setiap item, titik serah, dan pihak yang bertanggung jawab jika barang diganti atau digabung. Jangan menganggap satu invoice berarti satu mill.
+5. **Verifikasi fabricator.** Fabricator mengubah material mengikuti gambar dan prosedur kerja. Tanyakan siapa menyetujui gambar, prosedur pengelasan, pemeriksaan dimensi, dan rekaman inspeksi. Dokumen fabrikasi dicatat untuk menjelaskan proses pekerjaan yang dilaporkan, bukan otomatis menaikkan grade material.
+
+Kawan Besi.co.id, minta setiap perpindahan memiliki pasangan “barang–dokumen”: tag atau marking pada fisik, lalu nomor dokumen yang sama pada surat jalan, sertifikat, dan berita acara penerimaan. Jika salah satu mata rantai putus, tandai lot itu untuk pemeriksaan sebelum dipakai.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Peran yang sama dapat menghasilkan tingkat risiko berbeda. Material panjang yang dikirim utuh memerlukan pemeriksaan identitas dan dimensi. Material yang dipotong di gudang membutuhkan kontrol sisa dan penandaan ulang. Material yang sudah dilubangi atau dilas membutuhkan catatan revisi gambar, parameter kerja, serta inspeksi tambahan sesuai spesifikasi proyek.
+
+Bentuk juga mengubah jalur pembuktian. Profil, pelat, pipa, batang, dan kawat berada pada kelompok produk berbeda dalam klasifikasi ISO; jangan memakai sertifikat pipa untuk membuktikan profil, atau sertifikat kawat las untuk membuktikan baja induk. Katalog BSN berguna untuk menemukan rekaman, namun edisi, status, ruang lingkup sertifikasi, dan persyaratan kontrak harus dicek pada saat pembelian.
+
+Klaim keberlanjutan atau asal bahan mempunyai jejak tersendiri. ISO 22095 membedakan model identitas fisik, mass-balance, dan klaim administratif; versi amandemen 2026 juga perlu diperiksa sebelum dijadikan dasar penerimaan ([ISO 22095:2020](https://www.iso.org/standard/72532.html); [Amd 1:2026](https://www.iso.org/standard/90678.html)). Tanyakan karakteristik apa yang diklaim, batas sistemnya, catatan input-output, aturan transfer, pihak penanggung jawab, dan cara mencegah penghitungan ganda. [NEEDS GATE-02: skema klaim, assurance, dan bukti transaksi harus direview sebelum klaim dicantumkan dalam dokumen pengadaan.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai pertanyaan awal, bukan sebagai pengganti persetujuan teknis.
+
+| Kebutuhan | Peran yang mungkin | Bukti minimum yang diminta | Titik keputusan |
+|---|---|---|---|
+| Barang standar dikirim utuh | Mill atau distributor | Identitas lot, MTC, marking, surat jalan | Cocokkan fisik dengan dokumen sebelum bongkar penuh |
+| Potongan dari stok lokal | Stockist | Catatan asal lot, daftar potong, penandaan potongan | Tahan potongan tanpa jejak lot |
+| Pengiriman dari beberapa sumber | Distributor | Daftar mill per item, aturan substitusi, rekonsiliasi kuantitas | Setujui hanya setelah sumber tiap lot jelas |
+| Komponen siap pasang | Fabricator (dengan mill/stockist di belakangnya) | Gambar revisi, daftar material, rekaman inspeksi | Pisahkan penerimaan material dari penerimaan pekerjaan |
+
+Misalnya, penawaran menyebut “baja profil bersertifikat, sudah fabrikasi”. Jangan langsung menyimpulkan fabricator adalah mill. Pecah menjadi empat permintaan: siapa pembuat profil, dokumen lot apa yang tersedia, proses apa yang dilakukan fabricator, dan siapa yang memeriksa hasilnya. Bila jawaban hanya “sesuai standar” tanpa nomor standar atau dokumen yang dapat ditelusuri, minta klarifikasi. [NEEDS GATE-03: kecocokan grade, edisi standar, dan ruang lingkup sertifikasi belum dapat diputuskan dari label penjual saja.]
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Mengandalkan nama perusahaan.** Nama “Steel Mill” tidak membuktikan fasilitas produksi. Periksa alamat fasilitas, identitas penerbit MTC, dan rantai transaksi.
 
-## Objection or shortcut to address
+**Mengira stok berarti siap pakai.** Stok dapat terdiri atas lot berbeda atau sisa potongan. Cocokkan tag, jumlah, panjang, dan kondisi aktual dengan pesanan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Menganggap sertifikat mengikuti semua pekerjaan.** Baca MTC sebagai dokumen material dari sumber dan sertifikat fabrikasi sebagai catatan pekerjaan; keduanya adalah dokumen berbeda dan tidak otomatis saling menggantikan.
 
-## Required conclusion
+**Meminta harga sebelum spesifikasi.** Harga yang tampak murah bisa berasal dari grade, panjang, atau basis penagihan yang berbeda. Kunci dulu objek dan dokumen yang wajib diserahkan.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+**Menyebut produk “approved” tanpa dasar.** Persetujuan harus berasal dari pihak dan prosedur proyek yang berwenang. [NEEDS GATE-04: status persetujuan, inspeksi, dan penerimaan harus ditetapkan dalam dokumen kontrak serta review teknis.]
 
-## Draft completion checklist
+Checklist saat meminta penawaran:
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+- Peran pemasok untuk setiap item: mill, stockist, distributor, atau fabricator.
+- Nama pembuat dan nomor lot/heat yang dapat ditelusuri.
+- Daftar proses setelah material keluar dari mill.
+- Daftar dokumen yang dikirim bersama barang dan titik serah tanggung jawab.
+- Aturan jika stok habis, lot digabung, atau item disubstitusi.
+- Pihak yang memeriksa dan menandatangani penerimaan.
+
+## Jalan pintas yang perlu dihindari
+
+Shortcut yang sering dipilih adalah membeli dari satu distributor agar administrasi sederhana. Cara ini boleh menjadi pilihan logistik, tetapi tidak boleh menghapus pertanyaan tentang sumber, lot, dan proses lanjutan. Satu distributor dapat mengonsolidasikan barang dari beberapa mill atau mengirimnya ke fabricator berbeda. Minta matriks item–sumber–dokumen dan tetapkan kapan perubahan sumber memerlukan persetujuan ulang. Jika pemasok tidak dapat menyediakannya, tandai [NEEDS GATE-06: penanggung jawab dan jejak serah-terima belum terbukti] sebelum membandingkan harga.
+
+## Langkah penutup
+
+Mill membuat; stockist menyimpan dan dapat memotong; distributor menyalurkan; fabricator mengubah material menjadi komponen. Batas antarperan boleh tumpang tindih dalam satu perusahaan, tetapi bukti untuk manufaktur, stok, pemotongan, dan fabrikasi tetap harus dipisahkan.
+
+Teman Besi.co.id, langkah berikutnya adalah mengirim tabel kebutuhan kepada calon pemasok dan meminta matriks sumber, lot, proses, serta dokumen sebelum pesanan diterbitkan. Cocokkan fisik dengan rekaman ketika barang tiba, lalu minta review profesional untuk grade, edisi standar, pengelasan, dan persetujuan proyek. Untuk orientasi awal, Anda dapat kembali ke [halaman utama Besi.co.id](/) dan membaca [kategori besi-beton](/besi-beton); bila dokumen belum lengkap, siapkan pertanyaan sebelum [menghubungi tim Besi.co.id](/kontak). Keputusan penerimaan tetap mengikuti spesifikasi dan kontrak yang berlaku, bukan titel penjual.

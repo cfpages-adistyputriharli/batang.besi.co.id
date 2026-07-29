@@ -2,8 +2,8 @@
 article_id: BAR-04-01
 title: "Cara Menulis Ukuran Steel Bar dengan Tidak Ambigu"
 slug: "menulis-ukuran-steel-bar"
-description: "Cover cross-section, nominal/actual, length, quantity, finish, units"
-status: outline
+description: "Panduan menulis penampang, ukuran nominal dan aktual, panjang, jumlah, finish, serta satuan steel bar"
+status: draft
 publication_date: "2025-11-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,196 +13,81 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/menulis-ukuran-steel-bar.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/9985.html"
   - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
-  - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
-  - "https://www.iso.org/standard/86032.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
-  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://www.iso.org/standard/85464.html"
-  - "https://www.iso.org/standard/64622.html"
-  - "https://www.iso.org/standard/66912.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cara Menulis Ukuran Steel Bar dengan Tidak Ambigu
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Ukuran steel bar tidak cukup ditulis “bar 30” atau “6 meter”. Agar pembeli, pemasok, dan pemeriksa membaca barang yang sama, tulis bentuk penampang, ukuran nominal, panjang per batang, jumlah, finish (kondisi permukaan), dan satuan secara berurutan. Bedakan pula label nominal dari ukuran aktual yang benar-benar diukur. Jika Anda baru menyiapkan permintaan, mulai dari [beranda Besi.co.id](/) untuk memastikan objek dan dokumen yang dirujuk.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Menulis Ukuran Steel Bar dengan Tidak Ambigu”
-- **Reader and situation:** Buyer
-- **Reader outcome:** Cover cross-section, nominal/actual, length, quantity, finish, units
-- **Primary intent:** Specify geometry
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No tolerance value
-- **Final public route:** `/artikel/menulis-ukuran-steel-bar.html`
-- **Appointed CMS date:** `2025-11-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: gunakan satu baris spesifikasi seperti `Round bar baja — Ø30 mm nominal — panjang 6 m/batang — 12 batang — finish hot rolled`. Jika proyek meminta ukuran aktual atau pemeriksaan tertentu, tambahkan catatan sumber ukurnya. Nilai toleransi, kelas material, dan kelayakan fungsi tidak boleh ditebak; semuanya bergantung pada gambar, spesifikasi, dan persetujuan teknis yang berlaku.
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Menulis Ukuran Steel Bar dengan Tidak Ambigu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-04-02` → `/artikel/diameter-nominal-aktual-toleransi.html` — Diameter Nominal, Aktual, dan Toleransi
-- `BAR-04-03` → `/artikel/mengukur-square-bar-dan-ulir.html` — Mengukur Square Bar dan Produk Berulir
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menulis Ukuran Steel Bar dengan Tidak Ambigu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ukuran steel bar yang dapat dibaca orang lain harus menjawab enam hal: bentuk penampang, ukuran nominal, ukuran aktual bila diukur, panjang, jumlah, dan kondisi permukaan (finish). Tulis juga satuan pada setiap kelompok angka. Hasil akhirnya bukan sekadar “bar 25”, melainkan baris spesifikasi yang memungkinkan pembeli, gudang, dan pemeriksa mencocokkan barang yang sama.
 
-## Langkah 1 — tetapkan scope
+Sebelum menulis, siapkan gambar atau sketsa penampang, daftar kebutuhan, panjang batang yang diminta, dan istilah finish yang disepakati. Penanggung jawab teknis atau penerbit gambar harus mengesahkan data desain; penulis pesanan tidak boleh menebak ukuran yang belum ada. Untuk pipa, misalnya, tabel dimensi membedakan label nominal dari geometri dan massa teoritis yang dirujuk; ISO 4200 dan ASME B36.10 menunjukkan mengapa label nominal tidak boleh diperlakukan sebagai hasil ukur penerimaan ([ISO 4200](https://www.iso.org/standard/9985.html), [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)).
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menulis Ukuran Steel Bar dengan Tidak Ambigu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan ruang lingkup
+
+Nyatakan dulu objeknya: round bar, square bar, flat bar, atau bentuk khusus. “Steel bar” tanpa bentuk penampang membuka lebih dari satu tafsir. Setelah itu pisahkan kebutuhan pembelian dari kebutuhan fabrikasi. Contoh ruang lingkup yang aman: “round bar baja, diameter nominal sesuai gambar, dipasok lurus, panjang potong, jumlah batang, finish permukaan.”
+
+Jika Anda perlu membandingkan istilah produk pada katalog, [halaman AS S45](/as-s45c) dapat menjadi titik mulai; angka dan bentuk pada pesanan tetap harus mengikuti gambar atau spesifikasi yang disetujui.
+
+Hal yang sengaja tidak dijawab di halaman ini adalah nilai toleransi, kelas material, dan kelayakan struktur. Ketiganya harus mengikuti gambar, spesifikasi proyek, atau dokumen pemasok yang disetujui. Jika pemakaiannya untuk sambungan, poros, atau komponen yang memikul beban, minta review kompeten sebelum pesanan dilepas. [NEEDS GATE-01: konfirmasi dokumen desain dan persetujuan teknis proyek]
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menulis Ukuran Steel Bar dengan Tidak Ambigu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan satu sumber utama untuk setiap elemen: gambar untuk geometri, daftar material untuk grade bila memang dipersyaratkan, dan permintaan pembelian untuk kuantitas serta panjang. Cocokkan istilahnya sebelum menggabungkan data. “Ø30” berarti penampang bulat dengan ukuran nominal 30 mm; itu berbeda dari “30 × 30 mm” yang berarti square bar. “PL 10 × 50” juga perlu dijelaskan sebagai flat bar dengan tebal dan lebar, bukan dua sisi yang dapat ditukar.
+
+Buat tabel kerja sederhana: bentuk | ukuran nominal | ukuran aktual (jika diperlukan untuk inspeksi) | panjang | jumlah | finish | satuan | referensi dokumen. Ukuran aktual hanya diisi dari hasil ukur atau sertifikat yang tersedia, bukan dihitung dari label. Massa teoritis pun bergantung pada geometri dan panjang yang dirujuk tabel, sehingga tidak boleh menggantikan penimbangan penerimaan atau menjadi dasar tagihan tanpa syarat pasokan yang jelas ([ISO 4200](https://www.iso.org/standard/9985.html)). [NEEDS GATE-02: tetapkan sumber data aktual dan aturan penerimaan]
+
+Sobat Besi.co.id, perlakukan tabel ini sebagai lembar pencocokan, bukan tempat mengisi angka perkiraan. Jika satu kolom belum punya sumber, tandai untuk klarifikasi sebelum dikirim.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menulis Ukuran Steel Bar dengan Tidak Ambigu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutkan penulisan dari yang paling menentukan bentuk barang:
 
-## Hold point dan kondisi berhenti
+1. Tulis bentuk penampang dan simbolnya: `round bar Ø`, `square bar □`, atau `flat bar t × w`.
+2. Tambahkan ukuran nominal beserta satuan, tanpa mencampur mm dan m dalam satu kolom.
+3. Tulis panjang per batang, lalu jumlah batang. Gunakan “12 batang × 6 m”, bukan “72 m” saja, karena jumlah potongan memengaruhi pengiriman dan pemotongan.
+4. Nyatakan finish, misalnya hot rolled, cold drawn, polished, atau “sesuai spesifikasi”. Jangan memilih istilah yang tidak tercantum pada dokumen produk.
+5. Tambahkan catatan pemeriksaan: ukuran aktual dicatat saat penerimaan bila diminta, sedangkan toleransi mengikuti dokumen yang disetujui dan tidak ditulis ulang di sini.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menulis Ukuran Steel Bar dengan Tidak Ambigu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Contoh format yang tidak ambigu: `Round bar baja — Ø30 mm nominal — panjang 6 m/batang — 12 batang — finish hot rolled — ukuran aktual diverifikasi saat penerimaan sesuai dokumen proyek.` Untuk square bar: `□25 mm × 6 m/batang × 8 batang`. Untuk flat bar: `10 mm (t) × 50 mm (w) × 6 m/batang × 20 batang`. Tanda `t` dan `w` membantu mencegah tebal dan lebar tertukar. Jika standar produk memakai nama nominal berbeda, pertahankan nama itu dan cantumkan referensinya; ASME B36.10 juga menegaskan perlunya membaca tabel dimensi sesuai produk, bukan menyamakan semua label ([ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)).
 
-## Verifikasi hasil dan handover
+## Titik henti dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Menulis Ukuran Steel Bar dengan Tidak Ambigu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan penerbitan pesanan bila bentuk penampang tidak disebut, ukuran hanya berupa angka tanpa satuan, panjang total tidak menjelaskan jumlah potongan, atau finish memakai istilah pemasok yang belum disetujui. Berhenti juga ketika gambar menyebut ukuran aktual tetapi tidak ada cara ukur atau dokumen penerimaannya. Pada titik ini, minta klarifikasi tertulis dari pemilik spesifikasi atau insinyur yang berwenang. [NEEDS GATE-04: review kompeten untuk konflik gambar, label nominal, dan kebutuhan fungsi]
 
-## Objection or shortcut to address
+Teman Besi.co.id, jangan melanjutkan hanya karena pemasok mengatakan “ukuran standar”. “Standar” tetap harus menunjuk dokumen dan edisi yang dipakai pada pengadaan itu.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Serahkan spesifikasi bersama referensi gambar atau revisinya. Saat barang tiba, periksa identitas bundel, bentuk penampang, tanda satuan, panjang per batang, jumlah, dan finish yang terlihat atau tercatat. Pisahkan catatan “nominal” dari hasil ukur aktual; jangan mengubah angka nominal hanya karena alat ukur membaca nilai lain. Simpan foto label, lembar pengiriman, hasil ukur, dan keputusan penerimaan dalam satu rekaman. Bila ada selisih, karantina lot terkait sampai pemasok dan penanggung jawab teknis menetapkan disposisi. [NEEDS GATE-06: persetujuan rencana inspeksi, rekaman, dan disposisi ketidaksesuaian]
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang perlu dihindari
 
-## Draft completion checklist
+Jalan pintas yang sering dipilih adalah menulis “steel bar 30, 6 meter, 1 ton”. Format itu menggabungkan angka ukuran, panjang, dan berat tanpa bentuk, jumlah potongan, atau dasar massa. Pemasok dapat menafsirkan “30” sebagai diameter, sisi persegi, atau ukuran lain; penerima juga tidak tahu apakah satu ton adalah target pembelian atau hasil timbang. Alternatif yang lebih aman adalah menulis geometri dan satuan per batang terlebih dahulu, lalu memakai berat hanya sebagai informasi tambahan dengan sumber perhitungannya.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Jadi, tulis ukuran steel bar sebagai kombinasi bentuk penampang, ukuran nominal, panjang per batang, jumlah, finish, dan satuan; catat ukuran aktual hanya bila ada bukti ukur atau dokumen yang memintanya. Kawan Besi.co.id, sebelum menekan tombol kirim, minta pihak teknis memeriksa satu baris spesifikasi dan mencocokkannya dengan revisi gambar. Jika masih ada data yang belum jelas, gunakan [halaman kontak Besi.co.id](/kontak) untuk menyampaikan pertanyaan bersama referensi dokumen. Aturan operasinya sederhana: bila pembaca lain masih bisa bertanya “30 itu apa?”, spesifikasi belum siap diterbitkan.

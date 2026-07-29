@@ -2,8 +2,8 @@
 article_id: BAR-05-03
 title: "Certificate, Test Report, dan Declaration: Bedanya"
 slug: "certificate-test-report-declaration"
-description: "Separate issuer, scope, sample, result, claim, validity"
-status: outline
+description: "Bedakan penerbit, ruang lingkup, sampel, hasil uji, klaim, dan masa berlaku dokumen besi."
+status: draft
 publication_date: "2025-12-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,15 +13,8 @@ reader_community: "Besi.co.id"
 reader_address: "Teman Besi.co.id"
 final_route: "/artikel/certificate-test-report-declaration.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
-  - "https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024"
-  - "https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf"
-  - "https://pesta.bsn.go.id/produk/detail/11443-sni20522017"
-  - "https://pesta.bsn.go.id/produk/detail/11700-20522017"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/72532.html"
@@ -29,37 +22,8 @@ sources:
   - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Certificate, Test Report, dan Declaration: Bedanya
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Certificate, Test Report, dan Declaration: Bedanya”
-- **Reader and situation:** Procurement
-- **Reader outcome:** Separate issuer, scope, sample, result, claim, validity
-- **Primary intent:** Evaluate documents
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No accreditation ruling
-- **Final public route:** `/artikel/certificate-test-report-declaration.html`
-- **Appointed CMS date:** `2025-12-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Certificate, Test Report, dan Declaration: Bedanya**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,143 +34,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Teman Besi.co.id! Saat pemasok mengirim tiga berkas dengan kata “certificate”, “test report”, dan “declaration”, jangan langsung menganggap ketiganya adalah bukti yang sama. Perbedaannya terletak pada siapa yang menerbitkan, objek yang diperiksa, cara hasil diperoleh, dan jenis klaim yang berani ditanggung.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: certificate biasanya menyatakan status atau kesesuaian dalam ruang lingkup tertentu; test report mencatat hasil pengujian atas sampel tertentu; declaration adalah pernyataan pihak yang mengklaim kesesuaian, sering kali berdasarkan bukti yang ia kumpulkan. Tidak satu pun otomatis membuktikan bahwa setiap batang dalam kiriman Anda memenuhi syarat. Untuk keputusan pembelian, cocokkan identitas material, nomor lebur atau lot, ukuran, standar yang diminta, metode uji, penerbit, serta masa berlaku dengan pesanan dan tanda fisik.
 
-### KR-01
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
+Aset lokal proyek; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+## Definisi yang tidak boleh tertukar
 
-### KR-05
+Certificate adalah dokumen status. Penerbitnya dapat berupa lembaga sertifikasi, inspeksi, atau produsen, bergantung pada skema yang dirujuk. Yang harus dicari bukan kata “sertifikat” di judul, melainkan nama penerbit, ruang lingkup produk, edisi acuan, identitas pemegang, tanggal terbit, dan syarat keberlakuan. Rekaman publik BSN dapat membantu mengenali judul dan status standar, tetapi status “Berlaku” tidak sendirinya menetapkan edisi kontrak atau kewajiban proyek. Periksa rekaman BSN yang tepat sebelum menjadikan certificate dasar penerimaan (https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=).
 
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
+Test report adalah catatan pekerjaan laboratorium atau fasilitas uji. Ia seharusnya menjawab sampel apa yang diterima, kapan dan bagaimana diuji, metode apa yang dipakai, hasil numeriknya, serta siapa yang mengesahkan laporan. Laporan dari laboratorium yang kompeten meningkatkan kepercayaan pada proses hasil, namun ISO/IEC 17025 tidak mengubah laporan menjadi jaminan bahwa seluruh lot cocok dengan pesanan (https://www.iso.org/standard/66912.html). Sampel, bukan seluruh stok tanpa batas, adalah pusat maknanya.
 
-### KR-06
+Declaration adalah pernyataan tanggung jawab dari pihak yang mengeklaim kesesuaian. Isinya dapat merujuk pada certificate, test report, inspeksi pemasok, atau catatan produksi. Karena itu, declaration bukan pengganti otomatis bagi pengujian independen. Tanyakan siapa penandatangan, produk dan lot mana yang dicakup, standar apa yang dirujuk, dan bukti apa yang tersedia untuk diaudit.
 
-- **Original sources:** [Permenperin 55/2024 status and abstract](https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024), [official regulation PDF](https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf), [BSN SNI 2052:2017 record showing `Berlaku` and a related 2024 edition](https://pesta.bsn.go.id/produk/detail/11443-sni20522017), and [separate BSN 2052:2017 record showing `Tidak Berlaku`](https://pesta.bsn.go.id/produk/detail/11700-20522017)
-- **Purpose for this article:** Ground rebar procurement in a current regulatory source while preserving the unresolved edition/product/scope details.
-- **Safe grounded facts:** Regulatory scope, product definitions, conformity assessment, responsibilities, exceptions, transition, and marking cannot be reconstructed from a BSN title alone. Reinforcing bar, rerolled bar, and coiled product must not be collapsed into one generic `besi beton`.
-- **Limits:** A legal/technical reviewer must read the current consolidated regulation and referenced current SNI before stating requirements, effective transitions, exemptions, SPPT-SNI details, or acceptance. Recheck law and BSN status through G-01/G-02.
+Teman Besi.co.id, tiga istilah ini menjawab pertanyaan berbeda: “status apa yang diberikan?”, “sampel menghasilkan apa?”, dan “siapa yang menyatakan apa?”. Memisahkan pertanyaan itu mencegah satu lembar dipakai untuk menutup lubang bukti lain.
 
-### KR-07
+## Cara membaca hubungan antar dokumen
 
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
+Mulailah dari pesanan pembelian dan spesifikasi proyek. Tulis identitas yang harus sama di semua berkas: nama produsen, bentuk produk, mutu atau grade, diameter atau dimensi, nomor lebur atau lot, kuantitas, dan tanda pada bundel. ISO 10474 menempatkan rekonsiliasi dokumen inspeksi dengan pesanan, produsen, produk, lebur atau batch, dimensi, pengujian, dan penandaan fisik sebagai pekerjaan penting (https://www.iso.org/standard/53736.html).
 
-### KR-22
+Berikutnya, telusuri rantai bukti. Certificate memberi status dalam ruang lingkupnya. Test report memberi hasil sampel dengan metode dan tanggal tertentu. Declaration menyatukan klaim penanggung jawab dengan rujukan bukti. Jika nomor lebur pada test report tidak muncul di certificate atau label bundel, rantai identitas putus; jangan menutupinya dengan tanda tangan penerimaan.
 
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
+Untuk klaim asal atau keberlanjutan, bedakan identitas fisik, pemisahan material, dan pencatatan administratif. Kerangka rantai pengawasan ISO 22095 menjelaskan model yang berbeda, sehingga sebuah declaration perlu menyebut karakteristik klaim, batas sistem, catatan masukan-keluaran, aturan perpindahan, pihak bertanggung jawab, dan pencegahan penghitungan ganda (https://www.iso.org/standard/72532.html). Standar itu bersifat lintas sektor dan sedang diperbarui; perubahan 2026 perlu dibaca dari sumber resminya sebelum klaim dipakai (https://www.iso.org/standard/90678.html, https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html).
 
-## Evidence gates
+## Faktor yang mengubah kekuatan bukti
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
+Ruang lingkup adalah pembatas pertama. Standar untuk profil tidak otomatis berlaku untuk pelat, pipa, batang, kawat las, atau rakitan terpasang. Katalog BSN menampilkan keluarga produk dan edisi yang beragam, jadi pilih rekaman berdasarkan bentuk dan penggunaan yang benar, lalu cocokkan dengan naskah lengkap serta kontrak. Jangan menyimpulkan kewajiban hanya dari judul katalog.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Jenis penerbit juga mengubah cara menilai. Lembaga independen, laboratorium internal, dan produsen memiliki tanggung jawab serta jarak yang berbeda dari barang. Akreditasi atau kompetensi laboratorium relevan untuk mutu proses uji, tetapi bukan keputusan akreditasi untuk proyek Anda. [NEEDS GATE-01: ruang lingkup penerbit dan pengakuan kontraktual belum diverifikasi.]
 
-## Internal-link plan
+Sampel dan waktu pengujian adalah faktor berikutnya. Hasil untuk satu lebur tidak boleh dipindahkan ke lebur lain tanpa dasar yang dinyatakan. Dokumen yang masih berlaku pada tanggal terbit pun dapat tidak mencakup perubahan proses, ukuran, atau pemasok. [NEEDS GATE-02: identitas lot, tanggal pengambilan sampel, dan aturan keberlakuan proyek harus dikonfirmasi.]
 
-### Existing local routes
+Untuk besi beton, produk batangan, batang hasil pengerolan ulang, dan produk gulungan jangan dilebur menjadi satu istilah. Jika konteks Anda adalah memilih bentuk dan ukuran material, lihat juga [panduan besi beton](/besi-beton). Regulasi dan rekaman SNI dapat menunjukkan status yang berbeda antar edisi; telaah hukum dan teknis harus membaca regulasi terkonsolidasi serta SNI yang dirujuk sebelum menyatakan syarat, transisi, pengecualian, atau tanda kesesuaian (https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024, https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf, https://pesta.bsn.go.id/produk/detail/11443-sni20522017, https://pesta.bsn.go.id/produk/detail/11700-20522017). [NEEDS GATE-04: edisi standar dan status wajib untuk produk dalam pesanan belum dipastikan.]
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Contoh keputusan saat pemeriksaan penerimaan
 
-### Planned sibling articles
+Bayangkan pemasok mengirim declaration kesesuaian dan test report tarik. Pertama, cocokkan nomor lebur pada laporan dengan label bundel dan daftar pengepakan. Kedua, pastikan metode uji dan satuan hasil sesuai permintaan; jangan menilai lulus hanya karena ada angka. Ketiga, cari certificate yang ruang lingkupnya mencakup produk dan produsen tersebut. Jika satu titik gagal, tahan keputusan penerimaan dan minta klarifikasi tertulis.
 
-These are future routes. Do not link them as live until their HTML exists.
+Sebaliknya, jika hanya ada certificate tanpa test report, Anda memiliki pernyataan status, bukan hasil pengujian lot. Bila hanya ada test report tanpa declaration, Anda memiliki hasil sampel, tetapi belum tentu ada pihak yang mengambil tanggung jawab kesesuaian. Declaration tanpa dua rujukan itu harus diperlakukan sebagai klaim yang memerlukan bukti pendukung tambahan.
 
-- `BAR-05-01` → `/artikel/membaca-mill-test-certificate-steel-bar.html` — Cara Membaca Mill Test Certificate Steel Bar
-- `BAR-05-02` → `/artikel/marking-traceability-besi-beton.html` — Marking dan Traceability Besi Beton
-- `BAR-05-04` → `/artikel/verifikasi-klaim-sni-besi.html` — Verifikasi Klaim SNI dan Standar Produk
-- `BAR-05-05` → `/artikel/heat-number-batch-number.html` — Heat Number dan Batch Number dalam Rantai Pasok
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Certificate, Test Report, dan Declaration: Bedanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Certificate, Test Report, dan Declaration: Bedanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Certificate, Test Report, dan Declaration: Bedanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Certificate, Test Report, dan Declaration: Bedanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Certificate, Test Report, dan Declaration: Bedanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Besi.co.id, buat tabel sederhana dengan kolom dokumen, penerbit, objek, nomor lebur atau lot, standar dan edisi, tanggal, hasil atau klaim, serta tindakan. Tanda “cocok”, “tidak cocok”, atau “belum ada” lebih berguna daripada menumpuk berkas tanpa jejak keputusan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Certificate, Test Report, dan Declaration: Bedanya”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan logo dengan kewenangan. Logo atau kop surat hanya petunjuk awal; verifikasi nomor dokumen, identitas badan, dan ruang lingkupnya. Kesalahan kedua adalah membaca kata “conform” atau “sesuai” tanpa melihat produk yang dicakup. Kesalahan ketiga adalah menganggap laporan laboratorium membuktikan semua ukuran dan semua kiriman.
 
-## Objection or shortcut to address
+Kesalahan keempat adalah mengabaikan penandaan fisik. Dokumen yang rapi tetap gagal ditautkan bila bundel tidak memiliki marking yang dapat dibaca. Catat foto, nomor lebur, ukuran, dan kondisi saat tiba sesuai prosedur proyek; jangan mengisi nomor yang hilang dari ingatan. Kesalahan kelima adalah memakai declaration lama setelah standar, pemasok, atau proses berubah.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jangan pula menilai “Berlaku” pada satu halaman BSN sebagai izin universal. Rekaman publik membantu identifikasi, sedangkan keputusan penerimaan memerlukan edisi yang diminta, teks lengkap, regulasi terkait, dan persetujuan pihak berwenang. [NEEDS GATE-06: peninjauan teknis dan hukum untuk klaim akhir belum selesai.]
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang umum adalah menerima berkas tercepat dari pemasok lalu meminta QC menyesuaikan catatan. Ini gagal karena identitas lot dan ruang lingkup tidak dapat diciptakan setelah material berpindah. Cara yang lebih aman adalah menetapkan daftar dokumen minimum di pesanan, meminta contoh sebelum pengiriman, dan menahan material yang tidak dapat direkonsiliasi sampai pemasok memberi bukti yang dapat diaudit.
 
-## Draft completion checklist
+Bila Anda perlu menyusun pertanyaan teknis atau menyiapkan pemeriksaan lanjutan, mulai dari [beranda Besi.co.id](/) untuk konteks layanan, lalu kirimkan daftar ketidaksesuaian melalui [halaman kontak](/kontak). Jangan menjadikan artikel ini sebagai putusan akreditasi atau persetujuan proyek.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan dan tindakan berikutnya
+
+Certificate menyatakan status dalam ruang lingkup tertentu, test report mencatat hasil uji atas sampel tertentu, sedangkan declaration menyatakan klaim dan tanggung jawab pihak penandatangan. Nilai dokumen muncul ketika penerbit, ruang lingkup, identitas lot, metode, tanggal, dan tanda fisik saling cocok.
+
+Kawan Besi.co.id, sebelum menyetujui pembelian, minta matriks dokumen yang menghubungkan setiap klaim dengan bukti asli dan minta peninjauan kompeten untuk empat gerbang yang masih bertanda [NEEDS]. Aturan operasionalnya sederhana: tidak ada kecocokan identitas dan ruang lingkup, tidak ada penerimaan final.

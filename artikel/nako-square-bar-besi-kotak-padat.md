@@ -2,8 +2,9 @@
 article_id: BAR-01-03
 title: "Nako, Square Bar, dan Besi Kotak Padat"
 slug: "nako-square-bar-besi-kotak-padat"
-description: "Clarify solid square versus hollow and threaded/deformed labels"
-status: outline
+description: "Menjelaskan perbedaan besi kotak padat, hollow, dan batang berulir atau berprofil"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,200 +18,109 @@ sources:
   - "https://www.iso.org/standard/52949.html"
   - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Nako, Square Bar, dan Besi Kotak Padat
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Saat menerima permintaan “besi nako” atau “square bar”, jangan langsung menganggap keduanya sama. Dalam percakapan dagang Indonesia, *nako* sering menjadi nama pasar untuk batang berpenampang kotak. Namun istilah itu belum menjawab pertanyaan paling penting bagi fabricator: batangnya padat atau berongga, permukaannya polos atau berulir/deformed, dan standar apa yang mengatur mutu serta ukurannya.
 
-- **Writer task:** Expand this file into one complete article answering: “Nako, Square Bar, dan Besi Kotak Padat”
-- **Reader and situation:** Fabricator
-- **Reader outcome:** Clarify solid square versus hollow and threaded/deformed labels
-- **Primary intent:** Resolve square-bar terms
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No application approval
-- **Final public route:** `/artikel/nako-square-bar-besi-kotak-padat.html`
-- **Appointed CMS date:** `2025-09-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: **square bar** adalah istilah bentuk untuk batang berpenampang persegi; **besi kotak padat** menerangkan bahwa penampangnya terisi penuh; sedangkan **nako** adalah label dagang yang maknanya harus dikonfirmasi kepada pemasok. Pipa kotak atau hollow memiliki ruang kosong di tengah dan bukan pengganti otomatis square bar. Batang berulir atau *deformed* (berprofil) juga merupakan kategori permukaan yang berbeda dari batang kotak polos.
 
-## Opening instructions
+Bentuk saja belum membuktikan grade, komposisi kimia, toleransi, lapisan, atau kecocokan aplikasi. Kosakata produk baja memang memisahkan bentuk seperti bar, profile, tube, dan produk fabrikasi, tetapi kosakata tersebut tidak menetapkan sifat materialnya ([ISO 6929:2013](https://www.iso.org/standard/52949.html); lihat juga klasifikasi produk besi dan baja pada [ISO ICS](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)). Karena itu, nama di chat penawaran harus dilanjutkan dengan verifikasi gambar penampang, ukuran, kondisi permukaan, standar, dan sertifikat.
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Nako, Square Bar, dan Besi Kotak Padat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi harga besi nako](/wp-content/uploads/2024/07/harga-besi-nako.jpg)
 
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-002`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi nako](/wp-content/uploads/2024/07/harga-besi-nako.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi nako` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/nako-ulir` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/nako` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-01-01` → `/artikel/istilah-besi-batang-steel-bar-rod-shaft.html` — Besi Batang, Steel Bar, Rod, dan Shaft: Bedanya Apa?
-- `BAR-01-02` → `/artikel/round-bar-rebar-as-baja.html` — Round Bar, Rebar, dan As Baja Tidak Boleh Disamakan
-- `BAR-01-04` → `/artikel/mill-stockist-distributor-fabricator.html` — Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?
-- `BAR-01-05` → `/artikel/membaca-nama-produk-besi-batang.html` — Cara Membaca Nama Produk Besi Batang di Penawaran
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-002
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi harga besi nako](/wp-content/uploads/2024/07/harga-besi-nako.jpg)`
+Caption/credit: Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `harga besi nako` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-002] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Nako, Square Bar, dan Besi Kotak Padat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahpahaman paling mahal terjadi ketika “kotak” dipakai untuk dua benda: batang kotak padat dan pipa kotak (hollow section). Keduanya dapat memiliki ukuran luar yang tampak serupa, tetapi berat dan cara penyambungannya dapat berbeda. Sebelum memotong atau membuat gambar kerja, minta pemasok menuliskan “solid square bar” atau “square hollow section” secara eksplisit, bukan hanya “nako”.
+
+Istilah “ulir” menambah lapisan kebingungan. Batang berulir untuk sambungan mekanis memiliki alur yang membentuk profil ulir; batang *deformed* untuk tulangan memiliki sirip atau pola permukaan. Keduanya bukan definisi dari penampang persegi. Jika yang dibutuhkan adalah kotak padat polos, tuliskan “square bar, solid, plain” beserta ukuran dan grade yang disetujui. Jika yang dimaksud batang kotak berprofil, pola dan standar permukaannya harus disebutkan terpisah.
+
+Sobat Besi.co.id, anggap “nako” sebagai kata pencarian awal, bukan bukti teknis. Bukti teknis datang dari dokumen pembelian, marking pada batang, lembar data, atau sertifikat yang bisa dicocokkan dengan barang fisik.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Nako, Square Bar, dan Besi Kotak Padat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Square bar**: batang dengan penampang persegi dan panjang memanjang. Dalam artikel ini, istilah tersebut dipakai untuk bentuk, bukan untuk menetapkan grade atau metode pembuatannya. **Besi kotak padat**: square bar dengan material memenuhi penampang; tidak ada rongga internal yang didefinisikan sebagai bagian produk.
+
+**Hollow** atau pipa kotak: produk berongga dengan dinding dan ruang internal. Penyebutan “besi hollow kotak” seharusnya memuat ukuran luar, tebal dinding, serta cara sambungan atau spesifikasi produk. Jangan menyamakan ukuran luar hollow dengan sisi square bar lalu menyimpulkan kapasitas atau beratnya.
+
+**Nako**: istilah dagang lokal. Satu toko dapat memakainya untuk square bar padat, toko lain untuk produk dekoratif atau batang dengan pola tertentu. Variasi bahasa pasar inilah yang membuat permintaan lisan perlu diterjemahkan menjadi spesifikasi tertulis.
+
+Batas artikel ini adalah pengenalan istilah dan pemeriksaan identitas barang. Artikel ini tidak menyetujui penggunaan struktural, detail sambungan, atau penggantian material pada proyek tertentu. Daftar katalog BSN juga menunjukkan bahwa keluarga standar produk baja dibedakan menurut bentuk dan tujuan; satu entri profil tidak otomatis mengatur tube, bar, mesh, pengelasan, atau rakitan terpasang ([katalog profil baja BSN](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Nako, Square Bar, dan Besi Kotak Padat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari kebutuhan fisik, lalu turun ke dokumen. Urutannya dapat dibuat sederhana:
+
+1. **Gambar penampang.** Tanyakan apakah bagian tengah harus padat. Bila ya, minta potongan ujung atau gambar penampang yang menunjukkan solid, bukan hollow.
+2. **Dimensi yang diukur.** Catat sisi persegi, panjang, dan bila relevan kondisi sudut atau radius. Jangan mengandalkan istilah “ukuran 1 inci” tanpa satuan dan toleransi.
+3. **Permukaan.** Tandai polos, berulir, atau *deformed*. Foto marking boleh membantu identifikasi, tetapi tidak menggantikan sertifikat.
+4. **Material dan standar.** Minta grade, standar produk, serta dokumen mutu yang menyertai heat atau lot. Status sebuah standar di katalog publik tidak memberi Anda seluruh isi klausul atau menjamin barang tertentu lulus.
+5. **Pemeriksaan penerimaan.** Cocokkan label, jumlah, panjang, dan pengukuran sampel dengan pesanan. Berat teoritis dari tabel hanya berlaku untuk geometri dan asumsi yang dirujuk; penimbangan aktual adalah pemeriksaan berbeda.
+
+Pada tahap fabrikasi, perubahan bentuk melalui pemotongan, pengeboran, atau pengelasan dapat mengubah kebutuhan pemeriksaan. Tuliskan perubahan itu di gambar kerja dan minta persetujuan pihak yang berwenang bila komponen termasuk sistem yang diatur proyek.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Nako, Square Bar, dan Besi Kotak Padat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa kondisi membuat label yang sama menghasilkan keputusan berbeda:
+
+- **Rongga dan tebal dinding.** Dua produk bersisi luar sama dapat memiliki luas material dan distribusi massa berbeda karena salah satunya hollow.
+- **Kondisi permukaan.** Polos, berulir, dan *deformed* memengaruhi cara alat menjepit, dilas, atau disambung. Jangan menambah ulir atau sirip hanya karena istilah “nako” dianggap kurang kuat.
+- **Proses pembuatan.** Batang canai, tarik, atau hasil proses lain dapat mempunyai toleransi dan kondisi permukaan berbeda. Tanyakan proses yang dinyatakan pemasok bila itu relevan dengan gambar kerja.
+- **Lingkungan dan pelapisan.** Lapisan atau korosi mengubah ukuran terukur dan persiapan sambungan. Spesifikasi coating harus dicari di dokumen proyek, bukan ditebak dari warna barang.
+- **Bukti rantai pasok.** Jika klaim asal atau keberlanjutan penting, minta rekaman lot dan serah-terima yang dapat diaudit. Kerangka chain-of-custody membedakan segregasi fisik, mass-balance, dan klaim administratif; jangan mencampurnya dengan bukti grade ([ISO 22095:2020](https://www.iso.org/standard/72532.html)).
+
+Kawan Besi.co.id, bila salah satu faktor ini belum jelas, hentikan asumsi dan naikkan pertanyaan ke penanggung jawab mutu atau engineer proyek. Tidak ada istilah pasar yang dapat menggantikan penetapan kebutuhan tersebut.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Nako, Square Bar, dan Besi Kotak Padat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut saat membaca penawaran. Ini adalah aturan klarifikasi, bukan persetujuan aplikasi.
+
+| Teks penawaran | Pertanyaan balik | Keputusan aman sementara |
+|---|---|---|
+| “Nako 10 mm” | Padat atau hollow? Sisi terukur berapa? Grade dan standar apa? | Jangan membuat pesanan final sebelum jawaban tertulis. |
+| “Square bar 20 x 20” | Apakah solid? Berapa panjang dan toleransinya? | Minta gambar/marking dan sertifikat lot. |
+| “Kotak ulir” | Ulir mekanis atau pola *deformed*? Untuk sambungan apa? | Pisahkan spesifikasi bentuk dari fungsi sambungan. |
+| “Besi hollow kotak” | Ukuran luar, tebal dinding, dan bentuk ujungnya? | Jangan substitusi dengan square bar padat. |
+
+Contoh bersyarat: jika gambar hanya menyebut sisi persegi tanpa kata solid atau hollow, status penampang adalah **belum ditentukan**. Jika pemasok menjawab “nako” tetapi tidak memberikan dokumen, catat `[NEEDS PRODUCT IDENTITY EVIDENCE]` pada lembar klarifikasi internal dan minta pemeriksaan kompeten sebelum produksi.
+
+Untuk langkah komersial berikutnya, Anda dapat melihat halaman [nako](/nako) untuk menyamakan kosakata penawaran, lalu kembali ke spesifikasi tertulis sebelum memilih sumber. Tautan itu bukan pengganti verifikasi mutu barang.
+
+Bila istilah yang muncul adalah batang dengan alur atau ulir, bandingkan juga penjelasan [nako ulir](/nako-ulir) agar permintaan batang berprofil tidak tertukar dengan square bar polos.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Nako, Square Bar, dan Besi Kotak Padat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengira semua penampang persegi adalah hollow karena lebih umum terlihat di toko bangunan. Periksa ujung batang atau dokumen penampang; jangan menggerinda produk hanya untuk “membuktikan” isi tanpa prosedur keselamatan dan persetujuan.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah memakai “ulir” sebagai grade. Ulir hanya menjelaskan geometri permukaan untuk sambungan tertentu. Cari grade dan standar pada sertifikat, bukan pada nama dagang.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menganggap katalog standar sebagai sertifikat barang. Katalog publik membantu menemukan keluarga dokumen dan status yang terlihat, tetapi edisi, ruang lingkup, dan persyaratan pembelian tetap harus dikonfirmasi pada rekaman proyek dan dokumen pemasok.
 
-## Required conclusion
+Kesalahan keempat adalah menghitung kebutuhan dari berat nominal lalu menolak barang karena hasil timbangan berbeda, tanpa memeriksa panjang, toleransi, atau dasar tabel. Pisahkan pemeriksaan dimensi, berat aktual, dan persyaratan kontrak.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang tampak praktis tetapi berisiko
 
-## Draft completion checklist
+Shortcut yang sering dipilih fabricator adalah menulis “nako” di purchase order agar pemasok “sudah paham”. Cara ini menghemat satu baris, tetapi membuka tiga interpretasi: solid atau hollow, polos atau berprofil, dan material apa. Saat barang datang, perbedaan itu baru terlihat setelah dipotong—ketika biaya dan waktu sudah terlanjur keluar.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Alternatif yang lebih aman adalah satu baris spesifikasi lengkap: bentuk penampang, status solid/hollow, sisi atau ukuran luar, tebal bila hollow, kondisi permukaan, panjang, grade/standar yang disetujui, serta dokumen yang wajib menyertai. Bila salah satu kolom belum diketahui, tandai sebagai pertanyaan terbuka, bukan diisi berdasarkan kebiasaan toko.
+
+## Kesimpulan dan langkah berikutnya
+
+Nako adalah label pasar; square bar menjelaskan bentuk persegi; besi kotak padat menjelaskan penampang yang terisi penuh. Hollow, ulir mekanis, dan *deformed* adalah kategori berbeda yang harus dinyatakan terpisah. Bentuk tidak otomatis membuktikan grade, toleransi, atau kelayakan aplikasi.
+
+Teman Besi.co.id, sebelum mengonfirmasi pembelian, minta pemasok mengirim gambar penampang, ukuran lengkap, marking, standar/grade, dan sertifikat lot. Cocokkan semuanya dengan gambar kerja dan minta tinjauan profesional bila komponen masuk sistem struktural atau keselamatan. Aturan operasinya sederhana: **jangan memotong atau memproduksi dari kata “nako” saja; produksi dimulai setelah identitas penampang dan dokumennya jelas.**

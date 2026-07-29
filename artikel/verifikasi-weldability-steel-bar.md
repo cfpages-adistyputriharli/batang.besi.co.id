@@ -2,8 +2,9 @@
 article_id: BAR-08-01
 title: "Apakah Grade Steel Bar Ini Bisa Dilas?"
 slug: "verifikasi-weldability-steel-bar"
-description: "Require exact grade/chemistry/condition, CE where relevant, joint/service, engineer/welding review"
-status: outline
+description: "Verifikasi grade, kimia, kondisi, CE bila relevan, sambungan, layanan, dan peninjauan insinyur atau koordinator pengelasan"
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-02-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -26,37 +27,9 @@ sources:
   - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Apakah Grade Steel Bar Ini Bisa Dilas?
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Apakah Grade Steel Bar Ini Bisa Dilas?”
-- **Reader and situation:** Fabricator
-- **Reader outcome:** Require exact grade/chemistry/condition, CE where relevant, joint/service, engineer/welding review
-- **Primary intent:** Establish evidence
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No yes/no verdict
-- **Final public route:** `/artikel/verifikasi-weldability-steel-bar.html`
-- **Appointed CMS date:** `2026-02-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Apakah Grade Steel Bar Ini Bisa Dilas?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,141 +40,83 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Kawan Besi.co.id!
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban yang aman bukan “bisa” atau “tidak bisa” hanya dari nama grade. Steel bar baru layak dipertimbangkan untuk dilas setelah grade, komposisi kimia, kondisi material, bentuk sambungan, dan tuntutan layanannya terverifikasi. Tanpa paket bukti itu, keputusan pengelasan harus ditahan: **[NEEDS GATE-01: verifikasi grade/heat dan persetujuan engineer atau welding coordinator]**.
 
-### KR-01
+Weldability (kemampuan las) adalah keputusan teknis untuk kombinasi material–proses–sambungan, bukan sifat tunggal pada label. Carbon equivalent (CE), bila relevan, dapat membantu menilai kecenderungan pengerasan dan risiko retak. Namun rumus, batas, serta tindakan pengendaliannya harus mengikuti standar aplikasi dan WPS yang disetujui. Artikel ini membantu Anda menyiapkan bukti, bukan memberi parameter las siap pakai.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-12
-
-- **Original sources:** [ISO 3834-2:2021 — comprehensive welding quality requirements](https://www.iso.org/standard/81651.html), [ISO 14731:2019 — welding coordination](https://www.iso.org/standard/68893.html), and [ISO 17662:2025 — welding-equipment calibration/verification/validation](https://www.iso.org/standard/83737.html)
-- **Purpose for this article:** Build the WPS/PQR/personnel/equipment/material/inspection evidence chain without teaching unqualified welding parameters.
-- **Safe grounded facts:** Welding quality depends on defined requirements, competent coordination, qualified procedures/personnel where required, controlled consumables/equipment, traceability, execution, inspection, nonconformance, and records. Final inspection alone cannot reconstruct uncontrolled essential process variables.
-- **Limits:** The abstracts do not establish required qualification route, preheat, heat input, consumable, acceptance level, or repair. Resolve governing application standard and approved welding documents through G-07.
-
-### KR-13
-
-- **Original sources:** [AWS D1.1/D1.1M:2025-AMD1 official page](https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/) and [AWS D1 Committee published-document page](https://www.aws.org/about/get-involved/committees/d1-committee-on-structural-welding/)
-- **Purpose for this article:** Give structural-welding articles a current discovery source while preventing automatic or out-of-scope adoption.
-- **Safe grounded facts:** AWS explicitly says the code is not automatically law and becomes binding when adopted by a contract, project specification, or regulatory requirement. Its scope is structural steel, not every appliance, pressure system, stainless product, rebar weld, or repair.
-- **Limits:** Confirm governing Indonesian/project adoption, current amendment/errata, material and joint scope, engineer modifications, and full licensed code through G-01/G-07.
-
-### KR-14
-
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-08-02` → `/artikel/wps-pqr-welder-qualification-bar.html` — WPS, PQR, dan Welder Qualification untuk Sambungan Bar
-- `BAR-08-03` → `/artikel/carbon-equivalent-weldability.html` — Carbon Equivalent dan Weldability: Apa yang Dibuktikan?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Apakah Grade Steel Bar Ini Bisa Dilas?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Grade yang sama di dua batang belum otomatis berarti perilaku lasnya sama. Heat number, sertifikat material, kondisi pasokan (misalnya perlakuan panas atau permukaan), serta riwayat pemanasan dapat mengubah keputusan. Sebaliknya, bead yang tampak rapi hanya menunjukkan tampilan permukaan; itu bukan bukti bahwa prosedur, personel, dan kondisi metalurgi sudah memenuhi kebutuhan sambungan.
+
+Kawan Besi.co.id, jangan mulai dari pertanyaan “elektroda apa?”. Mulailah dari “dokumen material dan standar sambungan apa yang mengikat?”. ISO 3834-2 menempatkan mutu pengelasan dalam rantai yang mencakup material, prosedur, personel, peralatan, inspeksi, ketidaksesuaian, dan rekaman—bukan inspeksi akhir saja ([ISO 3834-2:2021](https://www.iso.org/standard/81651.html)).
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Apakah Grade Steel Bar Ini Bisa Dilas?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dimaksud steel bar di sini adalah batang baja yang akan menjadi bagian dari sambungan atau fabrikasi. Pembahasan tidak menetapkan bahwa semua rebar, batang karbon, baja paduan, stainless, komponen tekanan, atau bagian mesin boleh diperlakukan dengan aturan yang sama. Kode struktural seperti AWS D1.1 memiliki ruang lingkup khusus dan tidak otomatis menjadi hukum; penerapannya mengikat bila diadopsi kontrak, spesifikasi proyek, atau persyaratan regulator ([AWS D1.1/D1.1M](https://cm.aws.org/standards-and-publications/codes-and-standards/d1-1/), [AWS D1 Committee](https://www.aws.org/about/get-involved/committees/d1-committee-on-structural-welding/)).
+
+Pisahkan tiga pertanyaan: apakah material dapat dilas secara metalurgi, apakah sambungan diizinkan oleh desain/standar, dan apakah organisasi mampu mengendalikan prosesnya. Jawaban “ya” pada pertanyaan pertama tidak menggantikan dua pertanyaan berikutnya.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Apakah Grade Steel Bar Ini Bisa Dilas?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan verifikasi yang dapat dipakai fabricator:
+
+1. **Identifikasi material.** Cocokkan marking, purchase order, mill certificate, heat number, dimensi, dan kondisi pengiriman. Jika tidak cocok, hentikan pengelasan dan minta klarifikasi.
+2. **Baca komposisi dan CE bila dibutuhkan.** Gunakan nilai sertifikat yang tertelusur, bukan perkiraan dari nama dagang. CE hanya masukan penilaian; keputusan preheat, interpass, heat input, dan consumable harus datang dari WPS/prosedur yang disetujui.
+3. **Tetapkan fungsi sambungan.** Gaya, kelelahan, temperatur, korosi, akses, dan konsekuensi kegagalan menentukan tingkat kendali dan pemeriksaan. **[NEEDS GATE-02: konfirmasi desain, joint category, dan service condition]**.
+4. **Bangun paket pengelasan.** Welding coordinator yang kompeten memastikan WPS/PQR bila dipersyaratkan, kualifikasi welder, kontrol consumable, kalibrasi/validasi peralatan, traceability, inspeksi, dan rekaman. ISO 14731 membahas koordinasi pengelasan, sedangkan ISO 17662 membahas kalibrasi, verifikasi, dan validasi peralatan ([ISO 14731:2019](https://www.iso.org/standard/68893.html), [ISO 17662:2025](https://www.iso.org/standard/83737.html)).
+5. **Laksanakan dan periksa.** Ikuti WPS yang disetujui; catat heat, welder, consumable, parameter yang diwajibkan, dan penyimpangan. NDT harus direncanakan berdasarkan standar aplikasi. ISO 17635 menekankan aturan umum NDT, sementara ISO 9712 mengatur kerangka kompetensi personel NDT ([ISO 17635:2025](https://www.iso.org/standard/85705.html), [ISO 9712:2021](https://www.iso.org/standard/75614.html)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Apakah Grade Steel Bar Ini Bisa Dilas?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Kimia dan kondisi material:** karbon, unsur paduan, ketebalan efektif, kekerasan, perlakuan panas, dan hidrogen terserap memengaruhi risiko retak atau zona terpengaruh panas. Jangan mengisi nilai yang tidak ada di sertifikat.
+- **Geometri dan pengekangan:** sambungan yang kaku, celah tidak seragam, akses satu sisi, atau urutan las tertentu meningkatkan tegangan sisa. Solusinya harus ditentukan melalui prosedur, bukan tebakan lapangan.
+- **Layanan setelah fabrikasi:** beban siklik, suhu rendah/tinggi, lingkungan korosif, atau tuntutan kedap dapat memerlukan kualifikasi dan NDT berbeda. **[NEEDS GATE-04: engineer menyetujui kesesuaian sambungan terhadap service]**.
+- **Kesiapan proses:** identitas consumable, penyimpanan, kondisi permukaan, fit-up, peralatan terverifikasi, dan welder berkualifikasi harus tercatat. Inspeksi visual tidak dapat memulihkan variabel penting yang tidak dikendalikan.
+- **K3 dan lingkungan kerja:** asap las dapat membawa paparan logam seperti mangan; bahaya juga meliputi lapisan/contaminant, ventilasi, api, listrik, gas, posisi kerja, dan pekerja di sekitar. NIOSH dan OSHA memetakan bahaya tersebut, sedangkan evaluasi local exhaust menekankan pengendalian berbasis proses dan kondisi aktual ([NIOSH welding fumes](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), [NIOSH engineering controls](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)). Ikuti penilaian K3 dan batas paparan Indonesia yang berlaku; jangan menyalin angka atau pilihan APD dari sumber luar negeri.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Apakah Grade Steel Bar Ini Bisa Dilas?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai penyaring awal, bukan persetujuan produksi:
+
+| Kondisi bukti | Keputusan sementara | Tindakan berikutnya |
+|---|---|---|
+| Grade, heat, kimia, dan kondisi cocok; desain serta standar aplikasi jelas | Lanjut ke review teknis | Welding coordinator menyetujui WPS dan rencana inspeksi |
+| Grade diketahui tetapi sertifikat kimia atau kondisi hilang | Tahan | Telusuri dokumen atau lakukan identifikasi material yang disetujui engineer |
+| Material jelas, tetapi joint atau service belum ditetapkan | Jangan mengelas | Minta detail desain, kategori sambungan, dan konsekuensi kegagalan |
+| Sambungan sudah dibuat tanpa rekaman proses | Jangan menyatakan conform | Buat rencana pemeriksaan dan disposition oleh pihak kompeten; **[NEEDS GATE-06: keputusan repair/acceptance]** |
+
+Contoh bersyarat: bila batang memiliki mill certificate lengkap dan akan menjadi sambungan struktural, kode proyek mungkin merujuk AWS D1.1. Namun halaman resmi AWS mengingatkan bahwa adopsi dan ruang lingkup harus dikonfirmasi; fabricator tidak boleh menganggap kode itu otomatis berlaku untuk setiap jenis bar.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Apakah Grade Steel Bar Ini Bisa Dilas?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan grade dengan weldability. Periksa heat number dan komposisi aktual, lalu tanyakan apakah CE memang diperlukan oleh standar proyek. Kedua, memilih consumable dari kebiasaan tanpa WPS. Minta dokumen prosedur, rentang material, posisi, dan batasan yang disetujui.
 
-## Objection or shortcut to address
+Ketiga, menganggap NDT “lulus” sebagai bukti semua hal. Minta laporan yang menyebut objek/joint, metode dan teknik, prosedur, personel, peralatan, cakupan, temuan, kriteria, hasil, dan disposition. Keempat, mengabaikan pelapis, minyak, karat, atau kontaminasi serta ventilasi. Sobat Besi.co.id, masukkan kondisi permukaan dan pengendalian asap ke permit dan risk assessment sebelum busur dinyalakan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Checklist serah-terima:
 
-## Required conclusion
+- [ ] Marking, heat number, mill certificate, dan kondisi material cocok.
+- [ ] Gambar, joint detail, beban, service, dan standar aplikasi disetujui.
+- [ ] WPS/PQR (bila diwajibkan), kualifikasi welder, consumable, serta verifikasi peralatan tersedia.
+- [ ] ITP/NDT plan menyebut metode, personel, kriteria, dan disposition.
+- [ ] Permit hot work, ventilasi, isolasi energi, dan pengendalian kebakaran ditinjau tim K3.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang terlihat praktis
 
-## Draft completion checklist
+Jalan pintas yang sering dipilih ialah “coba satu titik; kalau tidak retak, teruskan”. Uji coba informal itu tidak mengendalikan heat input, pengekangan, hidrogen, atau service condition dan tidak menghasilkan rekaman kualifikasi. Alternatif yang dapat dipertanggungjawabkan adalah mengunci material dan desain, meminta welding coordinator menilai kebutuhan kualifikasi, lalu menjalankan prosedur dan inspeksi yang disetujui. Jika bukti utama belum tersedia, tandai dan eskalasikan—jangan mengubah dugaan menjadi izin kerja.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Jadi, grade steel bar tidak dapat diberi vonis las hanya dari nama atau tampilan hasil las. Keputusan yang defensible memerlukan identitas dan kimia material, CE bila relevan, kondisi serta fungsi sambungan, standar proyek yang benar-benar diadopsi, WPS/personel/peralatan terkendali, rencana NDT, dan penilaian K3. Minta engineer dan welding coordinator menutup **[NEEDS GATE-01] [NEEDS GATE-02] [NEEDS GATE-04] [NEEDS GATE-06]** dengan bukti proyek sebelum produksi atau repair.
+
+Aturan operasinya: bila satu mata rantai bukti hilang, statusnya “belum terverifikasi”, bukan “pasti bisa dilas”. Teman Besi.co.id, simpan keputusan, revisi dokumen, dan rekaman inspeksi bersama heat number agar pemeriksaan berikutnya dapat menelusuri apa yang benar-benar dilakukan.
+
+Untuk langkah awal, Anda dapat meninjau [informasi besi beton](/besi-beton) lalu [menghubungi tim Besi.co.id](/kontak) untuk menyiapkan dokumen material dan pertanyaan teknis yang perlu ditinjau.

@@ -2,8 +2,9 @@
 article_id: BAR-04-05
 title: "Straightness dan Surface Condition pada Bar Stock"
 slug: "straightness-surface-bar-stock"
-description: "Explain bow, twist, scale, seams, rust, machining allowance, measurement"
-status: outline
+description: "Panduan memeriksa kelurusan, kondisi permukaan, allowance pemesinan, dan bukti ukur bar stock."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-25"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,196 +15,83 @@ reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/straightness-surface-bar-stock.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
-  - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
-  - "https://www.iso.org/standard/86032.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://www.iso.org/standard/85464.html"
   - "https://www.iso.org/standard/64622.html"
   - "https://www.iso.org/standard/66912.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Straightness dan Surface Condition pada Bar Stock
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Straightness dan Surface Condition pada Bar Stock”
-- **Reader and situation:** Machining buyer
-- **Reader outcome:** Explain bow, twist, scale, seams, rust, machining allowance, measurement
-- **Primary intent:** Define quality
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No defect acceptance
-- **Final public route:** `/artikel/straightness-surface-bar-stock.html`
-- **Appointed CMS date:** `2025-11-25` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Straightness dan Surface Condition pada Bar Stock**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
-
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Besi.co.id! Saat membeli bar stock untuk machining, “lurus” dan “permukaannya bagus” bukan penilaian yang sama. Batang bisa tampak lurus tetapi memiliki twist, atau bebas karat namun memiliki seam yang baru terlihat setelah dibubut. Keputusan penerimaan perlu memisahkan geometri, kondisi permukaan, dan allowance pemesinan.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: periksa bow (lengkung memanjang), twist (puntiran penampang), serta scale, seam, dan rust secara terpisah; catat metode dan lokasi pengukuran; lalu cocokkan hasilnya dengan gambar, purchase order, dan prosedur yang disetujui. Tidak ada angka penerimaan universal yang dapat ditetapkan di sini. Fungsi komponen, stok pemesinan, spesifikasi material, dan persetujuan proyek dapat mengubah keputusan **[NEEDS GATE-01: spesifikasi dan batas penerimaan proyek]**.
 
-### KR-01
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-04-03` → `/artikel/mengukur-square-bar-dan-ulir.html` — Mengukur Square Bar dan Produk Berulir
-- `BAR-04-04` → `/artikel/berat-teoritis-vs-aktual-besi.html` — Berat Teoritis vs Berat Aktual Besi Batang
-- `BAR-04-06` → `/artikel/cut-length-end-condition-allowance.html` — Cut Length, End Condition, dan Allowance
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Straightness dan Surface Condition pada Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Straightness dan Surface Condition pada Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Straightness** menggambarkan seberapa jauh sumbu atau sisi bar menyimpang dari garis acuan. Bow adalah lengkung dominan dalam satu bidang; twist adalah perubahan orientasi penampang sepanjang batang sehingga dua ujungnya tidak berada pada orientasi yang sama. Keduanya dapat mengganggu chucking, penjepitan, datum, dan sisa stok setelah pemotongan.
+
+**Surface condition** adalah keadaan kulit material sebelum proses berikutnya. Mill scale merupakan lapisan oksida dari proses panas; seam adalah indikasi memanjang yang dapat menjadi terbuka saat material dikupas; rust adalah korosi yang perlu dibedakan antara noda permukaan dan kehilangan penampang. Artikel ini menjelaskan cara mengumpulkan bukti, bukan menyatakan bahwa suatu indikasi otomatis ditolak atau diterima.
+
+**Machining allowance** adalah material yang sengaja disisakan untuk dibuang. Allowance hanya membantu jika kedalaman indikasi, posisi, dan stok akhir dapat dibuktikan masih aman. Nilainya harus berasal dari drawing atau process sheet, bukan perkiraan penerima. Untuk konteks produk besi as, Anda dapat melihat [halaman besi as](/as-s45c).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Straightness dan Surface Condition pada Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari dokumen. Tandai heat atau lot, ukuran nominal, panjang, kondisi pengiriman, dan kebutuhan permukaan akhir. Rencana inspeksi perlu mendefinisikan populasi, karakteristik, metode, identitas sampel, frekuensi, kriteria, keputusan, penanggung jawab, serta rekaman. ISO 28590 menjelaskan seri ISO 2859 sebagai kerangka yang harus diterapkan bersama persyaratan produk, bukan angka siap pakai ([ISO 28590](https://www.iso.org/standard/64622.html)). Untuk hasil ukur yang menjadi dasar keputusan, kompetensi alat dan laboratorium serta rekaman yang dapat ditelusuri penting ([ISO/IEC 17025](https://www.iso.org/standard/66912.html)). Jika Anda perlu menelusuri topik besi lain sebelum menetapkan spesifikasi, mulai dari [beranda Besi.co.id](/).
+
+Lakukan pemeriksaan visual setelah permukaan cukup bersih untuk dilihat, tanpa menggosok atau menggiling indikasi sebelum dicatat. Tandai posisi cacat terhadap ujung batang. Untuk straightness, letakkan batang pada tumpuan stabil, gunakan garis atau straightedge sebagai referensi, dan ukur celah di beberapa titik; ulangi dengan orientasi berbeda untuk menangkap bow maupun twist. Metode tumpuan, panjang bentang, resolusi alat, dan cara membaca harus ditulis di lembar inspeksi **[NEEDS GATE-02: metode ukur yang disetujui]**.
+
+Pisahkan “indikasi terlihat” dari “kedalaman yang terbukti”. Jika seam atau pit tampak, ukur kedalamannya hanya dengan prosedur dan alat yang diizinkan. Bandingkan sisa diameter atau sisi dengan kebutuhan proses. Jangan menyatakan lolos hanya karena cacat akan hilang saat roughing; buktikan stok tersisa di seluruh lintasan pahat.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Straightness dan Surface Condition pada Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi penyimpanan dapat mengubah hasil penerimaan. Tumpukan memerlukan penyangga dan pencegah gelinding, akses pemeriksaan, drainase, serta perlindungan dari air dan kondensasi. Panduan LYSAGHT menekankan pengendalian kelembapan dan kontak material; OSHA 1926.250 dapat menjadi referensi praktik penyimpanan aman, tetapi bukan pengganti aturan Indonesia atau desain rak proyek ([LYSAGHT product care](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), [OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)).
+
+Kawan Besi.co.id, perhatikan urutan proses. Bar yang dibubut hampir sepanjang panjangnya memiliki kebutuhan berbeda dari bar yang hanya dipotong pendek. Chuck, steady rest, dan datum dapat memperbesar dampak bow atau twist. Material yang akan dilas atau dilapisi mungkin memiliki persyaratan kebersihan permukaan lain. Grade, ukuran, panjang potong, dan finishing akhir harus dibaca bersama.
+
+Cuaca dan waktu simpan memengaruhi rust; cara angkat dan geser dapat menambah gores atau penyok. Catat kondisi saat tiba sebelum dipindahkan agar kerusakan transport tidak tercampur dengan kondisi pemasok. Bila label, heat number, atau sertifikat tidak cocok, tahan lot untuk klarifikasi alih-alih mengandalkan tampilan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Straightness dan Surface Condition pada Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua skenario bersyarat berikut (bukan contoh hasil proyek):
+
+| Temuan awal | Pertanyaan lanjutan | Tindakan sementara |
+|---|---|---|
+| Bow terlihat, permukaan bersih | Apakah datum dan stok roughing masih dapat dicapai? | Karantina sampai metode ukur dan drawing dikonfirmasi |
+| Scale tebal merata | Apakah permukaan akan dikupas atau langsung menjadi area sealing? | Minta proses pembersihan/finishing tertulis |
+| Garis memanjang seperti seam | Apakah indikasi tetap ada setelah pembersihan yang diizinkan? | Tandai, dokumentasikan, dan minta evaluasi material |
+| Rust lokal | Apakah ada pit atau hanya perubahan warna? | Ukur setelah prosedur pembersihan disetujui |
+
+Untuk setiap bar, simpan foto penandaan, lembar ukur, identitas alat, operator, dan keputusan. Sampling tidak boleh dipilih karena “satu batang sudah mewakili”; ukuran lot, karakteristik, dan aturan keputusan harus berasal dari ITP yang disetujui. Jika hasil berada di batas atau alat tidak memadai, eskalasi ke pemeriksa kompeten **[NEEDS GATE-04: rencana sampling dan keputusan lot]**.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Straightness dan Surface Condition pada Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan nominal dengan kondisi aktual. Ukuran pada label tidak memberi tahu bow, twist, atau kedalaman seam. Kesalahan kedua adalah mengukur satu ujung saja. Periksa sepanjang panjang dan pada lebih dari satu orientasi.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menghapus scale atau rust sebelum bukti awal direkam. Kesalahan keempat adalah memakai allowance sebagai alasan otomatis untuk menerima. Tanyakan: berapa stok minimum setelah semua operasi, di mana datum berada, dan siapa yang menyetujui asumsi tersebut?
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan kelima adalah mencampur hasil lot berbeda. Setiap perpindahan, pemotongan, atau penggabungan bundel harus mempertahankan identitas dan rekaman. Teman Besi.co.id, bila dokumen pemasok hanya menyebut “straight” atau “clean surface” tanpa metode, minta definisi, kondisi inspeksi, dan kriteria tertulis sebelum material masuk proses.
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang tampak hemat adalah menerima berdasarkan inspeksi visual lalu mencoba “meluruskan” di mesin. Ini bisa gagal karena penjepitan menyamarkan bow, twist baru muncul saat datum dibuat, dan seam atau pit dapat terbuka setelah stok berkurang. Alternatif yang lebih aman adalah membuat hold point: identifikasi lot, ukur dengan metode yang disepakati, dokumentasikan indikasi, lalu dapatkan disposisi teknis sebelum machining penuh.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Straightness dan surface condition pada bar stock harus dinilai sebagai dua kelompok bukti: geometri (bow dan twist) serta indikasi permukaan (scale, seam, rust), kemudian dihubungkan dengan machining allowance dan fungsi komponen. Sobat Besi.co.id, langkah berikutnya adalah meminta drawing atau spesifikasi pembelian, ITP penerimaan, metode ukur, dan aturan disposisi untuk lot yang meragukan. Simpan catatan pengukuran bersama dokumen pembelian. Bila perlu mengklarifikasi dokumen atau rute tindak lanjut, gunakan [halaman kontak Besi.co.id](/kontak). Tanpa dokumen itu, artikel ini tidak dapat menetapkan batas cacat; tahan keputusan dan minta tinjauan teknis yang berwenang.

@@ -1,9 +1,10 @@
 ---
 article_id: BAR-06-06
+writing_contract_version: "native-id-v2"
 title: "Application Claim Harus Dibuktikan oleh Project Basis"
 slug: "verifikasi-klaim-aplikasi-steel-bar"
 description: "Require exact use, load/environment/process, evidence, limits, responsible approval"
-status: outline
+status: draft
 publication_date: "2026-01-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -20,190 +21,97 @@ sources:
   - "https://www.iso.org/standard/73841.html"
   - "https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021"
   - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
-  - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
-  - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
   - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
   - "https://www.fhwa.dot.gov/bridge/inspection/"
-  - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Application Claim Harus Dibuktikan oleh Project Basis
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Klaim “steel bar ini cocok untuk aplikasi X” belum layak dipakai hanya karena nama material, foto, atau satu angka uji terlihat meyakinkan. Klaim aplikasi baru dapat dipertahankan jika penggunaan, beban, lingkungan, proses pemasangan, identitas material, dan keputusan desainnya terhubung dalam satu basis proyek yang dapat diaudit.
 
-- **Writer task:** Expand this file into one complete article answering: “Application Claim Harus Dibuktikan oleh Project Basis”
-- **Reader and situation:** Editor/sales team
-- **Reader outcome:** Require exact use, load/environment/process, evidence, limits, responsible approval
-- **Primary intent:** Control claims
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No generic suitability
-- **Final public route:** `/artikel/verifikasi-klaim-aplikasi-steel-bar.html`
-- **Appointed CMS date:** `2026-01-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi jawaban singkatnya: jangan menyetujui klaim sebelum ada project basis dan persetujuan pihak kompeten. Lembar data atau sertifikat dapat menjadi bukti identitas dan hasil uji pada sampel tertentu, tetapi bukan otomatis bukti kapasitas anggota struktur atau keselamatan sistem. Jika data proyek belum tersedia, tandai **[NEEDS GATE-01/02/03/04/06: project evidence and competent review]** dan tahan klaim pada level deskriptif.
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Application Claim Harus Dibuktikan oleh Project Basis**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-04
-
-- **Original sources:** [ISO 630-1:2021 — general delivery conditions for hot-rolled structural products](https://www.iso.org/standard/73841.html)
-- **Purpose for this article:** Separate a general structural-steel family from sheet/strip, tube, and the specific grades in other parts of the standard.
-- **Safe grounded facts:** A structural use label is not one universal product specification. Form, standard part, grade, supply condition, dimensions, and order requirements must remain linked.
-- **Limits:** Do not extract grades, chemistry, mechanical values, tolerances, or weldability from the abstract. Obtain the applicable ISO/SNI/ASTM/JIS product document and project specification through G-01/G-02.
-
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-06-04` → `/artikel/batas-panduan-besi-beton.html` — Besi Beton Bukan Artikel Desain Tulangan
-- `BAR-06-05` → `/artikel/temperatur-api-dan-baja.html` — Temperatur dan Api: Data yang Mengubah Pemilihan Baja
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Application Claim Harus Dibuktikan oleh Project Basis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling mahal adalah mengubah “pernah dipakai” menjadi “pasti sesuai”. Riwayat pemakaian, brosur, atau tensile strength yang dicetak tanpa konteks tidak menjawab apakah batang akan aman pada geometri, kombinasi beban, sambungan, dan kondisi lingkungan proyek Anda. ISO 6892-1 dan ISO 377 menjelaskan pengujian tarik serta pengambilan benda uji; keduanya tidak menggantikan spesifikasi produk dan verifikasi desain ([ISO 6892-1](https://www.iso.org/standard/78322.html), [ISO 377](https://www.iso.org/standard/72529.html), [amendemen ISO 377](https://www.iso.org/standard/89449.html)).
+
+Sebelum editor atau tim penjualan menulis “cocok”, mintalah jawaban tertulis atas empat hal: dipakai sebagai apa, memikul aksi apa, berada di lingkungan seperti apa, dan siapa yang menyetujui penggunaannya. Jawaban yang masih berupa “untuk konstruksi umum” berarti klaim belum memiliki batas operasi. Untuk konteks perusahaan dan layanan yang tersedia, pembaca dapat mulai dari [beranda Besi.co.id](/).
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Application Claim Harus Dibuktikan oleh Project Basis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, *application claim* berarti pernyataan yang menghubungkan produk steel bar dengan fungsi tertentu—misalnya elemen tarik, rangka, atau detail sambungan. *Project basis* adalah kumpulan fakta proyek dan dokumen yang membuat hubungan itu dapat diperiksa: gambar, spesifikasi, beban, kondisi tumpuan, urutan kerja, rekaman material, serta perhitungan dan persetujuan.
+
+Yang dibahas bukan daftar aplikasi yang “umumnya bisa” dan bukan desain pengganti insinyur. ISO 630-1 mengingatkan bahwa label baja struktural tetap perlu dikaitkan dengan bentuk produk, bagian standar, grade, kondisi pasokan, dimensi, dan persyaratan pesanan ([ISO 630-1](https://www.iso.org/standard/73841.html)). Karena itu, nama “steel bar” saja tidak cukup untuk menyimpulkan kecocokan.
+
+Jika Anda perlu memeriksa contoh identitas produk sebelum mengumpulkan dokumen proyek, gunakan [halaman batang AS S45C](/as-s45c) sebagai titik navigasi, bukan sebagai bukti kecocokan aplikasi.
+
+Regulasi bangunan dan standar desain juga merupakan lapisan berbeda. Rekaman PP 16/2021 dan halaman BSN untuk SNI 1729:2020 menunjukkan identitas/status dokumen publik, bukan isi seluruh perhitungan atau persetujuan proyek ([PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Application Claim Harus Dibuktikan oleh Project Basis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari fungsi, bukan dari stok. Tulis elemen yang dimaksud, lokasi, panjang bentang atau konfigurasi yang relevan, serta apakah batang bekerja sendiri atau menjadi bagian sistem. Kemudian catat aksi: beban tetap, berubah, siklik, benturan, temperatur, atau kombinasi lain yang memang ditetapkan proyek. Jangan mengisi angka yang belum diberikan.
+
+Langkah berikutnya adalah mengikat identitas material ke dokumen: heat atau batch, bentuk dan ukuran, grade, kondisi pengiriman, sertifikat, serta jejak pemotongan dan pengelasan. Nilai uji harus menyebut sumber spesimen, orientasi/lokasi, metode, kondisi, satuan, dan identitas produk. Hasil satu benda uji tidak membuktikan seluruh stok memenuhi syarat.
+
+Setelah itu, periksa antarmuka. Detail sambungan, las, baut, tumpuan, toleransi, proteksi korosi, dan urutan ereksi dapat mengubah perilaku sistem. Untuk struktur, peraturan dan standar yang berlaku harus diterjemahkan menjadi model, pemeriksaan kapasitas, stabilitas, jalur beban, serta kondisi sementara oleh perancang berwenang. **[NEEDS GATE-02/GATE-06: confirm governing rules, calculations, drawings, and approval for this project.]**
+
+Terakhir, tetapkan siapa yang berwenang menyetujui klaim dan bagaimana perubahan dicatat. Editor dapat memeriksa konsistensi dokumen; editor tidak mengesahkan kapasitas. Bila terjadi perubahan grade, dimensi, beban, detail, atau lingkungan, klaim harus ditinjau ulang.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Application Claim Harus Dibuktikan oleh Project Basis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Empat kelompok faktor biasanya memutus hubungan antara brosur dan proyek nyata:
+
+1. **Kondisi penggunaan.** Fungsi elemen, arah gaya, siklus pembebanan, akses inspeksi, dan konsekuensi kegagalan menentukan bukti yang diperlukan.
+2. **Lingkungan.** Kelembapan, korosi, temperatur, bahan kimia, api, atau paparan luar ruang memengaruhi spesifikasi proteksi dan pemeriksaan. Data material pada suhu ruang tidak otomatis mewakili perilaku pada kondisi lain.
+3. **Proses.** Pemotongan, pembentukan, pengelasan, perlakuan panas, penyimpanan, dan urutan pemasangan dapat mengubah kondisi awal. Rekaman proses dan kualifikasi pelaksana harus ditautkan ke detail yang dinilai.
+4. **Kualitas bukti.** Dokumen harus memiliki identitas, tanggal, revisi, metode, dan ruang lingkup laboratorium yang relevan. Status “berlaku” pada halaman katalog bukan pengganti pengecekan edisi yang diwajibkan kontrak.
+
+Untuk beban berulang atau risiko retak, tinjauan memerlukan riwayat penggunaan dan perubahan, detail tegangan, sejarah fabrikasi/las, korosi atau kerusakan, temuan dan perbaikan sebelumnya, akses, serta evaluasi kompeten. Rujukan FHWA tentang kelelahan dan inspeksi jembatan berguna sebagai kerangka pertanyaan, tetapi bukan aturan bangunan Indonesia atau dasar menghitung sisa umur ([manual fatigue/fracture FHWA](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [hub inspeksi FHWA](https://www.fhwa.dot.gov/bridge/inspection/)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Application Claim Harus Dibuktikan oleh Project Basis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua permintaan masuk ke tim penjualan.
+
+| Permintaan | Bukti minimum yang harus diminta | Keputusan komunikasi |
+|---|---|---|
+| “Bisa dipakai untuk bracing gudang?” | Gambar, fungsi batang, beban dan kombinasi, detail sambungan, grade/ukuran, serta perhitungan dan persetujuan perancang | Tawarkan pemeriksaan dokumen; jangan tulis “pasti aman”. |
+| “Batang ini kuat karena hasil tariknya tinggi” | Laporan uji lengkap, identitas heat/batch, metode dan sampling, lalu kecocokan dengan spesifikasi produk | Jelaskan nilai uji sebagai data sampel; jangan klaim kapasitas sistem. |
+| “Pakai di area pantai, sama saja dengan proyek lain” | Kelas paparan, sistem proteksi, inspeksi, umur rencana, dan batas pemeliharaan proyek ini | Minta kajian lingkungan; pengalaman proyek lain bukan bukti transfer otomatis. |
+
+Jika salah satu kolom kosong, respons aman adalah “data belum cukup untuk menyatakan kesesuaian; mohon project basis dan review”. Sobat Besi.co.id, kalimat bersyarat seperti ini lebih jujur sekaligus mudah diaudit daripada janji luas.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Application Claim Harus Dibuktikan oleh Project Basis”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Mengutip satu angka tanpa identitas.** Periksa nomor laporan, spesimen, metode, satuan, dan batch. Jika tidak ada, beri penanda **[NEEDS GATE-01: traceable test and product specification]**.
 
-## Objection or shortcut to address
+**Menganggap sertifikat sebagai desain.** Sertifikat mendukung identitas atau hasil pemeriksaan tertentu; ia tidak memeriksa jalur beban, stabilitas, sambungan, atau kondisi sementara. Cocokkan dengan gambar dan perhitungan yang disetujui.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+**Menyamakan bentuk produk.** Bar, plate, sheet, dan tube dapat berada pada keluarga standar berbeda. Pastikan bagian standar, grade, dimensi, dan kondisi pasokan sesuai pesanan.
 
-## Required conclusion
+**Memindahkan aturan asing tanpa batas.** Gunakan rujukan FHWA untuk daftar isu inspeksi jembatan saja. Untuk proyek Indonesia, konfirmasi regulasi, standar kontrak, dan tanggung jawab peninjau setempat.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+**Menghapus batas setelah perubahan.** Revisi beban, sambungan, proses, atau lingkungan memicu verifikasi ulang. Simpan matriks perubahan dan minta persetujuan ulang, bukan sekadar mengganti kalimat pemasaran.
 
-## Draft completion checklist
+## Jalan pintas yang perlu ditolak
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas yang sering dipilih adalah memakai template klaim lama: ganti nama proyek, pertahankan kalimat “cocok untuk semua struktur”, lalu lampirkan sertifikat yang sama. Cara ini gagal karena konteks beban, detail, dan lingkungan tidak ikut berpindah; bahkan metode uji hanya menjelaskan cara memperoleh nilai, bukan keputusan penerimaan.
+
+Alternatifnya, buat satu lembar *claim basis* per proyek. Isi fungsi dan batas penggunaan, daftar aksi dan lingkungan, identitas material, dokumen uji, asumsi yang masih kosong, pemilik keputusan, serta tanggal/revisi. Hentikan publikasi bila kolom konsekuensial belum terisi dan minta **[NEEDS GATE-03/GATE-04: current project evidence and competent review]**.
+
+## Kesimpulan
+
+Application claim harus dibuktikan oleh project basis: fakta penggunaan, beban dan lingkungan, proses, identitas material, bukti uji yang tertelusur, serta desain dan persetujuan yang relevan. Mulai sekarang, minta gambar dan spesifikasi proyek, laporan uji lengkap, detail sambungan/proses, lalu serahkan keputusan kapasitas dan keselamatan kepada pihak kompeten. Teman Besi.co.id, bila data atau peninjau belum ada, pertahankan kalimat pada “data belum cukup” dan jangan mengubahnya menjadi jaminan. Setelah dokumen proyek siap ditinjau, gunakan [halaman kontak Besi.co.id](/kontak) untuk meneruskan pertanyaan kepada tim yang tepat.

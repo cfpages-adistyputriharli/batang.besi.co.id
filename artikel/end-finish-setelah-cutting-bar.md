@@ -2,8 +2,9 @@
 article_id: BAR-07-06
 title: "Burr, Sharp Edge, dan End Finish setelah Cutting"
 slug: "end-finish-setelah-cutting-bar"
-description: "Explain deburring, chamfer/facing intent, inspection, handling, coating, identification"
-status: outline
+description: "Panduan mengendalikan burr, tepi tajam, dan hasil akhir ujung batang setelah cutting melalui deburring, pemeriksaan, penanganan, pelapisan, dan identifikasi."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-02-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,53 +15,19 @@ reader_address: "Teman Besi.co.id"
 final_route: "/artikel/end-finish-setelah-cutting-bar.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/78322.html"
-  - "https://www.iso.org/standard/72529.html"
-  - "https://www.iso.org/standard/89449.html"
   - "https://www.iso.org/standard/60321.html"
   - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
   - "https://www.cdc.gov/niosh/welding/about/index.html"
   - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Burr, Sharp Edge, dan End Finish setelah Cutting
 
-## Assignment lock
 
-- **Writer task:** Expand this file into one complete article answering: “Burr, Sharp Edge, dan End Finish setelah Cutting”
-- **Reader and situation:** Fabricator/receiver
-- **Reader outcome:** Explain deburring, chamfer/facing intent, inspection, handling, coating, identification
-- **Primary intent:** Control finish
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No acceptance value
-- **Final public route:** `/artikel/end-finish-setelah-cutting-bar.html`
-- **Appointed CMS date:** `2026-02-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Burr, Sharp Edge, dan End Finish setelah Cutting**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -71,141 +38,80 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Teman Besi.co.id! Setelah batang dipotong, pekerjaan belum selesai ketika panjangnya sudah sesuai. Burr (geram yang menonjol) dan sharp edge (tepi tajam) perlu dikendalikan sebelum batang dipindah, diukur ulang, dilapisi, atau dipasang. End finish yang benar bukan berarti semua ujung harus mengilap atau selalu dibuat chamfer; bentuk akhirnya mengikuti fungsi sambungan, cara penanganan, gambar kerja, dan prosedur yang disetujui.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Urutan amannya adalah mengenali hasil potong, menghilangkan geram yang membahayakan, membentuk ujung hanya jika memang diminta, memeriksa dimensi dan identitas, lalu melindungi serta mengemasnya. Standar untuk kualitas thermal cut membantu membahas karakteristik hasil potong, tetapi tidak memberi satu angka penerimaan yang berlaku untuk semua material dan pekerjaan. Kelas toleransi, metode ukur, dan keputusan terima-tolak harus berasal dari dokumen proyek yang berlaku [NEEDS GATE-01].
 
-### KR-01
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-07-04` → `/artikel/bendability-besi-beton-dan-bar.html` — Bendability Besi Beton dan Bar Tidak Bisa Ditebak
-- `BAR-07-05` → `/artikel/risiko-straightening-steel-bar.html` — Straightening Bar: Risiko Property dan Damage
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Burr, Sharp Edge, dan End Finish setelah Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Deburring adalah mengangkat bagian yang lepas atau menonjol dari proses potong. Caranya dapat berupa kikir, gerinda, sikat, atau proses lain yang disetujui, dengan sasaran membuat tepian aman dan tidak mengganggu fungsi. Chamfer adalah membuat bidang miring pada sudut ujung; facing adalah meratakan atau menyelesaikan muka ujung agar bidangnya memenuhi kebutuhan sambungan. Keduanya bukan sinonim deburring dan tidak otomatis wajib.
+
+Salah paham yang sering terjadi ialah menganggap “sudah dipotong” sama dengan “siap dipakai”, atau menggerinda sebanyak mungkin agar tampak halus. Penggerindaan berlebihan dapat mengubah panjang, ketegaklurusan, bentuk penampang, atau area yang seharusnya menjadi bidang tumpu. Sebaliknya, geram kecil yang dibiarkan bisa melukai tangan, mengganggu dudukan, menarik lapisan pelindung, atau menyulitkan pembacaan ukuran.
+
+Teman Besi.co.id, pisahkan tiga pertanyaan berikut saat menerima hasil cutting: apakah tepian aman disentuh dan dipindahkan, apakah muka ujung memenuhi fungsi sambungan, dan apakah identitas serta ukuran masih dapat diverifikasi? Jawaban “ya” pada pertanyaan pertama tidak membuktikan dua pertanyaan lainnya.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Burr, Sharp Edge, dan End Finish setelah Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Artikel ini membahas ujung batang setelah cutting, termasuk geram, tepi tajam, kemiringan muka, sisa panas atau oksida yang terlihat, pemeriksaan, penanganan, pelapisan, dan penandaan. Fokusnya adalah pengendalian finish pada tahap fabrikasi atau penerimaan.
+
+Yang tidak dibahas adalah nilai kekuatan, kapasitas struktur, komposisi material, atau angka toleransi universal. ISO 9013 dan amandemennya menyediakan kerangka untuk karakteristik thermal cut, sementara ISO 13920 membahas toleransi umum konstruksi las; keduanya tetap harus dicocokkan dengan jenis produk, ketebalan, gambar, dan proses yang dipakai ([ISO 9013:2017](https://www.iso.org/standard/60321.html), [Amd 1:2024](https://www.iso.org/standard/87851.html), [ISO 13920:2023](https://www.iso.org/standard/86032.html)). Sebuah standar umum tidak dengan sendirinya menjadi kriteria penerimaan untuk setiap batang.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Burr, Sharp Edge, dan End Finish setelah Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari dokumen: tandai nomor batang, material atau heat, panjang nominal, orientasi potong, dan kebutuhan ujung. Sebelum alat menyentuh benda kerja, pastikan apakah ujung akan dilas, disambung dengan baut, masuk ke lubang, menjadi permukaan tumpu, atau hanya dipindahkan sebagai stok. Fungsi itu menentukan apakah cukup deburring, perlu facing, atau perlu chamfer dengan ukuran yang ditentukan prosedur.
+
+Setelah pemotongan, biarkan kondisi aman untuk pemeriksaan awal sesuai prosedur kerja. Singkirkan slag atau partikel yang mudah lepas tanpa menghapus tanda identitas. Lakukan deburring secukupnya pada seluruh keliling, termasuk sisi yang sulit terlihat. Jika ada deformasi, retak tampak, lekukan, atau muka sangat miring, jangan menyamarkannya dengan gerinda. Pisahkan dan minta keputusan teknis.
+
+Untuk chamfer atau facing, gunakan alat dan jig yang menjaga sumbu serta panjang. Ukur setelah proses, bukan mengandalkan tampilan. Bila ujung akan dilas, bentuk bevel dan kebersihannya harus mengikuti WPS atau detail sambungan yang disetujui; artikel ini tidak menetapkan sudut atau celah. Bila ujung hanya untuk handling, tepi yang aman dan identitas yang terbaca biasanya menjadi prioritas.
+
+Tahap berikutnya adalah pemeriksaan visual dan dimensional, pembersihan, pelapisan bila ditentukan, lalu pengemasan. Lapisan tidak boleh menutupi area ukur atau marking yang dibutuhkan penerima. Catatan harus menghubungkan hasil dengan nomor potong atau heat agar satu potongan tidak tertukar dengan potongan lain.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Burr, Sharp Edge, dan End Finish setelah Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jenis proses memengaruhi tepian. Thermal cutting dapat meninggalkan perubahan warna, oksida, dross, dan zona terpengaruh panas; tingkatnya dipengaruhi material, ketebalan, parameter, serta kondisi mesin. Cutting mekanis dapat meninggalkan burr dengan arah berbeda. Karena itu, foto atau contoh dari satu mesin tidak cukup untuk menjanjikan hasil pada semua ukuran.
+
+Fungsi ujung juga penting. Permukaan tumpu memerlukan kerataan dan kebersihan yang berbeda dari ujung yang akan masuk ke selongsong. Ujung untuk pengelasan harus terlindung dari kontaminasi yang dilarang prosedur. Batang yang akan dicat memerlukan permukaan bersih dan kering sesuai sistem coating; gerinda yang meninggalkan serpihan atau tepi sangat tajam dapat merusak lapisan saat dipindah.
+
+Lingkungan kerja mengubah cara mengendalikan risiko. Debu dan asap dari pemanasan, coating, atau kontaminan perlu dinilai berdasarkan proses nyata, ventilasi, posisi kerja, dan pekerja di sekitar. NIOSH menjelaskan bahaya fumes pengelasan, sedangkan OSHA memetakan bahaya hot work seperti api, listrik, gas, dan paparan; sumber tersebut bukan pengganti batas paparan atau prosedur K3 Indonesia ([NIOSH](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA](https://www.osha.gov/welding-cutting-brazing/hazards-solutions)). Rencana kerja dan penilaian risiko tetap harus ditinjau personel kompeten sesuai konteks proyek [NEEDS GATE-02].
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Burr, Sharp Edge, dan End Finish setelah Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai cara berpikir, bukan sebagai nilai acceptance:
+
+| Kondisi ujung | Tindakan awal | Bukti yang perlu dicatat |
+| --- | --- | --- |
+| Geram lepas, panjang dan fungsi tidak berubah | Deburring ringan dan pembersihan | Nomor potong, alat/prosedur, pemeriksaan visual |
+| Ujung akan menjadi bidang tumpu | Verifikasi kebutuhan facing pada gambar | Metode ukur dan hasil terhadap dokumen proyek |
+| Ujung akan dilas atau disambung | Ikuti detail sambungan/WPS; jangan menebak chamfer | Revisi dokumen dan persetujuan teknis |
+| Muka miring, cekung, atau ada kerusakan tampak | Tahan, pisahkan, eskalasi | Foto/rekaman inspeksi dan keputusan disposition |
+| Marking hilang setelah finishing | Hentikan pengemasan, identifikasi ulang secara terkendali | Keterlacakan heat atau batch |
+
+Contoh bersyarat: bila penerima hanya membutuhkan batang dipotong untuk proses lanjutan dan gambar tidak meminta chamfer, jangan menambah chamfer atas inisiatif sendiri. Bila batang menjadi bagian dari sambungan yang memiliki detail ujung, deburring saja mungkin tidak cukup. Keputusan itu memerlukan gambar, spesifikasi produk, dan persetujuan yang dapat ditelusuri [NEEDS GATE-04].
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Burr, Sharp Edge, dan End Finish setelah Cutting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, operator memeriksa dengan sarung tangan lalu menyimpulkan tepi aman. Sarung tangan dapat menyembunyikan serpihan kecil. Lakukan pemeriksaan visual dengan pencahayaan memadai dan metode sentuh yang aman sesuai prosedur, tanpa mengorbankan keselamatan.
 
-## Objection or shortcut to address
+Kedua, gerinda menghapus garis potong sampai ukuran berkurang. Tetapkan titik ukur dan alat ukur sebelum finishing; catat siapa yang mengukur dan kapan. Jangan memakai toleransi dari kebiasaan bengkel jika gambar atau kontrak belum menetapkannya.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Ketiga, coating dilakukan sebelum identitas diverifikasi. Marking yang tertutup membuat penerima tidak bisa menghubungkan potongan dengan sertifikat atau daftar potong. Gunakan sistem penandaan yang kompatibel dengan coating dan inspeksi.
 
-## Required conclusion
+Keempat, batang ditumpuk segera setelah dipotong. Ujung panas, dross, atau tepi tajam dapat merusak batang lain dan melukai pengikat. Sediakan alas, pemisah, serta metode angkat yang dinilai risikonya. Pekerjaan baja dapat melintasi beberapa lingkup K3, sehingga satu daftar periksa generik tidak menggantikan sistem, personel kompeten, dan dokumen risiko yang sesuai pekerjaan. Permen PUPR 10/2021 dan ketentuan K3 lingkungan kerja dapat menjadi rujukan awal; judul peraturan saja tidak menentukan prosedur spesifik lokasi ([Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018](https://jdih.kemnaker.go.id/peraturan/detail/1546)).
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Kawan Besi.co.id, jika pemeriksa menemukan cacat yang mungkin memengaruhi sambungan atau keterlacakan, jangan “luluskan dengan catatan” tanpa dasar tertulis. Tahan barang, cocokkan dokumen revisi, dan minta review teknis yang berwenang [NEEDS GATE-06].
 
-## Draft completion checklist
+## Jalan pintas yang tampak praktis
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintasnya adalah menyamakan semua ujung dengan satu gerinda cepat lalu mengecatnya. Ini menghemat satu langkah pemeriksaan, tetapi bisa mengubah geometri, menutup cacat, menghasilkan debu, dan menghilangkan identitas. Alternatif yang lebih andal adalah menetapkan intent end finish per jenis penggunaan, melakukan pekerjaan minimum yang diperlukan, lalu memeriksa sebelum coating dan sebelum pengiriman.
+
+## Penutup
+
+Burr dan sharp edge dikendalikan dengan deburring yang cukup; chamfer atau facing hanya dilakukan bila fungsi dan dokumen memintanya. End finish yang baik dibuktikan oleh urutan kerja, ukuran yang dapat ditelusuri, permukaan yang sesuai proses berikutnya, penanganan aman, dan identitas yang tetap terbaca—bukan oleh kilap semata.
+
+Sebelum melepas batang ke proses berikutnya, minta gambar atau prosedur yang berlaku, cocokkan nomor potong dengan catatan material, dan dokumentasikan hasil inspeksi. Untuk konteks pekerjaan besi lain, Anda dapat mulai dari [beranda Besi.co.id](/), atau membaca rujukan umum tentang [besi beton](/besi-beton) bila materialnya terkait. Jika kriteria, kerusakan, atau metode K3 belum jelas, [hubungi tim Besi.co.id](/kontak) untuk meneruskan dokumen kepada koordinator teknis. Aturan operasinya sederhana: jangan mengubah ujung lebih jauh daripada yang dibutuhkan fungsi, dan jangan menyebutnya “sesuai” sebelum bukti proyek menyatakan demikian.

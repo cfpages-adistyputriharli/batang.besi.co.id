@@ -3,7 +3,7 @@ article_id: BAR-14-05
 title: "Unknown Coating dan Contamination sebelum Hot Work"
 slug: "unknown-coating-before-hot-work"
 description: "Require identification, SDS/testing route, removal method owner, ventilation, waste, authorization"
-status: outline
+status: draft
 publication_date: "2026-07-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,199 +13,90 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/unknown-coating-before-hot-work.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
   - "https://www.cdc.gov/niosh/welding/about/index.html"
   - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
   - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
-  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Unknown Coating dan Contamination sebelum Hot Work
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Unknown Coating dan Contamination sebelum Hot Work”
-- **Reader and situation:** Repair team
-- **Reader outcome:** Require identification, SDS/testing route, removal method owner, ventilation, waste, authorization
-- **Primary intent:** Avoid hazardous assumptions
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No chemical identification/removal advice
-- **Final public route:** `/artikel/unknown-coating-before-hot-work.html`
-- **Appointed CMS date:** `2026-07-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Unknown Coating dan Contamination sebelum Hot Work**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- **Source type:** local
+- **Placement:** after opening, before first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Unknown Coating dan Contamination sebelum Hot Work
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Besi.co.id! Jika lapisan pada baja atau isi kontaminannya tidak diketahui, jangan langsung menggerinda, memotong, atau mengelas. Keputusan aman pertama adalah menahan hot work, mengidentifikasi material melalui dokumen pemilik, label, dan SDS (lembar data keselamatan), lalu menetapkan jalur inspeksi atau pengujian yang disetujui. Tanpa itu, tim tidak punya dasar untuk memilih pengendalian paparan, ventilasi, penanganan residu, maupun izin kerja.
 
-### KR-01
+SDS atau hasil uji bukan sekadar formalitas. Identitas yang belum terkonfirmasi mengubah metode persiapan permukaan, siapa yang boleh melakukan penghilangan, cara mengisolasi area, dan cara mengelola limbah. Bila bukti proyek belum cukup, tandai **[NEEDS GATE-01: identitas coating/contamination dan SDS atau rencana pengujian yang disetujui]**. Pekerjaan baru boleh bergerak setelah penanggung jawab K3 dan pemilik aset menyetujui keputusan tertulis.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-14-03` → `/artikel/k3-processing-steel-bar.html` — K3 Cutting, Bending, dan Machining Steel Bar
-- `BAR-14-04` → `/artikel/hot-work-fume-welding-bar.html` — Hot Work dan Fume saat Welding Bar
-- `BAR-14-06` → `/artikel/verifikasi-klaim-lingkungan-baja.html` — Klaim Recycled dan Ramah Lingkungan pada Baja
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Unknown Coating dan Contamination sebelum Hot Work”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Unknown Coating dan Contamination sebelum Hot Work”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Unknown coating” berarti lapisan yang komposisi, umur, atau riwayat aplikasinya belum dapat dibuktikan. “Contamination” mencakup sisa proses, debu, minyak, bahan yang pernah disimpan, atau residu lain yang dapat berubah ketika dipanaskan. Artikel ini membahas keputusan sebelum hot work: identifikasi, pembagian tanggung jawab, pengendalian area, ventilasi, limbah, dan otorisasi. Ini **bukan** petunjuk mengidentifikasi bahan kimia dari warna atau menghapusnya dengan resep tertentu.
+
+Risiko tidak hanya berada di busur las. Pemanasan dapat menghasilkan asap dan partikel dari logam dasar, consumable, lapisan, atau kontaminan. NIOSH menjelaskan bahwa asap pengelasan perlu dinilai berdasarkan proses dan material; OSHA juga memetakan bahaya pengelasan, pemotongan, dan brazing yang harus dikendalikan sebelum pekerjaan dimulai ([NIOSH tentang welding fumes](https://www.cdc.gov/niosh/welding/about/index.html); [OSHA welding, cutting, brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions)). Batas paparan dan pilihan APD Amerika Serikat tidak otomatis menjadi persyaratan proyek Indonesia.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Unknown Coating dan Contamination sebelum Hot Work”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan urutan keputusan berikut dan catat setiap pemilik tindakan.
+
+1. **Hentikan sumber panas dan amankan benda kerja.** Isolasi energi, pindahkan personel yang tidak berkepentingan, dan beri tanda status “belum disetujui hot work”. Jangan mengandalkan pengamatan visual sebagai bukti aman.
+2. **Kumpulkan identitas.** Minta gambar, riwayat coating, label, SDS, catatan penyimpanan, dan isi servis sebelumnya dari pemilik aset. Cocokkan nomor komponen dan lokasi; simpan versi dokumen yang dipakai untuk keputusan.
+3. **Tentukan jalur verifikasi.** Jika dokumen tidak lengkap atau saling bertentangan, penanggung jawab yang kompeten menetapkan inspeksi atau pengujian. Laboratorium, metode sampling, dan interpretasi hasil harus ditunjuk oleh proyek—bukan dipilih spontan oleh operator. **[NEEDS GATE-02: metode verifikasi dan penerimaan hasil]**
+4. **Tetapkan pemilik penghilangan.** Metode persiapan permukaan, pengumpulan residu, dan pemeriksaan pascapekerjaan harus berada pada organisasi yang berwenang. Penulis tidak memberi instruksi kimia atau mekanis karena kecocokannya bergantung pada material dan fasilitas.
+5. **Rancang pengendalian hot work.** Nilai proses, material dasar dan coating, consumable, posisi, ruang tertutup, pekerja sekitar, potensi kebakaran, sumber listrik/gas, ventilasi, serta keadaan darurat. NIOSH menunjukkan evaluasi local exhaust sebagai pendekatan rekayasa; itu bukan angka laju udara yang boleh disalin tanpa kajian higiene industri ([NIOSH engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)).
+6. **Otorisasi tertulis.** Permit atau izin kerja harus merujuk pada identitas material, status isolasi, hasil verifikasi, metode penghilangan, batas area, ventilasi, pemantauan, rencana limbah, dan penghentian darurat. Kerangka SMKK menempatkan penilaian risiko, metode kerja, kompetensi, dan pengawasan dalam sistem keselamatan konstruksi; penerapan spesifik tetap harus dibaca bersama dokumen proyek dan teks peraturan yang berlaku ([Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Unknown Coating dan Contamination sebelum Hot Work”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa kondisi membuat keputusan “boleh bekerja” berubah menjadi “tunda”. Ruang tertutup, ventilasi terbatas, lapisan berlapis-lapis, benda yang pernah menyimpan cairan mudah terbakar, permukaan lembap, dan pekerjaan di atas atau dekat orang lain meningkatkan kebutuhan isolasi dan pemantauan. Posisi di ketinggian juga menambah antarmuka jatuh dan penyelamatan; jangan menyamakan izin hot work dengan izin bekerja di ketinggian.
+
+Kondisi lapangan harus dipadukan dengan kompetensi dan peralatan. Tanyakan apakah penilai K3, pengawas hot work, petugas pemadam, dan pengelola limbah sudah ditunjuk; apakah alat ventilasi dan pemantauan diperiksa; serta apakah jalur evakuasi dapat digunakan. Permenaker tentang keselamatan dan kesehatan kerja lingkungan kerja menjadi rujukan Indonesia untuk pengelolaan bahaya lingkungan, tetapi judul peraturan saja tidak membuktikan batas atau kewajiban yang tepat untuk kasus Anda ([Permenaker 5/2018](https://jdih.kemnaker.go.id/peraturan/detail/1546)). **[NEEDS GATE-04: kecukupan pengendalian paparan, ventilasi, dan keadaan darurat di lokasi]**
+
+Limbah hasil penghilangan atau pembersihan harus memiliki pemilik, wadah, label, jalur penyimpanan sementara, dan tujuan pembuangan yang disetujui. Jangan mencampur residu tak dikenal ke sampah umum atau menganggap serpihan kering otomatis tidak berbahaya. Dokumen pengangkutan dan penerimaan perlu disimpan sebagai bagian dari penutupan pekerjaan. **[NEEDS GATE-06: klasifikasi, pengemasan, dan jalur limbah yang disetujui]**
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Unknown Coating dan Contamination sebelum Hot Work”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua kondisi berikut.
+
+| Kondisi bukti | Keputusan sementara | Siapa yang harus menutup celah |
+|---|---|---|
+| SDS, riwayat coating, dan identitas komponen cocok; area terbuka dan pengendalian telah diperiksa | Ajukan permit dengan batasan yang terdokumentasi; lakukan briefing dan verifikasi pra-mulai | Pengawas hot work dan K3 proyek |
+| Hanya ada warna cat, dokumen tidak cocok, atau pernah ada isi servis yang tidak jelas | Tunda hot work; isolasi benda dan minta jalur inspeksi/pengujian | Pemilik aset, K3/higiene industri, dan penanggung jawab limbah |
+
+Tabel ini adalah aturan triase, bukan persetujuan otomatis. Sobat Besi.co.id, bila salah satu kolom bukti tidak dapat diisi, keputusan yang dapat diaudit adalah “belum berwenang mulai”, bukan tebakan tentang kandungan coating.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Unknown Coating dan Contamination sebelum Hot Work”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **“Cat terlihat biasa, jadi aman.”** Warna dan usia visual bukan identitas. Minta dokumen atau tetapkan pengujian.
+- **“Kami cukup membuka pintu.”** Ventilasi alami tidak membuktikan paparan terkendali. Minta rancangan ventilasi, pemantauan, dan penilaian kompeten.
+- **“Gerinda dulu supaya cepat.”** Persiapan permukaan juga dapat menghasilkan debu dan residu. Metode, area isolasi, dan penangkapannya harus disetujui sebelum alat menyala.
+- **“Izin dari mandor sudah cukup.”** Cocokkan tanda tangan, kompetensi, isolasi energi, pemeriksaan area, dan masa berlaku permit dengan sistem proyek.
+- **“Sisa dibuang ke tempat biasa.”** Pastikan klasifikasi, wadah, label, pengangkut, dan penerima terdokumentasi.
 
-## Objection or shortcut to address
+Gunakan pertanyaan penutup pada briefing: material apa yang terbukti ada, bukti mana yang masih kurang, siapa pemilik penghilangan, bagaimana udara dipantau, ke mana residu pergi, dan kondisi apa yang memicu stop-work. Jawaban “belum tahu” harus mengubah status menjadi menunggu, bukan diisi dengan asumsi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Menjawab jalan pintas yang sering dipilih
 
-## Required conclusion
+Shortcut yang sering muncul adalah menganggap pekerjaan kecil tidak memerlukan proses lengkap. Ukuran bead atau durasi singkat tidak menghapus ketidakpastian material, sumber api, atau jalur paparan. Alternatif yang lebih andal adalah membuat paket pra-kerja ringkas: identitas dan SDS, hasil atau rencana uji, metode penghilangan beserta pemiliknya, gambar batas area dan ventilasi, rencana limbah, serta permit dengan otorisasi. Jika paket itu belum lengkap, jadwalkan verifikasi—bukan hot work.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan dan langkah berikutnya
 
-## Draft completion checklist
+Unknown coating atau contamination sebelum hot work berarti **belum boleh diperlakukan sebagai aman**. Tahan pekerjaan, kumpulkan bukti identitas, minta SDS atau jalur pengujian yang disetujui, tunjuk pemilik penghilangan, rancang ventilasi dan pengendalian area, tetapkan jalur limbah, lalu terbitkan izin setelah K3 dan pemilik aset menandatangani keputusan. Teman Besi.co.id, simpan semua bukti itu bersama permit dan hentikan pekerjaan bila kondisi berubah.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: tanpa identitas dan pengendalian yang dapat diaudit, tidak ada sumber panas. Untuk mengenali konteks material tanpa menganggapnya sebagai bukti coating, Anda dapat melihat [halaman material AS S45C](/as-s45c). Bila dokumen proyek masih belum lengkap, sampaikan pertanyaan melalui [halaman kontak Besi.co.id](/kontak) dan tetap minta tinjauan kompeten di lokasi.

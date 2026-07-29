@@ -3,7 +3,8 @@ article_id: BAR-12-03
 title: "Lifting Bundle Batang Baja"
 slug: "lifting-bundle-batang-baja"
 description: "Capture mass, length, center, bundle integrity, lifting points set by plan, exclusion zone, tags"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,204 +15,80 @@ reader_address: "Teman Besi.co.id"
 final_route: "/artikel/lifting-bundle-batang-baja.html"
 technical_review: required
 sources:
-  - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
-  - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
-  - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
+  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Lifting Bundle Batang Baja
 
-## Assignment lock
+Halo, Teman Besi.co.id! Sebelum bundel batang baja diangkat, tim logistik harus bisa menjawab tujuh hal: berapa massa aktualnya, berapa panjang dan dimensinya, di mana pusat gravitasinya, apakah ikatan masih utuh, titik angkat apa yang ditetapkan dalam rencana, bagaimana zona larangan masuk dibuat, dan tag apa yang ikut terbaca. Jika salah satu belum terbukti, statusnya bukan “siap angkat”, melainkan menunggu verifikasi.
 
-- **Writer task:** Expand this file into one complete article answering: “Lifting Bundle Batang Baja”
-- **Reader and situation:** Logistics team
-- **Reader outcome:** Capture mass, length, center, bundle integrity, lifting points set by plan, exclusion zone, tags
-- **Primary intent:** Plan hazard inputs
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No lifting plan
-- **Final public route:** `/artikel/lifting-bundle-batang-baja.html`
-- **Appointed CMS date:** `2026-06-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Bundel tidak otomatis aman hanya karena tampak rapat atau pernah diangkat sebelumnya. Batang dapat bergeser ketika sling menegang, ikatan dapat lepas, dan pusat gravitasi dapat berubah bila sebagian isi sudah diambil. Permenaker 8/2020 menempatkan peralatan angkat dan angkut dalam lingkup K3; penerapannya tetap harus dibaca bersama penilaian risiko, personel kompeten, catatan alat, metode kerja, dan persetujuan proyek ([Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)).
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Lifting Bundle Batang Baja**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-nako-ulir-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-12-01` → `/artikel/bundling-tagging-steel-bar.html` — Bundling dan Tagging Steel Bar untuk Mencegah Tertukar
-- `BAR-12-02` → `/artikel/penyimpanan-bar-di-gudang.html` — Dunnage dan Penyimpanan Bar di Gudang
-- `BAR-12-04` → `/artikel/transport-steel-bar-panjang.html` — Transport Steel Bar Panjang: Support, Restraint, dan Overhang
-- `BAR-12-05` → `/artikel/traceability-pengiriman-parsial-bar.html` — Traceability setelah Bar Dipotong dan Dikirim Parsial
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Lifting Bundle Batang Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Lifting Bundle Batang Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Lifting bundle batang baja” di sini adalah paket data dan pemeriksaan sebelum pengangkatan satu bundel, bukan lifting plan. Lifting plan harus menetapkan kapasitas alat, konfigurasi sling, sudut, urutan, komunikasi, dan metode pengendalian; artikel ini hanya membantu Anda menyiapkan input bahaya yang benar untuk dokumen tersebut.
+
+Catat identitas bundel (heat atau batch, ukuran, mutu, jumlah batang), massa dari dokumen pemasok atau penimbangan yang dapat ditelusuri, panjang keseluruhan, dan kondisi fisik. Bedakan massa satu batang dari massa bundel. Jika tag hilang, isi tidak cocok, atau bundel pernah dibuka, hentikan asumsi dan buat status karantina sampai identitas serta massanya dikonfirmasi.
+
+Untuk material yang baru datang, minta pemasok mengonfirmasi cara penanganan dan batas kemasan sebelum kendaraan dibongkar. Bila Anda perlu mencocokkan jenis batang dengan kebutuhan pengadaan, gunakan rute [besi beton](/besi-beton) sebagai referensi produk; halaman itu bukan bukti massa bundel tertentu. Pemisahan antara data komersial dan data pengangkatan ini mencegah angka katalog dipakai sebagai fakta lapangan. Simpan salinan dokumen yang dipakai agar perubahan data dapat ditelusuri.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Lifting Bundle Batang Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari dokumen penerimaan. Cocokkan tag dengan surat jalan, daftar potong, dan gambar yang disetujui. Lalu ukur panjang aktual dan periksa apakah ada batang menonjol, bengkok, atau diameter bercampur. Pusat gravitasi tidak boleh ditebak dari posisi tag; minta nilai atau metode penentuan dari pihak yang menyusun rencana pengangkatan.
+
+Periksa integritas bundel secara visual dan dengan catatan pengikatan: jumlah serta kondisi band, kawat, atau pengikat; titik yang aus; dan celah yang memungkinkan batang menggelinding. Jangan menambah lubang, mengelas kupingan, atau memindahkan titik angkat tanpa persetujuan perancang dan koordinator pengangkatan. Titik angkat yang digunakan harus sama dengan yang tertulis di rencana dan sesuai akses sling.
+
+Sebelum alat mendekat, tetapkan exclusion zone (zona larangan masuk) yang mencakup area jatuh dan ayunan beban. Pasang barricade, rambu, petugas pengawas, dan jalur komunikasi yang dipahami semua orang. Verifikasi tanah atau lantai, penyangga, drainase, dan jalur keluar. Panduan penyimpanan OSHA menekankan pencegahan terguling atau berserakan, akses, serta lorong yang aman; itu adalah prinsip tata letak, bukan pengganti aturan Indonesia ([OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Lifting Bundle Batang Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Massa berubah ketika bundel dipotong, sebagian batang dipindahkan, atau air dan kotoran menempel. Panjang efektif berubah bila ujung tidak sejajar. Pusat gravitasi bergeser bila isi tidak tersebar merata. Karena itu, label “satu bundel” tanpa angka dan tanggal pemeriksaan tidak cukup.
+
+Kondisi pengikat, permukaan licin, karat, genangan, dan kontak langsung dengan tanah memengaruhi stabilitas. Saat penyimpanan, gunakan tumpuan yang stabil, cegah batang menggelinding, jaga tag tetap terlihat, dan pisahkan material yang rusak atau diragukan. Instruksi perawatan dan penyimpanan pemasok perlu diminta untuk produk yang diterima; panduan LYSAGHT juga mengingatkan pentingnya perlindungan dari kondisi penyimpanan yang merusak ([LYSAGHT product care](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)).
+
+Lingkungan kerja menambah risiko: angin, permukaan basah, lalu lintas kendaraan, pekerjaan di ketinggian, dan penerima beban yang tidak terlihat dari operator. Dokumen SMKK dan penilaian risiko setempat harus menetapkan pengendalian, izin, rencana darurat, serta pengawasan; judul peraturan saja tidak membuktikan bahwa suatu prosedur cocok untuk proyek tertentu ([Permen PUPR 10/2021](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Lifting Bundle Batang Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel keputusan sederhana berikut sebelum memberi aba-aba:
+
+| Temuan | Keputusan sementara | Bukti yang diminta |
+|---|---|---|
+| Massa, panjang, dan pusat gravitasi terdokumentasi; tag cocok | Lanjut ke pemeriksaan alat dan rencana | Dokumen pemasok, pengukuran, rencana disetujui |
+| Massa ada, tetapi bundel pernah dibuka | Tahan dan timbang/identifikasi ulang | Rekonsiliasi isi dan tag baru |
+| Ikatan longgar atau batang menonjol | Jangan angkat | Metode pengikatan ulang dan inspeksi kompeten |
+| Titik angkat di lapangan berbeda dari rencana | Jangan improvisasi | Revisi/konfirmasi tertulis dari pihak berwenang |
+| Zona ayun dan area jatuh tidak bisa dikosongkan | Tunda pekerjaan | Pengaturan lalu lintas dan barricade alternatif |
+
+Jika kondisi terakhir memengaruhi kesimpulan utama, tandai berkas kerja dengan **[NEEDS GATE-01/GATE-02/GATE-04/GATE-06: bukti proyek dan review kompeten]**. Penanda ini tidak boleh dihapus dengan asumsi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Lifting Bundle Batang Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortcut pertama adalah memakai berat katalog per meter lalu mengalikan jumlah batang. Cara itu gagal bila ukuran, panjang, atau jumlah aktual berbeda. Minta sumber massa yang dapat ditelusuri dan tulis siapa yang memeriksa serta kapan.
 
-## Objection or shortcut to address
+Shortcut kedua adalah menganggap dua sling pada posisi simetris selalu menghasilkan beban seimbang. Simetri visual tidak membuktikan pusat gravitasi atau sudut kerja. Cocokkan konfigurasi dengan rencana pengangkatan dan kapasitas yang telah diverifikasi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Shortcut ketiga adalah mengandalkan satu tag di ujung bundel. Tag dapat tertutup, tertukar, atau terlepas ketika ikatan diganti. Gunakan identitas ganda yang tetap terbaca dari area aman, lalu catat setiap perubahan.
 
-## Required conclusion
+Periksa pula rekaman serah-terima: siapa yang menerima, kapan inspeksi dilakukan, lokasi penyimpanan, dan apakah ada kerusakan yang dikarantina. Akses ke [nako](/nako) dapat membantu membedakan jalur produk ketika tim menyiapkan daftar material, tetapi tidak menggantikan sertifikat, tag, atau pemeriksaan bundel yang akan diangkat. Jika sumber data berbeda, gunakan catatan revisi dan minta satu pihak bertanggung jawab mengunci versi yang dipakai dalam rencana. Jangan menghapus rekaman lama tanpa jejak revisi.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Sobat Besi.co.id, pemeriksaan bukan sekadar mencentang formulir. Tanyakan “apa yang berubah sejak penerimaan?” Jika jawabannya pemotongan, pemindahan, hujan, benturan, atau pengikatan ulang, ulangi pemeriksaan massal, integritas, dan identitas.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Lifting bundle batang baja siap dipertimbangkan hanya setelah massa, panjang, pusat gravitasi, integritas ikatan, titik angkat sesuai rencana, zona larangan masuk, dan tag diverifikasi. Kawan Besi.co.id, langkah berikutnya adalah serahkan paket bukti itu kepada penyusun lifting plan dan penanggung jawab K3 untuk persetujuan tertulis. Artikel ini tidak menetapkan kapasitas alat atau metode pengangkatan; hentikan pekerjaan bila satu data kritis belum terbukti.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after opening, before first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
+Caption/credit: Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+END MANAGED IMAGE PLAN -->

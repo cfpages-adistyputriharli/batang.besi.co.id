@@ -3,7 +3,8 @@ article_id: BAR-10-05
 title: "NCR dan Traceability saat Bundle Dipotong"
 slug: "ncr-traceability-cut-bundle"
 description: "Cover piece marking, heat/batch transfer, segregation, deviation, disposition, records"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -25,184 +26,94 @@ sources:
   - "https://www.iso.org/standard/64622.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # NCR dan Traceability saat Bundle Dipotong
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Saat satu bundle batang besi dipotong menjadi beberapa batang atau potongan lebih pendek, masalah terbesar bukan bekas potongnya. Masalahnya adalah identitas material dapat terlepas: potongan tidak lagi jelas berasal dari heat atau batch mana, sertifikat tidak lagi dapat dicocokkan, dan NCR (nonconformance report, laporan ketidaksesuaian) menjadi sulit ditutup.
 
-- **Writer task:** Expand this file into one complete article answering: “NCR dan Traceability saat Bundle Dipotong”
-- **Reader and situation:** Fabricator
-- **Reader outcome:** Cover piece marking, heat/batch transfer, segregation, deviation, disposition, records
-- **Primary intent:** Preserve identity
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No disposition approval
-- **Final public route:** `/artikel/ncr-traceability-cut-bundle.html`
-- **Appointed CMS date:** `2026-04-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: jangan lepaskan potongan dari bundle sebelum tanda identitas dipindahkan dan dicatat. Pertahankan hubungan antara tanda pada bundle, potongan, dokumen inspeksi, dan catatan pemotongan. Jika identitas hilang, tahan material, lakukan segregasi, dan minta keputusan dari pihak berwenang proyek. Untuk menyamakan konteks material, Anda dapat melihat halaman [besi beton](/besi-beton); tautan itu bukan pengganti spesifikasi atau persetujuan proyek. Artikel ini membahas pengendalian identitas dan alur NCR; **bukan persetujuan disposition** (keputusan menerima, memperbaiki, atau menolak material).
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **NCR dan Traceability saat Bundle Dipotong**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-14
-
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-10-03` → `/artikel/measurement-plan-bar.html` — Measurement Plan untuk Dimensi dan Massa Bar
-- `BAR-10-04` → `/artikel/test-matrix-steel-bar.html` — Kapan Chemistry, Tensile, Hardness, atau NDT Dibutuhkan?
-- `BAR-10-06` → `/artikel/quality-dossier-steel-bar.html` — Quality Dossier Steel Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “NCR dan Traceability saat Bundle Dipotong”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “NCR dan Traceability saat Bundle Dipotong”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Traceability adalah kemampuan menelusuri setiap potongan kembali ke sumbernya secara konsisten. Pada bundle yang dipotong, sumber minimum biasanya berupa nomor heat atau batch, ukuran dan jenis produk, pemasok atau produsen, serta dokumen inspeksi yang menyertainya. Nomor itu harus terlihat pada benda atau pada label yang dikendalikan, bukan hanya tersimpan di spreadsheet.
+
+NCR dibuka ketika ada ketidaksesuaian terhadap pesanan, spesifikasi produk, gambar, prosedur, atau rencana inspeksi. Contohnya: tanda pada potongan tidak terbaca, jumlah potongan pada catatan berbeda dari fisik, atau material bercampur dengan bundle lain. NCR sendiri belum menetapkan apakah seluruh heat diterima atau ditolak; fakta, dampak, dan langkah penahanan perlu ditetapkan sebelum pihak berwenang mengambil keputusan.
+
+Sertifikat atau inspection document harus direkonsiliasi dengan pesanan, produsen, produk, heat/batch, dimensi, hasil uji, dan marking fisik. Prinsip rekonsiliasi ini sejalan dengan ruang lingkup [ISO 10474:2013 tentang inspection documents](https://www.iso.org/standard/53736.html). Dokumen tersebut memberi bukti administratif; dokumen itu sendiri tidak menggantikan pemeriksaan fisik atau persetujuan proyek.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “NCR dan Traceability saat Bundle Dipotong”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan alur berikut setiap kali bundle akan dibuka atau dipotong.
+
+1. **Bekukan identitas sebelum pekerjaan dimulai.** Foto atau salin marking yang ada, catat nomor bundle, heat/batch, ukuran, kuantitas, dan nomor dokumen. Cocokkan dengan daftar penerimaan dan pesanan. Bila satu elemen tidak cocok, tahan bundle dan buat NCR atau catatan penahanan sesuai prosedur proyek.
+2. **Buat rencana pemotongan yang dapat diaudit.** Beri nomor potongan atau nomor bar baru sebelum gergaji bekerja. Catat panjang rencana, jumlah, operator, tanggal, alat, dan referensi gambar atau work order. Nomor baru harus memiliki kolom “berasal dari” yang menunjuk ke bundle dan heat asal.
+3. **Transfer marking secara fisik.** Pindahkan heat/batch dan nomor potongan ke setiap hasil potong dengan metode yang diizinkan prosedur (misalnya label tahan proses atau marking permanen). Jangan mengandalkan label yang mudah terlepas tanpa pemeriksaan ulang. Jika permukaan tidak memungkinkan, gunakan tag yang terikat dan catat lokasi penyimpanannya.
+4. **Pisahkan status material.** Area “released”, “hold”, dan “rejected” harus jelas. Potongan dari bundle berbeda tidak boleh berada dalam satu tumpukan tanpa pemisah dan label. Kawan Besi.co.id, segregasi adalah penghalang pertama agar material yang belum jelas identitasnya tidak masuk fabrikasi berikutnya.
+5. **Verifikasi setelah potong.** Pemeriksa mencocokkan marking fisik, daftar potongan, sisa bundle, dan dokumen inspeksi. Perbedaan jumlah, berat, ukuran, atau tulisan menjadi temuan yang harus ditelusuri, bukan dibulatkan agar tabel terlihat rapi.
+6. **Tutup jejak dokumen.** Simpan catatan pemotongan, log transfer marking, foto bila diwajibkan, hasil pemeriksaan, NCR, dan keputusan disposition yang telah disetujui. Tautkan nomor revisi dokumen dan siapa yang memeriksa.
+
+Saat ada pengujian, identitas spesimen juga harus mengikuti potongan. [ISO 377:2017](https://www.iso.org/standard/72529.html) dan amendemennya [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html) menempatkan asal, lokasi, orientasi, dan persiapan spesimen sebagai bagian penting dari keterlacakan. Itu sebabnya satu nilai tensile tidak boleh dipindahkan ke semua potongan tanpa aturan sampling dan identitas yang jelas. Metode pengujian tarik pada [ISO 6892-1:2019](https://www.iso.org/standard/78322.html) menjelaskan cara uji; persyaratan penerimaan tetap berasal dari spesifikasi produk dan kontrak yang berlaku.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “NCR dan Traceability saat Bundle Dipotong”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa kondisi membuat alur sederhana di atas tidak cukup.
+
+- **Bundle dibagi ke beberapa work order.** Setiap turunan harus punya hubungan satu-ke-satu atau satu-ke-banyak yang terdokumentasi. Jangan memakai nomor potongan yang sama untuk dua tujuan.
+- **Marking terhapus saat handling atau blasting.** Hentikan perpindahan. Tandai sebagai hold dan pulihkan identitas dari catatan yang masih sah hanya setelah pemeriksaan kompeten. Jika asal tidak dapat dibuktikan, sisakan penanda `[NEEDS GATE-01: verifikasi identitas material dan keputusan proyek]`.
+- **Sertifikat mencakup lebih dari satu heat.** Pastikan baris heat yang benar dipilih; jangan menganggap semua bundel di pengiriman memiliki hasil uji identik.
+- **Potongan dipakai sebagai spesimen uji.** Catat siapa mengambil spesimen, dari potongan mana, metode, kondisi, unit, dan laboratorium. [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html) relevan untuk kompetensi laboratorium, tetapi akreditasi tidak dengan sendirinya membuktikan item tertentu memenuhi spesifikasi.
+- **Ada pemeriksaan NDT pada sambungan atau permukaan.** Catatan perlu mengidentifikasi objek, metode/teknik, prosedur, personel, peralatan dan kalibrasi, cakupan, temuan, kriteria, hasil, dan disposition. Kerangka umum tersedia di [ISO 17635:2025](https://www.iso.org/standard/85705.html), sedangkan kualifikasi personel dibahas dalam [ISO 9712:2021](https://www.iso.org/standard/75614.html). Pemilihan metode, extent, dan acceptance level tetap menunggu rencana inspeksi yang disetujui.
+- **Pemeriksaan berbasis sampling.** Lot, karakteristik, metode, pemilihan sampel, frekuensi, aturan keputusan, tanggung jawab, dan jalur NCR harus tertulis. [ISO 2859-1:2026](https://www.iso.org/standard/85464.html) dan pengantar serinya [ISO 28590:2017](https://www.iso.org/standard/64622.html) tidak boleh dipakai untuk menebak ukuran sampel atau AQL tanpa standar produk dan ITP proyek.
+
+Jika salah satu kondisi ini menyentuh penerimaan material, minta competent review dan simpan penanda `[NEEDS GATE-02/GATE-04/GATE-06/GATE-08: konfirmasi persyaratan proyek]` sampai bukti tersedia.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “NCR dan Traceability saat Bundle Dipotong”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan satu bundle memiliki marking heat yang terbaca. Setelah dipotong, enam potongan diberi nomor P-01 sampai P-06; dua potongan tidak memiliki label karena tag terlepas. Keputusan aman bukan menebak dari posisi tumpukan. Tahan dua potongan, cocokkan panjang dan urutan kerja dengan log, lalu minta pemeriksa mengonfirmasi apakah hubungan ke heat dapat dibuktikan. Jika ya, catat metode pemulihan dan verifikasinya. Jika tidak, buka atau pertahankan NCR dan tunggu disposition tertulis.
+
+Gunakan tabel keputusan ringkas ini di titik pemeriksaan:
+
+| Temuan | Tindakan langsung | Bukti yang harus ada |
+|---|---|---|
+| Marking dan dokumen cocok | Rilis sesuai prosedur | Checklist, nomor potongan, pemeriksa |
+| Marking pudar tetapi asal dapat dibuktikan | Hold, pulihkan marking, verifikasi ulang | Foto/catatan asal, log transfer, otorisasi |
+| Asal potongan tidak dapat dibuktikan | Segregasi dan NCR | Label hold, NCR, keputusan disposition |
+| Hasil uji tidak cocok dengan identitas | Hentikan penggunaan terkait | Laporan uji, chain of identity, review teknis |
+
+Contoh ini adalah skenario bersyarat, bukan klaim hasil proyek. Jangan merilis material hanya karena jumlah potongannya benar; identitas dan kriteria penerimaannya harus sama-sama terbukti.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “NCR dan Traceability saat Bundle Dipotong”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan yang sering terjadi adalah menyalin nomor heat ke daftar baru tanpa memeriksa benda, menggabungkan sisa dua bundle karena ukurannya sama, atau menganggap sertifikat pemasok sebagai bukti bahwa setiap potongan telah diverifikasi. Periksa dengan pertanyaan berikut:
 
-## Objection or shortcut to address
+- Apakah setiap potongan mempunyai nomor unik dan hubungan eksplisit ke bundle asal?
+- Apakah marking fisik terbaca setelah pemotongan, pemindahan, dan proses permukaan?
+- Apakah jumlah potongan, sisa, dan catatan pemakaian menjelaskan seluruh kuantitas?
+- Apakah dokumen inspeksi menyebut produsen, produk, heat/batch, dimensi, dan uji yang benar?
+- Jika ada uji, apakah spesimen, metode, kondisi, unit, dan laboratorium tercatat?
+- Apakah status hold/released/rejected terlihat di lapangan dan di catatan digital?
+- Apakah NCR memuat penahanan, penelusuran fakta, tindakan yang disetujui, verifikasi, dan tautan ke disposition sesuai prosedur proyek?
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sobat Besi.co.id, tanda tangan pada formulir bukan pengganti jawaban atas pertanyaan-pertanyaan itu. Bila satu jawaban “tidak”, hentikan langkah berikutnya dan eskalasi sesuai ITP atau prosedur mutu.
 
-## Required conclusion
+## Jalan pintas yang perlu ditolak
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang tampak hemat waktu adalah menulis “sama dengan bundle sebelumnya” pada semua potongan, lalu menutup NCR setelah label baru ditempel. Cara ini dapat gagal karena label baru tidak membuktikan asal; ia hanya menyatakan apa yang ditulis. Tanpa chain of identity, hasil uji atau sertifikat dapat tertukar, dan pemeriksa tidak punya dasar untuk menentukan populasi yang terdampak.
 
-## Draft completion checklist
+Alternatif yang lebih andal adalah membuat transfer marking sebagai langkah wajib sebelum potong, melakukan verifikasi oleh orang kedua, dan menahan semua potongan yang memiliki celah identitas. Keputusan menerima, memperbaiki, atau menolak tetap berada pada pemilik kewenangan proyek; penulis catatan traceability tidak boleh mengambil disposition sendiri.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+NCR dan traceability saat bundle dipotong bertujuan menjaga satu rantai identitas: bundle asal → nomor potongan → marking fisik → dokumen inspeksi dan uji → status material. Kunci praktisnya adalah transfer marking sebelum potong, segregasi status, rekonsiliasi dokumen, dan catatan yang dapat diaudit.
+
+Langkah berikutnya, minta tim mutu meninjau satu contoh log pemotongan lengkap bersama bundle fisiknya dan cocokkan dengan ITP, spesifikasi produk, serta kewenangan disposition. Bila perlu koordinasi lanjutan, gunakan [halaman kontak](/kontak) tanpa menganggapnya sebagai persetujuan teknis. Jika identitas tidak dapat dibuktikan, pertahankan hold dan marker `[NEEDS TECHNICAL REVIEW: disposition dan persyaratan penerimaan belum ditetapkan]`. Aturan operasinya sederhana: material boleh bergerak hanya ketika identitas dan statusnya terbaca serta dapat ditelusuri.
+
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Placement: after opening, before first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
+Caption/credit: Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+END MANAGED IMAGE PLAN -->

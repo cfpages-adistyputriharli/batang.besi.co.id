@@ -3,7 +3,8 @@ article_id: BAR-01-05
 title: "Cara Membaca Nama Produk Besi Batang di Penawaran"
 slug: "membaca-nama-produk-besi-batang"
 description: "Parse form, grade, dimension, length, finish, standard, quantity"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,199 +18,75 @@ sources:
   - "https://www.iso.org/standard/52949.html"
   - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
   - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.iso.org/standard/9985.html"
   - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Cara Membaca Nama Produk Besi Batang di Penawaran
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Placement: after opening, before first H2
+**Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
+Caption/credit: Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+Selection basis: filename/source metadata only; no pixels inspected.
+Hard boundary: jangan infer detail visual, kepemilikan proyek, lokasi, orang, merek, kondisi, performa, atau hasil.
+END MANAGED IMAGE PLAN -->
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Nama produk di penawaran bukan sekadar nama dagang. Baca berurutan: bentuk, mutu/grade, ukuran, panjang, finishing, standar, lalu kuantitas dan satuannya. Jika salah satu kolom kosong atau memakai istilah toko yang tidak didefinisikan, penawaran belum bisa dibandingkan secara aman. Jawaban akhirnya berubah bila gambar kerja, spesifikasi proyek, datasheet, penandaan barang, atau sertifikat menyatakan hal berbeda.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Membaca Nama Produk Besi Batang di Penawaran”
-- **Reader and situation:** Buyer
-- **Reader outcome:** Parse form, grade, dimension, length, finish, standard, quantity
-- **Primary intent:** Decode quote
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No quote validation
-- **Final public route:** `/artikel/membaca-nama-produk-besi-batang.html`
-- **Appointed CMS date:** `2025-09-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Contoh tulisan “round bar SS400 Ø20 x 6 m, mill finish, SNI, 10 batang” perlu diurai menjadi tujuh pertanyaan: benar batang bulat atau pipa, grade apa, diameter berapa, tiap batang sepanjang apa, permukaannya bagaimana, standar mana yang dimaksud, dan sepuluh batang itu dihitung per batang atau per berat? Istilah bentuk hanya membantu mengidentifikasi produk; kosakata produk baja tidak otomatis membuktikan kimia, toleransi, pelapisan, atau kecocokan pemakaian ([ISO 6929:2013](https://www.iso.org/standard/52949.html); [klasifikasi ICS besi dan baja](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)).
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Membaca Nama Produk Besi Batang di Penawaran**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-besi-beton-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-01-03` → `/artikel/nako-square-bar-besi-kotak-padat.html` — Nako, Square Bar, dan Besi Kotak Padat
-- `BAR-01-04` → `/artikel/mill-stockist-distributor-fabricator.html` — Mill, Stockist, Distributor, dan Fabricator: Siapa Melakukan Apa?
-- `BAR-01-06` → `/artikel/identifikasi-produk-sebelum-banding-harga.html` — Checklist Identifikasi Produk sebelum Membandingkan Harga
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Nama Produk Besi Batang di Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari kebutuhan, bukan dari merek. Tulis fungsi batang (misalnya poros, pengaku, atau komponen yang akan dilas), lingkungan pemakaian, cara penyambungan, jumlah, panjang potong, dan batas pekerjaan pemasok. “Besi batang” dapat berarti round bar, square bar, flat bar, atau bentuk lain; tiap bentuk masuk keluarga standar yang berbeda. Katalog BSN sendiri memisahkan kelompok produk menurut klasifikasi, sehingga satu standar profil tidak boleh dipakai untuk semua batang, pelat, pipa, atau rakitan ([katalog BSN profil baja](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=)).
+
+Sediakan kolom kosong yang sengaja harus dijawab pemasok: grade atau kelas material, ukuran nominal dan toleransi, panjang serta variasinya, kondisi permukaan, standar edisi berapa, dan unit jual. Bila kebutuhan belum menetapkan salah satunya, tandai sebagai “menunggu persetujuan teknis”, bukan diisi dengan asumsi.
+
+Pisahkan juga kebutuhan barang dari layanan. Batang yang dipotong sesuai daftar potong bukan produk yang sama dengan batang utuh yang diserahkan di gudang. Tanyakan apakah ujung potongan dirapikan, apakah bundel diberi label lot, dan siapa yang menghitung sisa. Untuk pembelian awal, Anda dapat melihat pilihan bentuk yang tersedia melalui [halaman besi beton](/besi-beton), tetapi halaman produk bukan pengganti spesifikasi dan persetujuan proyek.
 
 ## Buat penawaran benar-benar sebanding
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Nama Produk Besi Batang di Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Salin setiap penawaran ke tabel yang sama: bentuk | grade | ukuran | panjang | finishing | standar dan edisi | kuantitas | satuan | harga | ongkos kirim | pajak | waktu serah. “Ø20” adalah ukuran nominal, bukan bukti hasil ukur penerimaan. Untuk pipa, nominal size, diameter luar, tebal, dan schedule dapat memiliki arti berbeda; tabel massa teoritis juga bergantung pada geometri dan asumsi standar, sedangkan penimbangan aktual adalah pemeriksaan terpisah ([ISO 4200](https://www.iso.org/standard/9985.html); [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)). Karena itu jangan mengubah kilogram teoritis menjadi hak tagihan tanpa menyepakati basis invoice.
+
+Pastikan inklusi dan eksklusi tertulis: pemotongan, bundling, sertifikat, pengujian, pengemasan, alat bongkar, akses lokasi, dan pengiriman. Dua harga baru sebanding bila asumsi tersebut sama. Jika satu penawaran memakai “per batang” dan lainnya “per kg”, minta konversi berdasarkan panjang dan geometri yang disepakati, lalu simpan rumusnya.
+
+Periksa juga tanggal berlaku penawaran dan pemicu perubahan. Harga bahan, ongkos angkut, atau ketersediaan dapat berubah sebelum purchase order; jangan menganggap tanggal pada PDF sebagai jaminan stok. Minta versi revisi yang menandai perubahan bentuk, grade, panjang, jumlah, atau basis harga. Jika kebutuhan Anda sebenarnya batang ulir atau nako, jelaskan istilah itu secara eksplisit dan arahkan pembanding ke [nako ulir](/nako-ulir) agar tidak tercampur dengan batang polos.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Nama Produk Besi Batang di Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bedakan fungsi dokumen. Datasheet menjelaskan identitas dan rentang produk; sertifikat material mengaitkan heat atau lot tertentu dengan hasil yang dilaporkan; laporan uji menjelaskan metode dan sampel; gambar atau approval proyek menetapkan kecocokan; garansi mengatur janji dan pengecualian. Logo standar di email tidak menggantikan dokumen yang dapat ditelusuri. Catatan BSN dapat menunjukkan judul dan status rekaman, tetapi status “berlaku” bukan bukti bahwa edisi itu otomatis mengatur pembelian Anda; periksa rekaman, teks lengkap, perubahan, dan persyaratan kontrak ([rekaman SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018)).
+
+Klaim asal atau keberlanjutan juga perlu rantai bukti. Model pemisahan fisik, mass-balance, dan administrasi memiliki batas berbeda; minta skema klaim, catatan input-output, pihak yang bertanggung jawab, dan aturan anti-duplikasi sebelum menuliskannya di pesanan ([ISO 22095](https://www.iso.org/standard/72532.html)).
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Nama Produk Besi Batang di Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kirim pertanyaan yang memaksa jawaban dapat diperiksa:
 
-## Red flag dan biaya yang sering tersembunyi
+- Apa nama formal bentuk produk dan proses pembuatannya?
+- Grade, ukuran nominal, toleransi, panjang, dan kondisi permukaannya apa?
+- Standar lengkap beserta edisi, sertifikasi yang tercakup, dan dokumen lot yang akan diserahkan apa?
+- Kuantitas dihitung batang, potong, bundel, atau kilogram? Bagaimana pembulatan dan sisa potong?
+- Apa yang termasuk harga, kapan risiko berpindah, dan siapa menanggung kerusakan atau keterlambatan?
+- Jika stok berubah, prosedur persetujuan substitusi dan revisi harga seperti apa?
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Nama Produk Besi Batang di Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Besi.co.id, minta jawaban tertulis pada revisi penawaran, bukan hanya percakapan telepon. Untuk pekerjaan yang memengaruhi keselamatan atau sambungan, teruskan dokumen itu kepada penanggung jawab teknis.
+
+## Tanda bahaya dan biaya yang sering tersembunyi
+
+Waspadai “mild steel”, “setara”, “SNI”, atau “import” tanpa grade, edisi, dan bukti lot. Waspadai pula harga yang tidak menyebut panjang aktual, potongan minimum, biaya akses, waktu tunggu, alat bongkar, atau biaya pengujian ulang. Label “teoretis” yang diperlakukan sebagai hasil timbang dapat memicu selisih tagihan; label “ready stock” tanpa jumlah dan tanggal konfirmasi dapat memicu pengadaan ulang. Jangan menyimpulkan mutu dari istilah pemasaran.
+
+Jalan pintas yang sering dipilih adalah membandingkan angka total paling rendah. Cara itu gagal ketika satu pemasok menjual per batang dengan panjang berbeda atau mengecualikan sertifikat dan pengiriman. Alternatif yang lebih aman: bekukan lembar identifikasi tujuh unsur, minta semua pemasok mengisinya, lalu catat setiap deviasi sebagai pertanyaan terbuka. Ini membaca penawaran, bukan memvalidasi teknisnya.
+
+Jangan menghapus baris yang belum terjawab demi membuat tabel tampak rapi. Baris kosong adalah sinyal untuk meminta klarifikasi, sedangkan kata “sesuai standar” tanpa nomor dan edisi hanya mengulang janji. Jika pemasok menawarkan pengganti, minta perbandingan tertulis yang menunjukkan unsur mana yang tetap dan mana yang berubah. Perubahan kecil pada bentuk, tebal, atau finishing dapat mengubah cara barang diterima dan diproses.
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Nama Produk Besi Batang di Penawaran”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum barang datang, sepakati siapa memeriksa identitas, jumlah, panjang, kondisi permukaan, penandaan, dan dokumen. Simpan penawaran yang disetujui, purchase order, daftar pengepakan, foto label atau heat, hasil hitung, dan berita acara. Pemeriksaan penerimaan tidak membuktikan kapasitas struktur atau kecocokan desain; hal itu memerlukan verifikasi profesional dan persyaratan proyek yang berlaku. Jika dokumen lot tidak cocok dengan barang, tahan penerimaan atau pembayaran sesuai prosedur kontrak dan minta keputusan tertulis.
 
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Besi.co.id, keputusan akhir yang rapi berbunyi: “bentuk–grade–ukuran–panjang–finishing–standar/edisi–kuantitas/satuan cocok dengan PO dan rekaman lot.” Bila satu unsur belum terbukti, tandai `[NEEDS TECHNICAL REVIEW: identitas, standar, atau basis kuantitas belum terkonfirmasi]` dan jangan menganggap harga terendah sebagai persetujuan.

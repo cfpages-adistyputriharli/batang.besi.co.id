@@ -3,7 +3,8 @@ article_id: BAR-04-06
 title: "Cut Length, End Condition, dan Allowance"
 slug: "cut-length-end-condition-allowance"
 description: "Cover length basis, kerf, facing, burr, squareness, identification, waste"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,195 +15,95 @@ reader_address: "Teman Besi.co.id"
 final_route: "/artikel/cut-length-end-condition-allowance.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
   - "https://www.iso.org/standard/60321.html"
   - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
-  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://www.iso.org/standard/85464.html"
-  - "https://www.iso.org/standard/64622.html"
-  - "https://www.iso.org/standard/66912.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cut Length, End Condition, dan Allowance
 
-## Assignment lock
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+**Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
+Placement: after opening answer, before first detailed H2
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+END MANAGED IMAGE PLAN -->
 
-- **Writer task:** Expand this file into one complete article answering: “Cut Length, End Condition, dan Allowance”
-- **Reader and situation:** Fabricator
-- **Reader outcome:** Cover length basis, kerf, facing, burr, squareness, identification, waste
-- **Primary intent:** Specify cut pieces
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No cutting parameter
-- **Final public route:** `/artikel/cut-length-end-condition-allowance.html`
-- **Appointed CMS date:** `2025-11-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Halo, Teman Besi.co.id! Potongan batang yang “panjangnya sudah sesuai” belum tentu siap dirakit. Panjang harus punya basis ukur yang jelas, ujung harus memenuhi kondisi yang diminta, dan allowance harus dipisahkan dari sisa proses. Jika tiga hal ini ditulis sebagai satu angka tanpa keterangan, operator dapat memotong terlalu pendek, QC menolak karena burr atau kemiringan, dan material habis untuk mengulang pekerjaan.
 
-## Opening instructions
+Jawaban singkatnya: tetapkan **cut length** sebagai ukuran akhir atau ukuran sebelum proses lanjutan, nyatakan **end condition** (misalnya ujung hasil potong, facing, chamfer, atau deburring), lalu tentukan **allowance** yang memang dibutuhkan oleh proses dan inspeksi. Kerf, penyimpangan squareness, dan burr bukan otomatis “tambahan panjang”; semuanya harus dijawab oleh gambar kerja, prosedur, dan persetujuan proyek. Kemampuan serta kelas kualitas pemotongan termal perlu dikaitkan dengan material, tebal, tepi, pengukuran, dan fungsi downstream; ISO 9013:2017 dan amendemennya adalah rujukan identitas teknis untuk topik tersebut, bukan izin memilih toleransi secara bebas ([ISO 9013:2017](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html)).
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cut Length, End Condition, dan Allowance**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-04-04` → `/artikel/berat-teoritis-vs-aktual-besi.html` — Berat Teoritis vs Berat Aktual Besi Batang
-- `BAR-04-05` → `/artikel/straightness-surface-bar-stock.html` — Straightness dan Surface Condition pada Bar Stock
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cut Length, End Condition, dan Allowance”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Aset lokal proyek; bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Cut Length, End Condition, dan Allowance”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Cut length** adalah panjang yang harus diterima pada tahap yang disebut di dokumen. “600 mm” dapat berarti panjang setelah potong, atau blank 600 mm sebelum facing. Kedua basis itu menghasilkan instruksi berbeda. **End condition** menjelaskan keadaan kedua ujung: tegak lurus terhadap sumbu, bebas burr tajam, sudah difacing, diberi chamfer, atau dibiarkan sebagai-cut bila memang diizinkan. **Allowance** adalah material yang sengaja disisakan untuk proses berikutnya, bukan toleransi yang boleh hilang tanpa batas.
+
+Artikel ini membahas cara menulis dan memeriksa permintaan potongan. Ia tidak menetapkan parameter mesin, kecepatan, arus, panas, atau resep pemotongan. Ia juga bukan pengganti gambar IFC/shop drawing, WPS/prosedur fabrikasi, rencana inspeksi, atau persetujuan engineer. Untuk toleransi dimensi dan kondisi tepi yang konsekuensial, [NEEDS GATE-01: konfirmasi gambar/prosedur proyek dan competent review sebelum nilai toleransi dikunci]. Standar umum untuk konstruksi las pun tidak otomatis berlaku pada setiap batang atau setiap tahap pemesinan; ruang lingkup dan kelas toleransinya harus diperiksa pada dokumen penuh ([ISO 13920:2023](https://www.iso.org/standard/86032.html)). Untuk konteks dokumen dan rujukan umum, Anda dapat mulai dari [beranda Besi.co.id](/).
+
+Jika kebutuhan Anda bergeser ke material beton bertulang, [lihat rute besi beton](/besi-beton) untuk konteks produk yang berbeda. Untuk batang baja, [pilihan besi as](/as-s45c) memberi titik mulai navigasi produk.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Cut Length, End Condition, dan Allowance”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari fungsi komponen. Tanyakan: panjang mana yang menentukan jarak antar-komponen, dan permukaan mana yang benar-benar menjadi datum? Dari jawaban itu, pilih satu basis ukur dan tuliskan di drawing atau cut list.
+
+Urutan yang mudah diaudit biasanya seperti ini:
+
+1. **Identifikasi bahan dan stock.** Catat heat/lot, ukuran nominal, dan nomor batang sebelum dipotong. Jangan mengandalkan label lepas setelah batang dibagi.
+2. **Tentukan basis panjang.** Tulis “ukuran akhir setelah facing” atau “blank sebelum proses ujung”. Jika allowance berada di satu sisi, nyatakan sisi dan jumlahnya; jika simetris, nyatakan pembagiannya.
+3. **Nyatakan kondisi ujung.** Sebutkan apakah ujung harus square, perlu facing/chamfer, atau cukup deburring. “Bersih” saja terlalu kabur untuk inspeksi.
+4. **Pisahkan efek proses.** Kerf adalah lebar material yang hilang pada jalur potong; ia memengaruhi nesting dan jumlah stok, bukan otomatis menambah panjang komponen. Burr dan ketidak-sikuan adalah kondisi yang diperiksa atau diperbaiki, bukan allowance yang boleh ditaksir operator.
+5. **Potong, tandai, dan catat.** Nomor item, orientasi, panjang yang diminta, dan status pemeriksaan ikut bersama potongan. Sisa yang belum teridentifikasi masuk area karantina, bukan kembali ke tumpukan baik.
+6. **Verifikasi dengan alat dan metode yang disepakati.** Ukur dari datum yang sama, pada kondisi permukaan yang sudah dinyatakan, dan catat hasil serta alatnya. [NEEDS GATE-04: metode ukur, resolusi alat, titik ukur, dan acceptance criterion harus disetujui pada ITP/prosedur proyek.]
+
+Dengan urutan tersebut, orang yang menerima potongan tahu apakah ia sedang memeriksa blank, part final, atau bagian yang masih akan dimakan proses lain.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Cut Length, End Condition, dan Allowance”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa faktor sering tercampur dalam satu angka:
+
+- **Kerf dan nesting.** Lebar jalur potong memengaruhi jarak antar-cut dan perhitungan waste. Nilainya bergantung pada proses dan kondisi aktual, sehingga jangan dicetak sebagai angka universal di cut list.
+- **Facing atau machining.** Bila ujung akan difacing, allowance harus cukup untuk mencapai permukaan akhir tanpa mengorbankan panjang minimum. Besar allowance harus berasal dari drawing/prosedur dan kapasitas proses yang disetujui, bukan kebiasaan toko.
+- **Burr dan edge quality.** Burr yang tajam bisa mengganggu pemasangan atau keselamatan handling. Instruksi deburring harus menyebut hasil yang diharapkan; jangan menyamakan “tanpa burr terlihat” dengan kelas kualitas termal tertentu.
+- **Squareness dan datum.** Ujung miring dapat membuat panjang berbeda ketika diukur pada sisi yang berbeda. Tetapkan cara menentukan ketegaklurusan terhadap sumbu atau permukaan referensi. [NEEDS GATE-06: toleransi squareness/edge condition dan cara ukurnya memerlukan persetujuan proyek.]
+- **Material, tebal, dan fungsi downstream.** ISO 9013 menekankan bahwa kualitas potongan termal dikaitkan dengan proses, bahan, tebal, dan pengaruh panas. Jika potongan akan dilas, dibubut, atau menjadi permukaan tumpu, persyaratannya tidak boleh diasumsikan sama.
+- **Penandaan dan sisa.** Potongan identik yang kehilangan heat/lot atau nomor item menjadi sulit ditelusuri. Sisa yang ukurannya tampak cukup tetap harus diberi identitas dan status; bila tidak, perlakukan sebagai material yang belum terverifikasi.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Cut Length, End Condition, dan Allowance”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel kecil ini saat membuat cut list. Ini bukan nilai toleransi; ini cara memilih basis instruksi.
+
+| Situasi | Cara menulis permintaan | Pemeriksaan berikutnya |
+|---|---|---|
+| Ujung langsung menjadi datum rakitan | “Panjang akhir setelah potong dan deburring; datum A di ujung 1” | Ukur dari datum A dan periksa kondisi ujung yang disyaratkan |
+| Kedua ujung akan difacing | “Blank = panjang akhir + allowance proses; facing kedua ujung” | Pastikan allowance dan ukuran akhir ada di drawing/prosedur |
+| Satu ujung dipakai untuk sambungan, satu ujung bebas | “Ujung 1 square sesuai drawing; ujung 2 deburr; basis ukur dari ujung 1” | Pisahkan pemeriksaan tiap ujung, jangan memakai toleransi simetris tanpa dasar |
+| Banyak potongan dari satu batang | “Item, nomor batang, arah, panjang blank/final, dan status” | Rekonsiliasi jumlah baik, rework, dan sisa beridentitas |
+
+Contoh di atas sengaja tidak mengisi angka allowance atau toleransi. Sobat Besi.co.id, angka tersebut adalah keputusan proyek: ia harus mempertimbangkan proses setelah potong, fungsi permukaan, dan kemampuan ukur yang disetujui.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Cut Length, End Condition, dan Allowance”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menambahkan kerf ke setiap panjang part. Kerf terjadi di antara potongan; memasukkannya ke panjang final dapat membuat seluruh komponen oversize. Periksa kembali apakah angka pada daftar adalah ukuran part atau jarak layout.
 
-## Objection or shortcut to address
+Kedua, menulis “ujung rapi” tanpa definisi. Minta istilah yang dapat diperiksa: deburring, facing, chamfer dengan rujukan gambar, atau kelas kualitas yang memang dipakai proyek.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Ketiga, mengukur sisi terpanjang pada ujung miring lalu menyatakan part lolos. Gunakan datum dan metode ukur yang sama untuk semua potongan; simpan catatan ketika hasil berada dekat batas.
 
-## Required conclusion
+Keempat, mencampur allowance dengan toleransi. Allowance adalah material untuk dikerjakan lagi; toleransi adalah rentang penerimaan. Jika keduanya tidak dipisahkan, operator bisa menghabiskan allowance atau QC menolak ukuran yang sebenarnya masih blank.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Kelima, memakai sisa tanpa identitas karena “diameternya sama”. Cocokkan marking dengan dokumen material dan item. Bila identitas tidak dapat dibuktikan, tahan penggunaannya sampai ada keputusan yang terdokumentasi.
 
-## Draft completion checklist
+## Jalan pintas yang tampak hemat
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas yang sering dipilih adalah memotong semua batang pada satu angka nominal, lalu berharap facing, deburring, dan squareness dapat “dirapikan nanti”. Ini gagal ketika sebagian part membutuhkan permukaan datum, sebagian lain hanya blank, atau allowance ternyata tidak cukup. Pengulangan potong menambah waste dan mengaburkan penelusuran material.
+
+Alternatif yang lebih aman adalah membekukan cut list setelah tiga pertanyaan dijawab: ukuran ini final atau blank, kondisi kedua ujung apa, dan dokumen mana yang menetapkan acceptance. Jika salah satu jawaban belum ada, tandai item sebagai tertahan dan minta review—jangan mengisi kekosongan dengan angka kebiasaan.
+
+## Penutup: aturan operasi
+
+Cut length, end condition, dan allowance harus ditulis sebagai tiga keputusan terpisah: **basis ukur**, **keadaan ujung**, dan **material yang sengaja disisakan**. Kerf dipakai untuk merencanakan layout/waste, bukan otomatis ditambahkan ke panjang part; burr dan squareness harus punya kriteria pemeriksaan; identitas harus ikut sampai sisa dan rework selesai.
+
+Kawan Besi.co.id, sebelum rilis pekerjaan potong, minta drawing atau prosedur yang menyebut datum, ukuran blank/final, allowance, kondisi ujung, metode ukur, dan jalur penanganan nonconformance. [NEEDS COORDINATOR TECHNICAL REVIEW: GATE-01, GATE-04, GATE-06 harus ditutup dengan bukti proyek dan persetujuan kompeten sebelum artikel atau spesifikasi dipakai sebagai dasar penerimaan.] Jika Anda perlu kembali ke konteks umum, gunakan [beranda Besi.co.id](/); itu bukan pengganti approval proyek. Aturan operasinya sederhana: jika basis ukur atau acceptance belum tertulis, potongan belum siap dinyatakan final.

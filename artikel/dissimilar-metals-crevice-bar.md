@@ -2,8 +2,9 @@
 article_id: BAR-09-05
 title: "Dissimilar Metals dan Crevice pada Sambungan Bar"
 slug: "dissimilar-metals-crevice-bar"
-description: "Explain electrolyte, area effects, gaps, fasteners, drainage, isolation, maintenance"
-status: outline
+description: "Mengenali risiko elektrolit, celah, fastener, drainase, isolasi, dan pemeliharaan pada sambungan bar"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,50 +16,14 @@ final_route: "/artikel/dissimilar-metals-crevice-bar.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
   - "https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction"
-  - "https://www.iso.org/standard/81435.html"
   - "https://www.iso.org/standard/71136.html"
-  - "https://www.iso.org/standard/79581.html"
   - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
   - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
-  - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
-  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Dissimilar Metals dan Crevice pada Sambungan Bar
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Dissimilar Metals dan Crevice pada Sambungan Bar”
-- **Reader and situation:** Designer
-- **Reader outcome:** Explain electrolyte, area effects, gaps, fasteners, drainage, isolation, maintenance
-- **Primary intent:** Identify corrosion risk
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No corrosion calculation
-- **Final public route:** `/artikel/dissimilar-metals-crevice-bar.html`
-- **Appointed CMS date:** `2026-03-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Dissimilar Metals dan Crevice pada Sambungan Bar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,143 +34,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Dissimilar Metals dan Crevice pada Sambungan Bar
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id! Sambungan bar berisiko korosi ketika dua logam berbeda saling terhubung dan permukaannya dibasahi elektrolit, misalnya air yang membawa garam atau kontaminan. Celah sempit di bawah washer, tumpang tindih, atau ujung sambungan dapat menahan kelembapan sehingga korosi lokal berkembang meskipun permukaan di sekitarnya tampak baik.
 
-### KR-01
+Jawaban praktisnya: jangan hanya memilih “bar galvanis”. Petakan pasangan logam, luas relatifnya, jalur air, bentuk celah, kondisi fastener, dan rencana inspeksi. Isolasi listrik, detail drainase, dan pemilihan material hanya aman bila disesuaikan dengan lingkungan serta dokumen proyek. Kategori lingkungan membantu menyusun survei paparan, tetapi bukan spesifikasi lengkap tanpa data lokasi dan sistem pelindung yang dipilih ([ISO 12944-2:2017](https://www.iso.org/standard/64834.html); [AMPP Corrosion Basics](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-17
-
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-09-03` → `/artikel/paint-galvanizing-alternatif-bar.html` — Paint, Galvanizing, dan Material Alternative untuk Bar
-- `BAR-09-04` → `/artikel/cut-ends-threads-coating-damage.html` — Cut Ends, Threads, dan Coating Damage
-- `BAR-09-06` → `/artikel/koordinasi-proteksi-api-korosi-baja.html` — Proteksi Api dan Korosi Harus Dikoordinasikan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Dissimilar Metals dan Crevice pada Sambungan Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Dissimilar Metals dan Crevice pada Sambungan Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Dissimilar metals” berarti dua logam atau paduan berbeda berada dalam kontak listrik. “Crevice corrosion” adalah korosi yang terkonsentrasi di celah tertutup atau setengah tertutup. Artikel ini membahas sambungan bar, batang, braket, dan fastener yang mungkin membentuk pasangan tersebut. Fokusnya identifikasi risiko dan langkah pengendalian; bukan perhitungan laju korosi, umur layanan, atau ketebalan sisa.
+
+Galvanis juga bukan satu benda yang seragam. Pelapisan setelah fabrikasi, lembaran yang digalvanis terus-menerus, pipa, kawat, dan fastener dapat memiliki rute produksi serta standar berbeda. [ISO 14713-2:2019](https://www.iso.org/standard/71136.html) berguna sebagai rujukan desain untuk hot-dip galvanizing, tetapi tidak membuktikan bahwa produk tertentu memenuhi persyaratan proyek. Mintalah identitas material, rute pelapisan, dan dokumen penerimaan yang memang berlaku untuk barang yang Anda pesan. Untuk menata daftar material bar sejak awal, Anda dapat memakai [rujukan besi beton](/besi-beton) sebagai titik navigasi internal.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Dissimilar Metals dan Crevice pada Sambungan Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Korosi elektrokimia membutuhkan anoda, katoda, jalur elektron, dan elektrolit. Saat dua logam berbeda tersambung, salah satunya dapat menjadi lebih reaktif (anoda), sementara logam lain menerima reaksi katodik. Air hujan, kondensasi, air proses, atau larutan garam menjadi elektrolit. Tanpa kelembapan yang menetap dan koneksi listrik, pasangan itu mungkin tidak menunjukkan korosi galvanik yang berarti; karena itu paparan harus dinilai, bukan ditebak.
+
+Rasio luas penting. Anoda kecil yang terhubung ke katoda besar menerima arus korosi terpusat pada area kecil. Contohnya dapat terjadi pada bar baja yang terluka pelapisnya dan bersentuhan dengan komponen logam lebih mulia. Sebaliknya, area anoda yang besar tidak otomatis aman jika celah menahan air atau ada kontaminan.
+
+Di dalam crevice, oksigen cepat berkurang. Perbedaan kimia antara bagian celah dan permukaan terbuka dapat menarik ion agresif dan membuat larutan semakin asam. Washer yang menekan permukaan, overlap tanpa seal, ulir yang terisi kotoran, atau ujung pipa yang tidak berventilasi adalah titik yang patut dicari. Geometri tertutup juga menyulitkan pembilasan, pengeringan, pengecatan ulang, dan inspeksi.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Dissimilar Metals dan Crevice pada Sambungan Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari survei paparan: frekuensi basah-kering, kondensasi, garam, polutan, bahan kimia, suhu, lokasi terlindung, dan kemungkinan terendam atau kontak tanah. Panduan ISO menempatkan lingkungan, drainase, celah, logam yang bersentuhan, kerusakan, akses, dan pemeliharaan sebagai bagian dari pemilihan perlindungan; label “lingkungan sedang” saja tidak cukup untuk memilih sistem.
+
+Berikutnya, telusuri detail sambungan.
+
+- **Pasangan dan area:** catat semua logam bar, plate, washer, mur, pin, dan kabel. Bandingkan luas yang terbuka, bukan hanya nama dagangnya.
+- **Celah dan tumpang tindih:** cari bidang yang saling menempel, ulir buta, washer berlekuk, serta seal yang putus. Tanyakan apakah air dapat keluar atau justru terkunci.
+- **Drainase dan ventilasi:** untuk bagian berongga, sediakan jalur agar cairan dan udara dapat bergerak sesuai desain. Panduan galvanizing menekankan perlunya koordinasi lubang vent dan drain, orientasi pengangkatan, serta konsekuensi fabrikasi; ukuran dan lokasinya harus ditetapkan perancang dan galvanizer, bukan disalin membabi buta ([AGA venting and draining](https://galvanizeit.org/knowledgebase/article/venting-and-draining)).
+- **Pelapis dan kerusakan:** goresan, bekas las, potongan, dan ulir yang rusak membuka logam dasar. Perbaikan harus mengikuti spesifikasi pelapis dan prosedur pemasok; metode uji atau katalog standar tidak membuktikan hasil pada sambungan Anda.
+- **Akses dan pemeliharaan:** celah yang tidak bisa dilihat atau dibersihkan adalah risiko berulang. Rencanakan titik inspeksi, dokumentasi penerimaan, dan kriteria kapan sambungan harus dibuka.
+
+Kawan Besi.co.id, fastener sering dianggap aksesori kecil padahal menjadi bagian dari rangkaian listrik dan jalur air. Pastikan grade, pelapis, washer isolasi (bila dipilih), torsi, dan kompatibilitasnya tertulis pada gambar atau spesifikasi yang disetujui. Jangan menganggap gasket otomatis memutus arus; tekanan, umur, kerusakan, dan jalur bypass harus diperiksa.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Dissimilar Metals dan Crevice pada Sambungan Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel berikut sebagai penyaring awal, bukan persetujuan desain.
+
+| Temuan lapangan atau gambar | Pertanyaan keputusan | Tindakan awal |
+|---|---|---|
+| Bar berlapis terhubung langsung ke paduan berbeda di area basah | Apakah elektrolit dan jalur listrik akan hadir bersamaan? | Minta tinjauan kompatibilitas; pertimbangkan isolasi dan pengalihan air yang dapat diverifikasi. |
+| Washer menutup celah tanpa jalan keluar | Dapatkah sambungan dikeringkan dan diperiksa? | Ubah detail menjadi sambungan yang dapat dikuras/dibersihkan, atau dokumentasikan alasan mempertahankan celah. |
+| Rongga tertutup akan digalvanis setelah fabrikasi | Apakah vent, drain, dan orientasi sudah disepakati? | Kirim gambar fabrikasi kepada galvanizer untuk review tertulis ([ISO 14713-2:2019](https://www.iso.org/standard/71136.html); [AGA design practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg)). |
+| Lapisan tergores saat angkut atau pemasangan | Apakah lokasi dan luas kerusakan tercatat? | Karantina atau lindungi bagian, foto dan ukur sesuai prosedur inspeksi, lalu gunakan metode repair yang disetujui. |
+
+Kesimpulan dari penyaring ini bergantung pada gambar, daftar material, kondisi lingkungan, dan rencana inspeksi yang belum tersedia di paket ini: **[NEEDS GATE-01/02/04/05/06: verifikasi proyek dan review kompeten sebelum detail sambungan, isolasi, pelapisan, atau penerimaan disetujui.]**
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Dissimilar Metals dan Crevice pada Sambungan Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap semua kontak dua logam berbeda pasti gagal. Periksa dahulu apakah ada elektrolit, kontak listrik, dan waktu basah yang realistis. Kesalahan kedua adalah mengandalkan cat pada satu sisi sambungan, lalu membiarkan tepi dan fastener telanjang. Minta detail tepi, urutan pemasangan, dan cara memperbaiki kerusakan.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menutup celah dengan sealant tanpa rencana inspeksi. Sealant dapat retak atau menyisakan kantong air; perlakukan sebagai bagian sistem yang punya umur dan prosedur penggantian. Kesalahan keempat adalah memakai angka lubang, massa pelapis, atau kriteria inspeksi dari standar lain. Cek judul, edisi, dan ruang lingkup dokumen yang dicantumkan pada pesanan; metode gravimetri, misalnya, tidak dengan sendirinya menyatakan suatu lapisan lulus.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Saat menerima dan menyimpan bar, catat kondisi pelapis, penumpukan air, penyangga, segregasi, dan kerusakan akibat gesekan. Area penyimpanan perlu stabil, dapat diakses, berventilasi, dan mencegah benda berguling atau menyebar; persyaratan penyimpanan material OSHA dapat menjadi pengingat keselamatan umum, bukan pengganti rencana situs Indonesia ([OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)).
 
-## Required conclusion
+## Jalan pintas yang tampak praktis
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah “pakai fastener galvanis yang sama, lalu selesai”. Itu bisa gagal bila bar bersentuhan dengan paduan lain, sambungan menghadap air asin, atau washer membentuk crevice. Alternatif yang lebih dapat dipertanggungjawabkan adalah membuat matriks material-sambungan: pasangan logam, luas relatif, elektrolit, detail drainase, isolator, pelapis, dan akses inspeksi. Tandai setiap baris yang masih berupa asumsi untuk ditutup dengan data pemasok atau review perancang.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Dissimilar metals dan crevice pada sambungan bar menjadi risiko ketika pasangan logam, elektrolit, arus, serta geometri penahan air bertemu. Kendalikan sumbernya melalui pemilihan pasangan yang kompatibel, isolasi yang benar-benar kontinu, drainase/ventilasi yang dirancang, perlindungan tepi dan fastener, serta pemeliharaan yang bisa dilaksanakan.
+
+Teman Besi.co.id, sebelum menerbitkan gambar kerja atau menerima material, kumpulkan daftar material lengkap, peta lingkungan, detail celah dan drainase, instruksi galvanizer, serta rencana inspeksi dan perbaikan. Mulailah dari [beranda Besi.co.id](/) untuk menata dokumen rujukan, lalu gunakan [halaman kontak Besi.co.id](/kontak) bila Anda perlu mengirim pertanyaan yang masih terbuka kepada pihak terkait. Minta persetujuan profesional yang bertanggung jawab untuk menutup gate proyek di atas. Aturan operasinya sederhana: bila Anda belum bisa menunjukkan dari mana air masuk, ke mana ia keluar, dan bagaimana sambungan diperiksa, anggap risiko belum terkendali.

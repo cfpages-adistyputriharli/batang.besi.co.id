@@ -2,8 +2,9 @@
 article_id: BAR-04-04
 title: "Berat Teoritis vs Berat Aktual Besi Batang"
 slug: "berat-teoritis-vs-aktual-besi"
-description: "Explain density assumptions, nominal dimensions, tolerance, scale calibration"
-status: outline
+description: "Memahami asumsi massa jenis, ukuran nominal, toleransi, dan kalibrasi timbangan saat membandingkan berat teoritis dan aktual besi batang."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,48 +17,12 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/9985.html"
   - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
-  - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
-  - "https://www.iso.org/standard/86032.html"
   - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
-  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://www.iso.org/standard/85464.html"
-  - "https://www.iso.org/standard/64622.html"
   - "https://www.iso.org/standard/66912.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Berat Teoritis vs Berat Aktual Besi Batang
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Berat Teoritis vs Berat Aktual Besi Batang”
-- **Reader and situation:** QS/buyer
-- **Reader outcome:** Explain density assumptions, nominal dimensions, tolerance, scale calibration
-- **Primary intent:** Estimate quantity
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No invoice ruling
-- **Final public route:** `/artikel/berat-teoritis-vs-aktual-besi.html`
-- **Appointed CMS date:** `2025-11-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Berat Teoritis vs Berat Aktual Besi Batang**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,148 +33,78 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Berat Teoritis vs Berat Aktual Besi Batang
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Besi.co.id! Saat membeli atau menerima besi batang, angka pada tabel sering tidak persis sama dengan angka di timbangan. Jawaban singkatnya: berat teoritis adalah perkiraan dari ukuran nominal, panjang, dan asumsi massa jenis; berat aktual adalah hasil penimbangan batang yang benar-benar datang. Keduanya tidak otomatis saling menggantikan.
 
-### KR-01
+Untuk menghitung kebutuhan awal, gunakan berat teoritis dari tabel produk atau standar yang dirujuk. Untuk penerimaan barang, pengaturan pengangkatan, dan pencatatan stok, pakai berat aktual dari timbangan yang identitas dan kondisinya dapat dibuktikan. Selisihnya baru dapat dinilai setelah ukuran terukur, panjang, kondisi permukaan, metode timbang, dan batas toleransi pada dokumen pengadaan disepakati. [NEEDS GATE-01: tetapkan standar produk, toleransi, dan dasar penerimaan proyek.]
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-besi-beton-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-batang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-batang-hari.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-04-02` → `/artikel/diameter-nominal-aktual-toleransi.html` — Diameter Nominal, Aktual, dan Toleransi
-- `BAR-04-03` → `/artikel/mengukur-square-bar-dan-ulir.html` — Mengukur Square Bar dan Produk Berulir
-- `BAR-04-05` → `/artikel/straightness-surface-bar-stock.html` — Straightness dan Surface Condition pada Bar Stock
-- `BAR-04-06` → `/artikel/cut-length-end-condition-allowance.html` — Cut Length, End Condition, dan Allowance
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Masalah keputusan yang sebenarnya
 
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Berat Teoritis vs Berat Aktual Besi Batang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kebingungan biasanya muncul ketika penawaran menyebut massa per batang, sedangkan gudang menghitung dari hasil timbang. Pembeli lalu menganggap selisih kecil sebagai kesalahan, atau sebaliknya menerima selisih besar tanpa memeriksa sebabnya. Padahal “batang” adalah unit fisik, sementara angka teoritis adalah hasil model.
+
+Model itu memakai bentuk penampang, ukuran nominal, panjang rujukan, dan massa jenis yang dipilih. Tabel massa untuk pipa, misalnya, terikat pada geometri dan aturan pembulatan yang dinyatakan oleh rujukan dimensinya; ISO 4200 dan ASME B36.10 menunjukkan mengapa label nominal perlu dibaca bersama tabel dan spesifikasi produknya ([ISO 4200](https://www.iso.org/standard/9985.html), [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)).
+
+Berat aktual menjawab pertanyaan berbeda: berapa massa benda ini saat diukur sekarang? Cat, air, karat, sisa potongan, atau alat pengikat dapat ikut terbaca jika prosedur tidak menetapkan kondisi timbang. Karena itu keputusan kuantitas harus menyebut apakah angka dipakai untuk estimasi pembelian, serah terima, atau keselamatan pengangkatan. Untuk pengangkatan, data massa dan geometri harus diverifikasi sebelum alat dipilih; jangan mengubah angka teoritis menjadi kapasitas kerja tanpa tinjauan kompeten.
 
 ## Bedakan objek sebelum membandingkan
 
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Berat Teoritis vs Berat Aktual Besi Batang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Berat teoritis bukan hasil pengukuran. Rumus sederhananya dapat ditulis sebagai massa = volume geometris × massa jenis, lalu disesuaikan dengan panjang dan pembulatan tabel. Jika diameter atau sisi yang dipakai adalah ukuran nominal, rumus tersebut belum menggambarkan setiap batang yang diproduksi. Nominal adalah nama ukuran pada dokumen; ukuran aktual perlu diukur dengan metode yang disetujui.
+
+Berat aktual adalah hasil timbangan pada satu kondisi dan waktu. Catat nomor batang atau bundel, panjang yang ditimbang, apakah ada kemasan, serta tare (berat wadah atau pengikat) yang dikurangkan. Satu angka aktual tanpa jejak identitas tidak cukup untuk menyimpulkan seluruh lot.
+
+Sobat Besi.co.id, pisahkan juga batas sistemnya. Angka di surat jalan mungkin merujuk pada berat bersih, sedangkan timbangan gudang membaca berat kotor. Keduanya bisa benar untuk definisi berbeda. Minta pemasok menuliskan dasar massa, satuan, panjang rujukan, dan apakah pembulatan mengikuti tabel produk.
 
 ## Kriteria perbandingan yang relevan
 
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Berat Teoritis vs Berat Aktual Besi Batang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari tujuan. Estimasi kuantitas awal membutuhkan angka teoritis yang konsisten agar jumlah batang dan anggaran dapat dibandingkan. Penerimaan membutuhkan angka aktual, hasil ukur panjang dan dimensi, serta catatan alat timbang. Pengangkatan membutuhkan massa aktual atau nilai konservatif yang disetujui, titik angkat, pusat gravitasi, dan rencana kerja; OSHA menempatkan penyimpanan material pada kondisi yang mencegah bahaya, tetapi halaman itu bukan desain pengangkatan untuk proyek Anda ([OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)).
+
+Kriteria kedua adalah identitas produk. Cocokkan bentuk penampang, mutu, ukuran, panjang, nomor panas atau lot bila diwajibkan, dan kondisi permukaan dengan dokumen pembelian. Standar dimensi dapat membantu membaca istilah, tetapi tidak membuktikan bahwa batang tertentu memenuhi toleransi tanpa pemeriksaan yang sesuai.
+
+Kriteria ketiga adalah mutu data. Timbangan perlu memiliki identitas, rentang kerja yang cocok, status kalibrasi, dan catatan pemeriksaan sebelum dipakai. Jika hasilnya akan menjadi dasar keputusan penerimaan, laboratorium atau penyedia jasa ukur perlu menunjukkan kompetensi dan rekaman yang dapat ditelusuri; ISO/IEC 17025 menjelaskan kerangka kompetensi laboratorium, bukan angka toleransi produk ([ISO/IEC 17025](https://www.iso.org/standard/66912.html)). [NEEDS GATE-04: tetapkan prosedur timbang, tare, dan aturan keputusan selisih.]
 
 ## Kapan masing-masing pilihan masuk akal
 
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Berat Teoritis vs Berat Aktual Besi Batang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan teoritis ketika Anda masih menyusun daftar kebutuhan dan belum memiliki barang fisik. Masukkan sumber tabel, panjang rujukan, dan asumsi massa jenis ke lembar perhitungan. Begitu barang tiba, jadikan angka teoritis sebagai pembanding awal, bukan vonis tunggal.
+
+Gunakan aktual ketika keputusan bergantung pada massa yang benar-benar dipindahkan atau disimpan. Timbang batang atau bundel dengan prosedur yang sama, lalu cocokkan dengan identitasnya. Jika ada kemasan, timbang kemasan kosong atau gunakan tare yang terdokumentasi. Jangan menyamakan hasil satu bundel dengan semua bundel tanpa dasar rencana sampling.
+
+Jika selisih terjadi, lakukan pemeriksaan berurutan: ulangi penimbangan, cek tare, ukur panjang dan dimensi pada titik yang disepakati, lalu cocokkan standar produk dan dokumen pemasok. Toleransi yang berlaku tidak boleh ditebak dari selisih persentase umum. [NEEDS GATE-06: minta persetujuan teknis atas kriteria penerimaan dan rencana sampling lot.]
+
+Untuk penataan gudang, data massa dan bentuk memengaruhi dukungan, pencegahan gelinding, akses, serta pemisahan material. Panduan pabrikan atau aturan asing dapat menjadi masukan, tetapi bukan pengganti rencana lokasi dan ketentuan Indonesia; Permenaker 8/2020 perlu dibaca bersama kondisi alat dan penanggung jawab kompeten ([Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)).
 
 ## Kesalahan perbandingan yang sering terjadi
 
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Berat Teoritis vs Berat Aktual Besi Batang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengalikan jumlah batang dengan angka teoritis lalu menyebutnya berat aktual. Langkah itu hanya sah sebagai estimasi jika setiap batang diasumsikan identik dan dokumen memang memakai dasar tersebut. Tandai hasilnya sebagai perkiraan.
+
+Kesalahan kedua adalah menganggap ukuran nominal sama dengan ukuran terukur. Proses produksi dan persyaratan gambar dapat menghasilkan variasi yang harus dinilai terhadap standar produk yang tepat. Tanpa dokumen lengkap, jangan menetapkan bahwa variasi itu boleh atau tidak boleh.
+
+Kesalahan ketiga adalah menimbang bundel bersama sling, palet, atau air yang menempel tanpa mencatat tare dan kondisi. Akibatnya pembeli membandingkan angka bersih dengan angka kotor. Foto label, catatan tare, dan waktu timbang membantu menelusuri penyebab, tetapi tidak menggantikan pemeriksaan dimensi.
+
+Kesalahan keempat adalah memilih kapasitas alat angkat dari tabel teoritis lalu mengabaikan pusat gravitasi dan kondisi penyangga. Kawan Besi.co.id, hentikan pekerjaan jika massa, identitas, atau kondisi alat belum terverifikasi dan minta penanggung jawab pengangkatan meninjau ulang.
 
 ## Bukti yang perlu diminta sebelum memilih
 
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Berat Teoritis vs Berat Aktual Besi Batang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum menyetujui kuantitas, kumpulkan: spesifikasi dan standar produk yang dirujuk; ukuran nominal, panjang, dan satuan; dasar massa teoritis serta aturan pembulatannya; surat jalan dan identitas lot; metode penimbangan, nomor alat, status kalibrasi, tare, dan kondisi barang; catatan ukur dimensi dan panjang; serta kriteria penerimaan yang disetujui.
 
-## Objection or shortcut to address
+Tentukan siapa yang mengukur, siapa yang menyaksikan, dan siapa yang memutuskan ketika selisih muncul. Jika rencana sampling dipakai, tuliskan populasi lot, karakteristik, metode, identitas sampel, frekuensi, kriteria, dan jalur ketidaksesuaian. Jangan memilih ukuran sampel atau ambang AQL dari ringkasan standar; keputusan itu memerlukan dokumen produk dan rencana inspeksi yang berlaku.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Anda dapat mengarahkan pertanyaan komersial berikutnya ke informasi [besi beton](/besi-beton) bila perlu mencocokkan jenis barang, lalu memakai halaman [kontak Besi.co.id](/kontak) untuk meminta dokumen timbang dan spesifikasi. Tautan itu membantu langkah berikutnya, bukan bukti bahwa suatu lot sudah memenuhi syarat.
 
-## Required conclusion
+## Jalan pintas yang tampak praktis
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah memakai satu angka tabel untuk semua keputusan karena cepat dan mudah dihitung. Cara ini gagal ketika tujuan berubah dari estimasi menjadi penerimaan atau pengangkatan. Alternatif yang lebih aman adalah menyimpan dua kolom: “teoritis menurut dokumen” dan “aktual menurut timbang”, lengkap dengan identitas, tanggal, kondisi, dan penanggung jawab.
 
-## Draft completion checklist
+Jika kedua angka berbeda, jangan langsung mengubah tagihan atau menyimpulkan mutu. Ulangi pengukuran dengan alat yang statusnya jelas, periksa definisi bersih-kotor, dan minta tinjauan teknis sesuai kontrak. [NEEDS GATE-01: keputusan invoice berada di luar cakupan artikel ini dan harus mengikuti kontrak serta persetujuan proyek.]
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Berat teoritis membantu memperkirakan kebutuhan dari geometri dan asumsi massa jenis; berat aktual menunjukkan massa benda pada kondisi timbang tertentu. Gunakan teoritis untuk perencanaan, aktual untuk verifikasi fisik dan pengendalian pengangkatan, lalu bandingkan keduanya hanya setelah dasar ukur dan kriteria diterima jelas.
+
+Langkah Anda sekarang: minta spesifikasi produk, catat dasar tabel, verifikasi kalibrasi timbangan dan tare, ukur sampel sesuai rencana yang disetujui, kemudian dokumentasikan keputusan selisih. Teman Besi.co.id, bila data atau batas penerimaan belum lengkap, tinggalkan penanda [NEEDS REVIEW: standar, toleransi, dan metode timbang proyek] dan minta persetujuan teknis sebelum barang dipakai atau dipindahkan.

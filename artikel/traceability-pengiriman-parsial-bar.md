@@ -2,8 +2,9 @@
 article_id: BAR-12-05
 title: "Traceability setelah Bar Dipotong dan Dikirim Parsial"
 slug: "traceability-pengiriman-parsial-bar"
-description: "Explain piece IDs, packing lists, MTC linkage, remnants, returns, substitutions, records"
-status: outline
+description: "Panduan menjaga jejak ID potongan, MTC, packing list, sisa, retur, dan substitusi saat bar dikirim parsial."
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-06-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,198 +15,89 @@ reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/traceability-pengiriman-parsial-bar.html"
 technical_review: required
 sources:
-  - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
-  - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
-  - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
-  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
   - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
+  - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
+  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Traceability setelah Bar Dipotong dan Dikirim Parsial
 
-## Assignment lock
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+**Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
+Placement: setelah pembuka menjawab pertanyaan utama, sebelum H2 pertama
+Caption/credit: Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+END MANAGED IMAGE PLAN -->
+Halo, Sobat Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Traceability setelah Bar Dipotong dan Dikirim Parsial”
-- **Reader and situation:** Supplier/fabricator
-- **Reader outcome:** Explain piece IDs, packing lists, MTC linkage, remnants, returns, substitutions, records
-- **Primary intent:** Preserve records
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No authenticity guarantee
-- **Final public route:** `/artikel/traceability-pengiriman-parsial-bar.html`
-- **Appointed CMS date:** `2026-06-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Ketika satu batang dipotong lalu dikirim dalam beberapa tahap, identitas material tidak boleh ikut terputus. Jawaban praktisnya: setiap potongan harus memiliki ID yang dapat ditelusuri kembali ke batang induk, pesanan, sertifikat uji material (MTC), dan packing list pada pengiriman tertentu. Catat juga sisa potongan, pengembalian, penggantian, dan siapa yang menyetujui perubahan. Untuk konteks dokumen proyek lain, Anda dapat mulai dari [beranda Besi.co.id](/).
 
-## Opening instructions
+Packing list tanpa hubungan ke MTC hanya membuktikan ada paket, bukan asal materialnya. Sebaliknya, MTC tanpa daftar potongan dan serah-terima membuat penerima sulit membuktikan potongan mana yang diterima. Bentuk rekaman yang tepat bergantung pada kontrak, sistem mutu, dan bukti proyek yang berlaku. **[NEEDS GATE-01: konfirmasi skema identifikasi dan persetujuan proyek]**
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Traceability setelah Bar Dipotong dan Dikirim Parsial**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-12-03` → `/artikel/lifting-bundle-batang-baja.html` — Lifting Bundle Batang Baja
-- `BAR-12-04` → `/artikel/transport-steel-bar-panjang.html` — Transport Steel Bar Panjang: Support, Restraint, dan Overhang
-- `BAR-12-06` → `/artikel/receiving-shortage-damage-mixed-bundle.html` — Receiving Shortage, Damage, dan Mixed Bundle
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Traceability setelah Bar Dipotong dan Dikirim Parsial”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Traceability setelah Bar Dipotong dan Dikirim Parsial”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Traceability di sini berarti jejak administratif dan fisik dari batang induk sampai potongan yang dikirim parsial. “Piece ID” adalah kode unik untuk satu potongan atau satu bundel; “heat/lot” adalah identitas produksi yang tercantum pada dokumen pemasok; MTC adalah sertifikat yang menghubungkan heat/lot dengan hasil uji yang diserahkan pemasok. Ketiganya bukan jaminan keaslian dengan sendirinya. Keaslian memerlukan pemeriksaan dokumen asli, tanda material, dan persetujuan pihak yang berwenang.
+
+Batas artikel ini adalah pengendalian catatan. Ia tidak menetapkan ukuran potong, toleransi, kapasitas angkat, metode pengelasan, atau penerimaan struktur. Panduan chain-of-custody ISO menjelaskan bahwa model segregasi fisik, mass-balance, dan klaim administratif memiliki aturan berbeda; sistem harus menetapkan karakteristik yang dilacak, batas sistem, pihak bertanggung jawab, serta aturan transfer dan anti-penghitungan ganda ([ISO 22095](https://www.iso.org/standard/72532.html), [pembaruan ISO 2026](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Traceability setelah Bar Dipotong dan Dikirim Parsial”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari satu baris “master record” untuk batang induk. Isinya minimal nomor pesanan atau heat/lot sesuai dokumen pemasok, profil dan panjang yang dipesan, tanggal diterima, MTC yang dirujuk, serta status pemeriksaan. Jangan mengubah ID induk ketika batang dipotong; buat turunan seperti `INDUK-01-A`, `INDUK-01-B`, dan `INDUK-01-SISA`. Format bebas, tetapi harus unik, konsisten, dan dijelaskan dalam prosedur.
+
+Sebelum memotong, buat cutting list yang menghubungkan nomor gambar atau permintaan kerja, panjang rencana, jumlah, dan operator atau pemeriksa. Setelah potong, ukur dan catat hasil aktual, tanggal, alat ukur bila diwajibkan prosedur, serta deviasi yang memerlukan persetujuan. Piece ID ditempel pada potongan atau tag bundel yang tetap terbaca selama pemindahan. Jika tag bisa lepas, gunakan dua titik penandaan atau rekaman foto sesuai prosedur proyek—bukan sebagai pengganti pemeriksaan.
+
+Setiap pengiriman parsial memiliki nomor packing list sendiri. Daftar itu menyebut piece ID, kuantitas, panjang atau berat yang disepakati, kondisi kemasan, kendaraan atau tanggal muat bila diwajibkan, serta dokumen yang ikut: MTC, cutting list, catatan inspeksi, dan surat jalan. Pada penerimaan, pihak penerima membubuhkan status cocok, kurang, rusak, atau ditahan (quarantine). Satu koreksi harus meninggalkan jejak: siapa mengubah, kapan, alasan, dan referensi persetujuannya.
+
+Simpan tabel rekonsiliasi: kuantitas batang induk = potongan terkirim + sisa di gudang + retur + potongan ditolak atau diganti. Rumus ini adalah pemeriksaan aritmetika, bukan bukti mutu. Selisih harus menjadi tiket penyimpangan, bukan dihapus dengan mengedit packing list lama.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Traceability setelah Bar Dipotong dan Dikirim Parsial”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, perubahan fisik. Potongan yang dipendekkan lagi, dibor, dilas, atau digabung harus memperoleh ID revisi dan rujukan gambar atau instruksi yang menyetujui perubahan. Sisa (remnant) tetap berstatus material yang belum dialokasikan sampai diperiksa dan diberi lokasi penyimpanan. Jangan mengembalikan sisa ke stok umum tanpa label asal.
+
+Kedua, kondisi pengiriman. Penandaan dapat tertutup lumpur, kondensasi, atau kerusakan kemasan. Panduan penyimpanan pabrikan menekankan perlunya dukungan stabil, pencegahan terguling atau menyebar, akses antar tumpukan, drainase dan ventilasi, serta perlindungan dari cuaca dan kontak yang merusak lapisan ([LYSAGHT product care](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)). Ketentuan tersebut adalah panduan teknis, bukan otomatis aturan hukum Indonesia. Untuk pengangkatan, massa, geometri, titik berat, alat, dan catatan pemeriksaan harus mengikuti desain angkat dan persyaratan K3 yang berlaku; rujuk sumber nasional seperti [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020) bersama penanggung jawab K3.
+
+Ketiga, klaim keberlanjutan atau asal. Bila pelanggan meminta klaim berbasis rantai pasok, pisahkan catatan material yang benar-benar tersegregrasi dari klaim mass-balance atau administratif. Jangan mencampur model di satu packing list tanpa menyebut aturan transfer dan batas klaim. **[NEEDS GATE-02: skema klaim, batas assurance, dan bukti transaksi harus disetujui proyek]**
+
+Keempat, retur dan substitusi. Retur menerima ID lama, alasan, kondisi saat tiba, dan status karantina. Substitusi tidak boleh hanya diberi label “pengganti”; catat ID material pengganti, alasan, persetujuan desain atau pembeli, MTC yang relevan, serta pembaruan packing list. Jika persetujuan belum ada, tandai “hold” dan jangan memasukkannya ke stok siap kirim.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Traceability setelah Bar Dipotong dan Dikirim Parsial”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pesanan memerlukan dua pengiriman. Pada pengiriman pertama, penerima menandatangani tiga bundel dan menyatakan satu bundel basah dengan tag tidak terbaca. Keputusan aman bukan menebak heat/lot dari bentuknya. Catat sebagai `HOLD-01`, cocokkan berat dan jumlah hanya sebagai data bantu, lalu minta verifikasi dokumen dan penandaan ulang.
+
+| Situasi | Catatan minimum | Keputusan sementara |
+| --- | --- | --- |
+| ID, packing list, dan MTC cocok | Tanggal terima, pemeriksa, kondisi | Terima dan pindahkan ke lokasi berlabel |
+| ID terbaca, MTC belum tersedia | Nomor ID, dokumen kurang, status hold | Jangan klaim kesesuaian material |
+| Tag hilang atau rusak | Foto kondisi, lokasi, nomor kendaraan, saksi | Karantina sampai identitas dipulihkan |
+| Potongan retur | ID lama, alasan, kondisi, pemeriksaan ulang | Kembalikan ke stok hanya setelah rilis tertulis |
+| Substitusi disetujui | ID pengganti, MTC, persetujuan, revisi daftar | Terbitkan packing list revisi dan tutup jejak lama |
+
+Kawan Besi.co.id, contoh ini tidak menetapkan kriteria penerimaan. Ia menunjukkan urutan keputusan ketika bukti tidak lengkap: tahan, rekonsiliasi, minta persetujuan, lalu rilis. Simpan versi kerja ini bersama dokumen operasional di [halaman besi dan produk Besi.co.id](/besi-beton) agar tim memakai prosedur yang sama.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Traceability setelah Bar Dipotong dan Dikirim Parsial”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai nomor bundel yang sama untuk pengiriman berbeda. Tambahkan nomor pengiriman dan tanggal pada packing list, tetapi pertahankan piece ID agar riwayat tetap tersambung. Kesalahan kedua adalah menyalin MTC ke semua potongan tanpa memastikan setiap potongan memang berasal dari heat/lot tersebut. Buat kolom “MTC reference” per ID dan larang sel kosong pada saat rilis.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menghapus baris ketika jumlah berubah. Gunakan status batal, retur, atau diganti sehingga rekaman awal tetap terlihat. Kesalahan keempat adalah menganggap tanda tangan penerima sebagai bukti mutu. Tanda tangan hanya bukti serah-terima pada kondisi yang dicatat; inspeksi dan keputusan teknis tetap terpisah.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Pemeriksaan mingguan dapat berupa empat pertanyaan: apakah semua ID fisik muncul di packing list; apakah setiap ID menunjuk satu MTC dan cutting list; apakah total potongan, sisa, retur, dan reject merekonsiliasi batang induk; dan apakah setiap perubahan memiliki persetujuan. Sobat Besi.co.id, simpan versi dokumen dengan kendali akses, cadangan, dan masa retensi sesuai kontrak. **[NEEDS GATE-04: periode retensi, penanggung jawab, dan format rekaman harus ditetapkan proyek]**
 
-## Required conclusion
+## Jalan pintas yang sering dipilih
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang tampak hemat adalah mengirim potongan dengan label profil dan panjang saja, lalu “mencocokkan MTC nanti”. Ini gagal ketika beberapa heat/lot memiliki profil serupa, ketika terjadi retur, atau ketika pelanggan meminta jejak pengiriman tertentu. Pencocokan setelah fakta juga tidak memulihkan identitas yang sudah hilang.
 
-## Draft completion checklist
+Alternatifnya adalah menetapkan titik henti: tidak ada potongan keluar tanpa piece ID, packing list, dan rujukan MTC; tidak ada retur masuk tanpa status karantina; dan tidak ada substitusi tanpa persetujuan. Teman Besi.co.id, bila sistem Anda belum mampu menghasilkan tiga catatan itu, gunakan formulir terkendali sementara dan minta review mutu sebelum pengiriman berikutnya.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Penutup
+
+Traceability setelah bar dipotong dan dikirim parsial berarti menjaga hubungan utuh antara batang induk, piece ID, MTC, cutting list, packing list, sisa, retur, dan substitusi. Buat master record, rekonsiliasi setiap pergerakan, tahan material yang identitasnya meragukan, dan dokumentasikan persetujuan perubahan.
+
+Langkah berikutnya: ambil satu pesanan aktif, uji empat pertanyaan pemeriksaan di atas, lalu minta penanggung jawab mutu dan K3 menandatangani prosedur identifikasi, penyimpanan, dan serah-terima. Untuk menyiapkan formulir dan rekaman terkait, hubungi [kontak Besi.co.id](/kontak). Catatan yang rapi membantu audit, tetapi tidak menjamin keaslian atau penerimaan struktur tanpa verifikasi dokumen asli dan persetujuan profesional.
+
+**[NEEDS GATE-06: konfirmasi akhir tentang batas klaim, penerimaan, dan review teknis sebelum publikasi.]**

@@ -2,8 +2,8 @@
 article_id: BAR-06-04
 title: "Besi Beton Bukan Artikel Desain Tulangan"
 slug: "batas-panduan-besi-beton"
-description: "Separate product identity/procurement from detailing, lap, anchorage, bending, design"
-status: outline
+description: "Memisahkan identitas dan pengadaan produk dari detail sambungan, penyaluran, pembengkokan, serta desain"
+status: draft
 publication_date: "2026-01-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,6 +13,7 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/batas-panduan-besi-beton.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
@@ -27,37 +28,7 @@ sources:
   - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Besi Beton Bukan Artikel Desain Tulangan
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Besi Beton Bukan Artikel Desain Tulangan”
-- **Reader and situation:** Construction buyer
-- **Reader outcome:** Separate product identity/procurement from detailing, lap, anchorage, bending, design
-- **Primary intent:** Understand roles
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No reinforcement instruction
-- **Final public route:** `/artikel/batas-panduan-besi-beton.html`
-- **Appointed CMS date:** `2026-01-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Besi Beton Bukan Artikel Desain Tulangan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -68,149 +39,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Harga Besi Beton` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-04
-
-- **Original sources:** [ISO 630-1:2021 — general delivery conditions for hot-rolled structural products](https://www.iso.org/standard/73841.html)
-- **Purpose for this article:** Separate a general structural-steel family from sheet/strip, tube, and the specific grades in other parts of the standard.
-- **Safe grounded facts:** A structural use label is not one universal product specification. Form, standard part, grade, supply condition, dimensions, and order requirements must remain linked.
-- **Limits:** Do not extract grades, chemistry, mechanical values, tolerances, or weldability from the abstract. Obtain the applicable ISO/SNI/ASTM/JIS product document and project specification through G-01/G-02.
-
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-besi-beton-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-way-kanan.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-06-02` → `/artikel/input-desain-poros.html` — Input Poros: Beban, Putaran, Keyway, dan Lingkungan
-- `BAR-06-03` → `/artikel/fatigue-batang-baja.html` — Fatigue pada Batang Baja: Mengapa Strength Saja Tidak Cukup
-- `BAR-06-05` → `/artikel/temperatur-api-dan-baja.html` — Temperatur dan Api: Data yang Mengubah Pemilihan Baja
-- `BAR-06-06` → `/artikel/verifikasi-klaim-aplikasi-steel-bar.html` — Application Claim Harus Dibuktikan oleh Project Basis
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+# Besi Beton Bukan Artikel Desain Tulangan
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Besi Beton Bukan Artikel Desain Tulangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Halo, Kawan Besi.co.id! Judul ini menegaskan batas yang sering terlewat: besi beton adalah produk yang perlu dikenali dan dibeli dengan benar, bukan gambar kerja untuk menentukan detail tulangan. Anda dapat memeriksa identitas batang, dokumen pemasok, dan kecocokan pesanan; tetapi keputusan tentang jumlah batang, jarak, sambungan lewatan, penyaluran, pembengkokan, atau kapasitas tetap berada pada desain proyek dan peninjauan tenaga berwenang.
 
-## Langkah 1 — tetapkan scope
+Artinya, lembar penawaran atau sertifikat tidak otomatis menjadi desain struktur. Catatan produk hanya menjawab “benda apa yang dikirim dan bagaimana buktinya”, sedangkan gambar serta perhitungan menjawab “di mana dan bagaimana benda itu dipakai”. [NEEDS GATE-01: identitas produk, spesifikasi proyek, dan persetujuan perencana belum tersedia dalam paket ini.]
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Besi Beton Bukan Artikel Desain Tulangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+![Ilustrasi Harga Besi Beton](/wp-content/uploads/2024/06/Harga-Besi-Beton.png)
+
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+
+## Langkah 1 — tetapkan ruang lingkup
+
+Mulailah dengan menuliskan objek pengadaan secara utuh: jenis produk, bentuk, ukuran yang diminta, standar produk yang dirujuk, jumlah, kondisi pengiriman, dan dokumen yang harus menyertai setiap lot. Istilah “baja struktural” sendiri mencakup keluarga produk dengan bentuk, bagian standar, mutu, dan kondisi pasok yang berbeda; ISO 630-1:2021 menjelaskan bahwa label umum tidak menggantikan pengaitan tersebut dengan dokumen produk yang berlaku (https://www.iso.org/standard/73841.html).
+
+Batas pekerjaan halaman ini berhenti pada pemahaman peran dan pemeriksaan dokumen. Detail tulangan, panjang lewatan, panjang penyaluran, radius tekuk, urutan pengecoran, dan keputusan kapasitas tidak boleh diturunkan dari nama dagang atau tabel penjualan. Jika permintaan pembelian memakai istilah yang kabur, tahan pemesanan dan minta spesifikasi tertulis dari pihak desain atau kontrak.
+
+Pisahkan juga kewenangan di meja kerja. Pembeli memastikan permintaan dapat ditelusuri dan barang yang diterima tidak menyimpang dari dokumen. Pemasok menjelaskan produk serta kelengkapan buktinya. Perencana menetapkan kebutuhan struktur dan menilai perubahan. Pengawas memastikan pekerjaan mengikuti gambar yang sudah disahkan. Pembagian ini membuat pertanyaan mudah diarahkan kepada orang yang tepat, tanpa mengubah artikel pengadaan menjadi resep pemasangan.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Besi Beton Bukan Artikel Desain Tulangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan bukti menjadi tiga map. Map pertama berisi identitas: nama produsen, penandaan batang, ukuran, nomor heat atau lot bila tersedia, dan dokumen pengiriman. Map kedua berisi bukti pengujian. ISO 6892-1:2019 adalah metode uji tarik pada suhu ruang, sedangkan ISO 377:2017 dan amandemennya menjelaskan pemilihan serta penyiapan contoh uji; metode itu tidak sendirinya menetapkan apakah seluruh stok memenuhi mutu yang disyaratkan (https://www.iso.org/standard/78322.html) (https://www.iso.org/standard/72529.html) (https://www.iso.org/standard/89449.html).
+
+Karena itu, cocokkan setiap hasil dengan sumber spesimen, orientasi atau lokasi pengambilan, persiapan, metode, kondisi, satuan, serta identitas produk atau heat. Satu angka dari satu kupon tidak boleh dipindahkan menjadi jaminan untuk semua batang. [NEEDS GATE-02: standar produk, rencana sampling, ruang lingkup laboratorium, dan laporan aktual belum diserahkan.]
+
+Map ketiga berisi konteks proyek: gambar terakhir, spesifikasi, perubahan lapangan, dan siapa yang menyetujui. Catatan PP 16/2021 serta rekaman BSN untuk SNI 1729:2020, SNI 8369:2020, dan SNI 7971:2013 menunjukkan adanya lapisan aturan bangunan, desain, praktik standar, dan desain baja canai dingin yang berbeda (https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021) (https://pesta.bsn.go.id/produk/detail/12882-sni17292020) (https://pesta.bsn.go.id/produk/detail/12885-sni83692020) (https://pesta.bsn.go.id/produk/detail/9714-sni79712013). Rekaman publik itu membantu mengenali dokumen, bukan menggantikan teks standar, data beban, atau persetujuan proyek.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Besi Beton Bukan Artikel Desain Tulangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan yang aman dimulai dari permintaan desain, lalu diterjemahkan menjadi spesifikasi pembelian, kemudian diverifikasi terhadap barang yang datang. Setelah itu, tim lapangan hanya menempatkan dan mengolah batang mengikuti gambar kerja yang telah disetujui. Jika gambar berubah, catat revisinya dan minta pengesahan sebelum material dipotong atau dibengkokkan.
 
-## Hold point dan kondisi berhenti
+Untuk kebutuhan pengadaan, Anda dapat melihat [kategori besi beton](/besi-beton) selama tujuan dan spesifikasi yang diminta tetap sama. Harga atau ketersediaan pada halaman penjualan tidak menjawab kecukupan struktural. Sobat Besi.co.id, perlakukan tautan kategori sebagai langkah memperoleh barang dan dokumen, bukan sebagai otorisasi detailing.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Besi Beton Bukan Artikel Desain Tulangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Saat menerima barang, lakukan pemeriksaan visual dan administratif sesuai rencana mutu proyek: penandaan, jumlah bundel, ukuran yang terukur dengan alat yang sesuai, kondisi permukaan, serta kesesuaian surat jalan. Jangan menyimpulkan kekuatan, daktilitas, atau umur layanan hanya dari tampilan. [NEEDS GATE-03: kriteria penerimaan dan alat ukur yang disetujui proyek belum ada.]
 
-## Verifikasi hasil dan handover
+## Titik tahan dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Besi Beton Bukan Artikel Desain Tulangan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan alur ketika penandaan hilang, dokumen lot tidak cocok, ukuran berbeda dari pesanan, hasil uji tidak dapat ditelusuri, atau gambar kerja belum disetujui. Tahan material secara terpisah dan beri identifikasi; jangan mencampurnya ke area pemasangan sambil menunggu jawaban.
 
-## Objection or shortcut to address
+Pemeriksaan kelelahan atau retak memiliki konteks khusus. Panduan FHWA mengaitkan evaluasi dengan identitas detail, riwayat beban dan perubahan penggunaan, kondisi tegangan, riwayat bahan atau las, korosi, temuan dan perbaikan sebelumnya, akses, pemantauan, serta evaluasi kompeten (https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf) (https://www.fhwa.dot.gov/bridge/inspection/) (https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm). Itu adalah rujukan jembatan, bukan aturan bangunan Indonesia; jangan mengubahnya menjadi interval inspeksi atau keputusan sisa umur untuk proyek Anda. [NEEDS GATE-04: kondisi aset, riwayat beban, dan metode evaluasi belum ditetapkan.]
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Serah terima yang dapat diaudit memuat daftar batang atau lot, dokumen pemasok, hasil uji yang tertaut pada spesimen, catatan ketidaksesuaian, foto penandaan bila diperlukan, dan nomor revisi gambar yang menjadi acuan. Pihak desain atau pengawas menandatangani bagian yang memang menjadi kewenangannya; pembeli tidak mengesahkan kapasitas atas nama mereka.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Buat pertanyaan penutup yang sederhana: “Apakah barang ini identik dengan yang diminta, apakah buktinya dapat ditelusuri, dan apakah penggunaannya sudah disetujui dalam gambar proyek?” Jika salah satu jawaban belum jelas, statusnya tetap menunggu, bukan “dianggap sesuai”. Teman Besi.co.id, bila Anda butuh langkah pengadaan berikutnya, gunakan [halaman kontak](/kontak) hanya setelah spesifikasi dan dokumen permintaan sudah lengkap.
 
-## Draft completion checklist
+## Jalan pintas yang sering gagal
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas yang paling menggoda adalah memakai diameter dan harga sebagai pengganti desain: “batangnya sama, jadi detailnya bisa mengikuti contoh lama”. Cara ini gagal karena penempatan, sambungan, penyaluran, beban, dan kondisi tumpuan merupakan keputusan yang saling terkait. Contoh lama mungkin berasal dari material, bentang, atau aturan berbeda.
+
+Alternatif yang lebih dapat dipertanggungjawabkan adalah meminta paket minimum dari proyek: gambar dan revisi terakhir, spesifikasi material, daftar kebutuhan, rencana pemeriksaan, serta nama penanggung jawab persetujuan. Saat data itu belum ada, tulis [NEEDS GATE-06: review teknis proyek diperlukan sebelum keputusan detailing atau pemasangan] dan jangan mengisi kekosongan dengan asumsi.
+
+## Kesimpulan dan langkah berikutnya
+
+Besi beton bukan artikel desain tulangan. Ia adalah produk yang identitas, mutu, dan dokumen pengadaannya harus cocok dengan permintaan; desain menentukan cara produk itu dipakai. Kawan Besi.co.id, langkah berikut Anda adalah mengumpulkan spesifikasi dan gambar yang disetujui, menautkan setiap lot dengan bukti uji yang sah, lalu meminta review teknis untuk semua keputusan detailing.
+
+Aturan operasinya: bila pertanyaan berubah dari “barang apa yang datang?” menjadi “berapa, di mana, dan bagaimana dipasang?”, berhenti di batas artikel ini dan serahkan keputusan kepada perencana atau peninjau proyek yang berwenang.

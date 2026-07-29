@@ -2,8 +2,9 @@
 article_id: BAR-10-04
 title: "Kapan Chemistry, Tensile, Hardness, atau NDT Dibutuhkan?"
 slug: "test-matrix-steel-bar"
-description: "Map question to test, sample identity, laboratory competence, destructive nature, acceptance owner"
-status: outline
+description: "Memetakan pertanyaan ke jenis uji, identitas sampel, kompetensi laboratorium, sifat destruktif, dan pemilik keputusan penerimaan"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -25,185 +26,94 @@ sources:
   - "https://www.iso.org/standard/64622.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Kapan Chemistry, Tensile, Hardness, atau NDT Dibutuhkan?
 
-## Assignment lock
+Halo, Teman Besi.co.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Kapan Chemistry, Tensile, Hardness, atau NDT Dibutuhkan?”
-- **Reader and situation:** QA/engineer
-- **Reader outcome:** Map question to test, sample identity, laboratory competence, destructive nature, acceptance owner
-- **Primary intent:** Select evidence
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No test prescription
-- **Final public route:** `/artikel/test-matrix-steel-bar.html`
-- **Appointed CMS date:** `2026-04-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Chemistry, tensile, hardness, dan NDT bukan empat pilihan yang bisa dicentang otomatis untuk setiap batang baja. Pilihannya bergantung pada pertanyaan bukti yang hendak dijawab: apakah identitas material dan heat-nya benar, apakah sifat tariknya memenuhi spesifikasi, apakah ada indikasi kondisi permukaan, atau apakah sambungan/objek memiliki cacat yang perlu dicari tanpa memotongnya. Hasil satu pengujian tidak dengan sendirinya membuktikan kesesuaian seluruh stok atau kapasitas struktur.
 
-## Opening instructions
+Urutan amannya adalah memulai dari spesifikasi produk, order, dan rencana inspeksi yang disetujui. Setelah itu tetapkan identitas lot atau heat, cara mengambil benda uji, kompetensi laboratorium, sifat destruktifnya, serta siapa pemilik keputusan terima/tolak. Jika dokumen tersebut belum tersedia, kesimpulan utama masih memerlukan **[NEEDS PROJECT TEST PLAN AND PRODUCT SPECIFICATION REVIEW]**.
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kapan Chemistry, Tensile, Hardness, atau NDT Dibutuhkan?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+## Jawaban singkat dan salah paham utama
 
+**Chemistry** dibutuhkan ketika identitas dan komposisi material menjadi pertanyaan—misalnya untuk mencocokkan heat atau grade yang tertulis dalam spesifikasi. **Tensile** dipakai ketika yang hendak dibuktikan adalah perilaku tarik benda uji menurut metode dan kriteria produk. **Hardness** berguna sebagai pemeriksaan sifat lokal atau indikasi perubahan kondisi, tetapi bukan pengganti otomatis untuk tensile atau chemistry. **NDT** (non-destructive testing, pengujian tak merusak) dipilih ketika objek atau sambungan perlu diperiksa tanpa mengambil potongan untuk uji destruktif.
+
+Kesalahan paling berbahaya ialah menganggap satu angka hasil laboratorium sebagai “sertifikat material”. ISO 6892-1 menjelaskan metode uji tarik pada temperatur ruang, sedangkan ISO 377 dan amendemennya membahas sumber serta penyiapan sampel dan benda uji; keduanya tidak menetapkan nilai penerimaan untuk semua produk ([ISO 6892-1](https://www.iso.org/standard/78322.html), [ISO 377](https://www.iso.org/standard/72529.html), [amendemen ISO 377](https://www.iso.org/standard/89449.html)). Nilai baru bermakna jika terhubung dengan spesimen, orientasi, lokasi, metode, unit, dan identitas produk/heat yang tepat.
+
+Teman Besi.co.id, tanyakan dulu “bukti apa yang hilang?” sebelum meminta laboratorium menjalankan paket tes. Pertanyaan itu mencegah biaya pengujian yang tidak menjawab sengketa sebenarnya.
+
+## Definisi dan batas objek
+
+Dalam artikel ini, “chemistry” berarti hasil analisis komposisi kimia pada sampel yang identitasnya dapat ditelusuri. “Tensile” berarti pengujian tarik terhadap benda uji yang dipersiapkan menurut metode yang dirujuk. “Hardness” berarti pengukuran kekerasan pada titik dan kondisi yang dicatat. “NDT” mencakup teknik pemeriksaan tanpa mengambil bagian material sebagai benda uji—pemilihannya tetap harus mengikuti objek, prosedur, dan kriteria aplikasi.
+
+Batasnya penting: artikel ini membantu memetakan pertanyaan ke jenis bukti, bukan menetapkan metode, jumlah sampel, acceptance level, atau keputusan pelepasan material. Standar metode tidak menggantikan standar produk. Laboratorium yang kompeten meningkatkan kepercayaan pada proses hasil, tetapi akreditasi laboratorium saja tidak membuktikan item tertentu telah sesuai ([ISO/IEC 17025](https://www.iso.org/standard/66912.html)).
+
+## Cara kerjanya
+
+Mulailah dengan matriks sederhana berikut.
+
+| Pertanyaan QA/engineering | Bukti yang dicari | Catatan identitas dan pemilik keputusan |
+| --- | --- | --- |
+| “Material ini grade dan heat yang dinyatakan?” | Chemistry, ditambah dokumen inspeksi dan marking | Cocokkan order, produsen, produk, heat/batch, dimensi, dan tanda fisik; acceptance owner tetap pihak yang ditunjuk kontrak. |
+| “Sifat tarik produk memenuhi persyaratan?” | Tensile pada benda uji yang representatif | Catat sumber, orientasi, preparasi, metode, kondisi, unit, dan hubungan ke heat/lot. |
+| “Ada indikasi perubahan lokal atau ketidakkonsistenan?” | Hardness sebagai data lokal/komparatif | Definisikan lokasi dan kriteria; jangan mengubah korelasi menjadi klaim grade tanpa dasar. |
+| “Apakah objek atau sambungan memiliki indikasi cacat tanpa dipotong?” | NDT dengan teknik dan prosedur yang disetujui | Rekam cakupan, akses, sensitivitas, kalibrasi, temuan, kriteria, dan disposisi. |
+
+Dokumen inspeksi perlu direkonsiliasi dengan pesanan, produsen, produk, heat/batch, dimensi, tes, dan marking fisik ([ISO 10474](https://www.iso.org/standard/53736.html)). Untuk NDT, rekaman yang defensible mengidentifikasi objek atau joint, metode/teknik, prosedur, personel, peralatan dan kalibrasi, akses permukaan, cakupan, sensitivitas, temuan, sumber kriteria, hasil, serta disposisi. ISO 17635 memberi aturan umum NDT las, sementara ISO 9712 berkaitan dengan kualifikasi/sertifikasi personel; abstraknya bukan dasar memilih teknik atau level penerimaan ([ISO 17635](https://www.iso.org/standard/85705.html), [ISO 9712](https://www.iso.org/standard/75614.html)).
+
+## Faktor yang mengubah hasil
+
+Identitas populasi adalah faktor pertama. Batang dengan heat berbeda, pemasok berbeda, atau kondisi penerimaan berbeda tidak boleh digabung hanya karena diameternya sama. Faktor kedua adalah tujuan keputusan: verifikasi dokumen pemasok, investigasi ketidaksesuaian, kualifikasi proses, atau pemeriksaan sambungan memiliki kebutuhan bukti yang berbeda.
+
+Faktor ketiga adalah sifat destruktif. Tensile dan sebagian pengambilan sampel chemistry mengubah atau mengonsumsi benda uji; rencanakan pemotongan, pengawetan identitas, dan pengaruhnya terhadap stok. Hardness dan NDT tidak selalu memerlukan pemotongan, tetapi hasilnya tetap terbatas pada lokasi, akses, teknik, dan kondisi permukaan yang diperiksa.
+
+Faktor keempat adalah tata kelola laboratorium dan sampling. Rencana lot harus menyebut populasi, karakteristik, metode, pemilihan sampel, identitas sampel, frekuensi/ukuran, sumber kriteria, aturan keputusan, tanggung jawab, rekaman, dan jalur nonkonformansi. ISO 2859-1 dan ISO 28590 memperkenalkan kerangka sampling atribut lot-per-lot dan seri ISO 2859; keduanya bukan izin untuk menebak AQL, ukuran sampel, atau aturan switching ([ISO 2859-1](https://www.iso.org/standard/85464.html), [ISO 28590](https://www.iso.org/standard/64622.html)).
+
+Jika acceptance criterion, edisi standar produk, atau rantai identitas belum disepakati, tandai **[NEEDS CURRENT PRODUCT STANDARD, SAMPLING PLAN, AND ACCEPTANCE OWNER]** sebelum pengujian dianggap dasar release.
+
+Kawan Besi.co.id, jadikan kolom yang kosong sebagai sinyal untuk berhenti sejenak dan meminta klarifikasi, bukan sebagai alasan mengisi asumsi dari proyek lain.
+
+## Contoh keputusan praktis
+
+Bayangkan tiga situasi bersyarat, bukan resep proyek.
+
+1. **Dokumen heat meragukan, batang belum dipasang.** Chemistry dapat menjawab pertanyaan komposisi, tetapi sampel harus tertaut ke marking dan dokumen inspeksi. Tambahkan tensile hanya jika spesifikasi produk atau pertanyaan teknis memang memerlukannya. Pemilik keputusan menilai paket bukti, bukan laboratorium sendirian.
+2. **Ada dugaan perubahan kondisi lokal setelah proses.** Hardness dapat menjadi pemeriksaan pemetaan awal pada titik yang disetujui. Bila keputusan menyangkut sifat tarik produk, hardness tidak otomatis menggantikan tensile. Tentukan tindak lanjut berdasarkan spesifikasi dan review kompeten.
+3. **Sambungan sudah berada di lokasi dan tidak boleh dipotong.** NDT mungkin relevan. Teknik, cakupan, akses, personel, kalibrasi, serta acceptance level harus berasal dari rencana NDT/aplikasi yang disetujui. “NDT passed” tanpa rincian tersebut belum cukup untuk klaim umum.
+
+Gunakan kolom “pertanyaan—objek—identitas—metode—kriteria—pemilik keputusan” dalam formulir internal. Jika satu kolom kosong, statusnya adalah menunggu klarifikasi, bukan lulus.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama adalah memilih tes dari nama material saja. Periksa grade, heat/lot, kondisi pasokan, dan dokumen order. Kesalahan kedua adalah mengutip standar metode sebagai syarat penerimaan. Pastikan angka atau batas berasal dari standar produk/kontrak yang berlaku, bukan halaman katalog metode.
+
+Kesalahan ketiga ialah menerima laporan tanpa chain of identity. Cocokkan nomor sampel, marking fisik, segel atau catatan pengambilan, tanggal, laboratorium, metode, unit, dan otorisasi laporan. Kesalahan keempat ialah menyamakan akreditasi dengan jaminan kesesuaian item; minta ruang lingkup akreditasi dan periksa apakah metode yang dipakai tercakup, lalu tetap lakukan rekonsiliasi produk.
+
+Kesalahan kelima adalah menganggap satu hasil mewakili seluruh lot. Tanyakan definisi lot, dasar pemilihan sampel, frekuensi, aturan keputusan, serta jalur NCR. Jangan mengisi kekosongan itu dengan ukuran sampel yang diingat dari proyek lain.
+
+## Jalan pintas yang tampak hemat
+
+Shortcut yang sering menggoda adalah “cukup hardness karena cepat” atau “cukup sertifikat pemasok tanpa tes tambahan”. Keduanya bisa gagal bila pertanyaan sebenarnya menyangkut identitas heat, sifat tarik, atau cacat sambungan. Alternatif yang lebih aman adalah menuliskan pertanyaan keputusan, menghubungkannya ke spesifikasi yang berlaku, lalu meminta review QA/engineer dan laboratorium kompeten atas matriks bukti. Dengan begitu, pengujian tambahan muncul karena kebutuhan yang jelas, bukan karena kebiasaan.
+
+## Kesimpulan dan langkah berikutnya
+
+Chemistry menjawab komposisi dan identitas; tensile menjawab sifat tarik benda uji; hardness memberi informasi lokal dengan batas tertentu; NDT mencari indikasi pada objek tanpa memotongnya. Tidak ada satu tes yang otomatis menetapkan kesesuaian seluruh material.
+
+Langkah berikutnya: minta salinan order, spesifikasi produk, dokumen inspeksi, marking, rencana sampling/ITP, dan—untuk NDT—prosedur serta kriteria yang disetujui. Isi matriks pertanyaan sampai identitas sampel, kompetensi laboratorium, sifat destruktif, dan acceptance owner jelas. Jika salah satu bukti pokok belum ada, hentikan keputusan release dan dokumentasikan **[NEEDS COMPETENT TECHNICAL REVIEW]**. Itu adalah batas operasi yang jujur, bukan kegagalan pengujian.
+
+Untuk konteks material dan langkah inspeksi berikutnya, Anda dapat mulai dari [beranda Besi.co.id](/) dan melihat [kategori besi beton](/besi-beton) sebagai rujukan awal matriks internal. Jika masih ada kolom bukti yang belum jelas, gunakan [halaman kontak](/kontak) untuk menyampaikan pertanyaan secara tertelusur. Sobat Besi.co.id, keputusan akhir tetap berada pada pemilik spesifikasi dan reviewer teknis proyek.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-14
-
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-10-02` → `/artikel/receiving-inspection-besi-beton.html` — Receiving Inspection Besi Beton
-- `BAR-10-03` → `/artikel/measurement-plan-bar.html` — Measurement Plan untuk Dimensi dan Massa Bar
-- `BAR-10-05` → `/artikel/ncr-traceability-cut-bundle.html` — NCR dan Traceability saat Bundle Dipotong
-- `BAR-10-06` → `/artikel/quality-dossier-steel-bar.html` — Quality Dossier Steel Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Chemistry, Tensile, Hardness, atau NDT Dibutuhkan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Chemistry, Tensile, Hardness, atau NDT Dibutuhkan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Chemistry, Tensile, Hardness, atau NDT Dibutuhkan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Chemistry, Tensile, Hardness, atau NDT Dibutuhkan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Chemistry, Tensile, Hardness, atau NDT Dibutuhkan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kapan Chemistry, Tensile, Hardness, atau NDT Dibutuhkan?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

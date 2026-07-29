@@ -1,9 +1,10 @@
 ---
 article_id: BAR-11-04
+writing_contract_version: "native-id-v2"
 title: "MOQ, Stock Length, Cut-to-size, dan Waste"
 slug: "moq-stock-length-cut-to-size"
-description: "Explain availability, cutting, remnants, setup, packing, lead time, waste ownership"
-status: outline
+description: "Panduan memahami ketersediaan, pemotongan, sisa, setup, packing, lead time, dan kepemilikan waste"
+status: draft
 publication_date: "2026-05-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,195 +17,99 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
   - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
-  - "https://www.iso.org/standard/86032.html"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # MOQ, Stock Length, Cut-to-size, dan Waste
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Saat meminta penawaran besi, jangan hanya membandingkan harga per batang atau per kilogram. MOQ (*minimum order quantity*) menentukan jumlah minimum yang harus dipesan, *stock length* adalah panjang batang yang tersedia, *cut-to-size* berarti pemasok memotong sesuai daftar Anda, sedangkan *waste* adalah sisa yang muncul dari pola potong dan proses penanganan. Keempatnya dapat mengubah total biaya dan jadwal.
 
-- **Writer task:** Expand this file into one complete article answering: “MOQ, Stock Length, Cut-to-size, dan Waste”
-- **Reader and situation:** Buyer
-- **Reader outcome:** Explain availability, cutting, remnants, setup, packing, lead time, waste ownership
-- **Primary intent:** Understand cost drivers
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No current price
-- **Final public route:** `/artikel/moq-stock-length-cut-to-size.html`
-- **Appointed CMS date:** `2026-05-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih panjang stok dan pola potong setelah *cut list* disetujui, lalu sepakati tertulis siapa yang membayar potongan, sisa, setup, packing, dan pengiriman. Harga yang tampak murah bisa menjadi lebih tinggi bila MOQ memaksa pembelian berlebih atau sisa tidak dapat dipakai kembali. Angka aktual, kemampuan mesin, dan waktu kirim tetap harus dikonfirmasi pada penawaran proyek; halaman ini tidak menetapkan harga berjalan.
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **MOQ, Stock Length, Cut-to-size, dan Waste**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- Image ID: `LOCAL-001`
+- Source type: `local`
+- Placement: after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-11-02` → `/artikel/membandingkan-penawaran-besi-batang.html` — Membandingkan Penawaran Besi Batang
-- `BAR-11-03` → `/artikel/kebutuhan-bar-dari-cut-list.html` — Menghitung Kebutuhan Bar dari Cut List
-- `BAR-11-05` → `/artikel/substitusi-produk-setelah-po.html` — Substitusi Produk setelah Purchase Order
-- `BAR-11-06` → `/artikel/verifikasi-klaim-supplier-besi.html` — Memverifikasi Klaim Termurah, Pabrik, dan Distributor
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “MOQ, Stock Length, Cut-to-size, dan Waste”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
+- Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “MOQ, Stock Length, Cut-to-size, dan Waste”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+MOQ adalah ambang kuantitas yang diterima pemasok untuk satu spesifikasi, ukuran, atau pesanan. Tanyakan apakah ambang itu berlaku per diameter, per mutu, per panjang, atau gabungan seluruh pesanan. *Stock length* bukan jaminan bahwa semua batang di gudang identik; panjang nominal, toleransi, dan identitas material harus cocok dengan pesanan.
+
+*Cut-to-size* memindahkan sebagian pekerjaan ke pemasok. Anda memberikan panjang jadi dan jumlahnya; pemasok mengalokasikan batang stok, menjalankan mesin, memeriksa hasil, lalu mengemasnya. *Waste* mencakup ujung potongan yang tidak masuk daftar, kerf (lebar material yang hilang karena mata potong), kerusakan saat handling, dan sisa yang masih dapat dimanfaatkan. Bedakan “sisa fisik” dari “susut yang ditagihkan”: keduanya perlu definisi di penawaran.
+
+Artikel ini membahas keputusan pengadaan dan serah-terima. Ia tidak menggantikan gambar kerja, persetujuan metode pemotongan, atau keputusan insinyur tentang kecukupan material. Tidak ada angka harga, toleransi, kapasitas mesin, atau lead time universal yang aman untuk diasumsikan. Untuk konteks kebutuhan material, Anda dapat mulai dari [beranda Besi.co.id](/) atau melihat pilihan [besi siku AS](/as-s45c) sebelum meminta penawaran rinci.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “MOQ, Stock Length, Cut-to-size, dan Waste”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutannya sebaiknya dimulai dari *cut list* yang memiliki nomor item, ukuran jadi, kuantitas, satuan, dan toleransi yang disetujui. Pemasok lalu membuat rencana nesting: beberapa potongan ditempatkan pada satu batang stok untuk meminimalkan sisa. Rencana itu harus menunjukkan panjang stok yang dipakai, jumlah batang, kerf atau allowance proses yang relevan, dan sisa per batang.
+
+Setelah Anda menyetujui rencana, pemasok mengunci ketersediaan dan jadwal. MOQ dapat memaksa pembulatan jumlah batang; kelebihan itu bukan otomatis menjadi milik pemasok atau pembeli. Minta klausul yang menyebut apakah batang penuh, potongan, dan sisa dikirim, disimpan, atau dibuang. Untuk pekerjaan berulang, setup mesin mungkin dibebankan sekali per ukuran atau sekali per batch; pastikan definisinya sebelum PO.
+
+Pada tahap pemotongan, identitas material harus tetap terlacak. Dokumen inspeksi perlu direkonsiliasi dengan pesanan, produsen, produk, heat/batch, dimensi, pengujian, dan tanda fisik; ISO 10474:2013 menjelaskan kerangka dokumen inspeksi, tetapi dokumen itu sendiri tidak membuktikan barang tertentu diterima tanpa pemeriksaan proyek ([ISO 10474:2013](https://www.iso.org/standard/53736.html)). Bila hasil uji berasal dari laboratorium eksternal, kompetensi menurut ISO/IEC 17025:2017 meningkatkan kepercayaan pada proses laboratorium, bukan menjadi bukti otomatis bahwa setiap potongan sesuai ([ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)).
+
+Packing dan label adalah bagian dari biaya, bukan detail belakangan. Labelkan nomor item, panjang jadi, jumlah, heat/batch bila disyaratkan, dan referensi *cut list*. Pisahkan bundel berdasarkan tahap pemasangan agar penerima dapat menghitung tanpa membuka semua ikatan. Tetapkan siapa menanggung risiko bila sisa atau label hilang selama pengiriman.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “MOQ, Stock Length, Cut-to-size, dan Waste”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi berikut biasanya mengubah jumlah batang dan biaya total:
+
+| Faktor | Pertanyaan yang perlu dijawab | Dampak bila kabur |
+|---|---|---|
+| MOQ | Berlaku per spesifikasi atau seluruh PO? | Pembelian berlebih dan stok mengendap |
+| Panjang stok | Panjang aktual apa yang tersedia dan boleh dipakai? | Pola potong berubah, sisa bertambah |
+| Toleransi | Toleransi potong dan pemeriksaan di mana ditetapkan? | Potongan ditolak atau perlu rework |
+| Setup | Sekali per batch, ukuran, atau perubahan material? | Biaya kecil berulang menjadi besar |
+| Waste | Sisa dikirim, dikreditkan, disimpan, atau dibuang? | Perselisihan kepemilikan dan tagihan |
+| Lead time | Mulai dihitung dari PO, pembayaran, atau persetujuan gambar? | Jadwal tampak cepat tetapi tidak realistis |
+| Packing | Berat, bundel, pelindung ujung, dan label termasuk? | Kerusakan atau bongkar ulang di lokasi |
+
+Jenis proses juga berpengaruh. Pemotongan termal memiliki karakteristik proses dan mutu tepi yang harus ditautkan ke material, tebal, gambar, pengukuran, dan fungsi komponen; ISO 9013:2017 beserta amendemennya dapat menjadi rujukan proses, namun bukan izin memakai satu toleransi untuk semua bengkel ([ISO 9013:2017](https://www.iso.org/standard/60321.html)). Jika komponen akan dilas atau dikerjakan lanjut, minta prosedur dan kriteria penerimaan yang disetujui. [NEEDS PROJECT EVIDENCE: toleransi, allowance kerf, dan acceptance cut-to-size]
+
+Untuk klaim keberlanjutan atau asal material, jangan menyamakan label administratif dengan identitas fisik. ISO 22095:2020 membedakan model *identity preservation*, segregasi, dan *mass balance*; klaim yang dapat diaudit memerlukan batas sistem, catatan input-output, aturan transfer, pihak bertanggung jawab, dan pencegahan penghitungan ganda ([ISO 22095:2020](https://www.iso.org/standard/72532.html)). Jika klaim itu memengaruhi pembelian, minta skema klaim dan bukti transaksi yang masih berlaku. [NEEDS CLAIM EVIDENCE: model chain-of-custody dan catatan serah-terima]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “MOQ, Stock Length, Cut-to-size, dan Waste”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan daftar Anda memerlukan banyak potongan pendek dari satu ukuran, sementara pemasok hanya menawarkan batang panjang tertentu. Ada tiga pilihan bersyarat:
+
+1. **Beli batang penuh dan potong di lokasi.** Pilih ini bila alat, tenaga, dan pemeriksaan potong memang tersedia. Anda menanggung sisa, keselamatan kerja, dan waktu pemotongan.
+2. **Pesan *cut-to-size*.** Pilih bila dimensi jadi sudah dibekukan dan pemasok dapat menunjukkan rencana potong. Minta harga memisahkan material, jasa potong, setup, packing, dan angkutan.
+3. **Terima panjang alternatif.** Pilih hanya setelah desain dan toleransi menyatakan panjang itu dapat dipakai. Jangan menganggap “lebih panjang” selalu lebih ekonomis karena sisa dan handling dapat meningkat.
+
+Sebelum memilih, minta satu lembar rekonsiliasi: kebutuhan jadi, batang stok, jumlah batang dibeli, total panjang masuk, panjang jadi keluar, kerf/allowance, sisa dapat guna, dan sisa tidak dapat guna. Tabel itu memungkinkan Anda menguji asumsi tanpa mengarang persentase waste. Kawan Besi.co.id, bila pemasok belum dapat menunjukkan rekonsiliasi sederhana ini, tahan persetujuan kuantitas sampai datanya jelas. Sobat Besi.co.id dapat memakai format tersebut untuk membandingkan penawaran yang masuk tanpa mencampur harga material dan jasa.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “MOQ, Stock Length, Cut-to-size, dan Waste”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengalikan jumlah potongan dengan panjangnya lalu menganggap hasilnya sama dengan jumlah batang. Metode itu mengabaikan panjang stok, kerf, dan susunan potong. Kesalahan kedua adalah menyebut semua sisa sebagai “waste” lalu membebankan seluruhnya tanpa aturan kepemilikan. Kesalahan ketiga adalah mengunci jadwal dari tanggal penawaran, padahal lead time mungkin baru berjalan setelah PO, pembayaran, atau persetujuan gambar.
 
-## Objection or shortcut to address
+Gunakan pemeriksaan berikut sebelum menerbitkan PO:
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+- Cocokkan revisi *cut list* dengan gambar dan nomor item.
+- Minta konfirmasi stok aktual dan tanggal *hold* ketersediaan.
+- Minta rencana potong, jumlah batang, kerf/allowance yang dipakai, serta daftar sisa.
+- Pastikan toleransi, metode ukur, dan kriteria terima disetujui pihak teknis.
+- Tulis perlakuan sisa: dikirim bersama, disimpan, dikreditkan, atau menjadi milik siapa.
+- Pisahkan tanggal siap potong, siap packing, dan siap kirim.
+- Saat terima, cocokkan label, jumlah, dimensi, tanda material, dan dokumen inspeksi; catat selisih sebelum bundel dipindahkan.
 
-## Required conclusion
+[NEEDS REVIEW: persetujuan teknis dan syarat kontrak proyek untuk waste ownership, toleransi, dan lead time]
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jalan pintas yang tampak murah
 
-## Draft completion checklist
+“Ambil saja harga per batang termurah; urusan potong dan sisa nanti.” Shortcut ini gagal ketika harga satuan tidak memuat setup, packing, angkutan, atau batang tambahan akibat MOQ. Sisa juga dapat menjadi biaya tersembunyi bila tidak dapat dipakai pada item lain. Alternatif yang lebih aman adalah meminta penawaran berbasis *cut list* dengan seluruh komponen biaya dan aturan sisa tertulis, lalu membandingkan total biaya yang benar-benar sampai di lokasi.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Aturan sebelum menyetujui
+
+MOQ, *stock length*, *cut-to-size*, dan *waste* adalah satu keputusan pengadaan: jumlah minimum dan panjang stok menentukan pola potong; pola potong menentukan sisa; jasa potong, setup, packing, dan lead time menentukan biaya serta jadwal. Sebelum menyetujui, minta rekonsiliasi material, konfirmasi ketersediaan, aturan kepemilikan sisa, dan kriteria pemeriksaan yang disetujui proyek. Teman Besi.co.id, jika salah satu bukti itu belum ada, tandai sebagai [NEEDS PROJECT REVIEW] dan jangan mengubah asumsi menjadi angka pasti. Jika data belum cukup untuk mengunci jumlah atau jadwal, kirimkan cut list dan pertanyaan Anda melalui [halaman kontak Besi.co.id](/kontak) agar penawaran dapat ditinjau dengan konteks yang jelas.

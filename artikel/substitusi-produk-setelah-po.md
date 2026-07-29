@@ -2,8 +2,9 @@
 article_id: BAR-11-05
 title: "Substitusi Produk setelah Purchase Order"
 slug: "substitusi-produk-setelah-po"
-description: "Require identity/evidence, geometry, processing, schedule/cost, approval, traceability"
-status: outline
+description: "Memastikan identitas dan bukti, geometri, proses, dampak waktu/biaya, persetujuan, serta ketertelusuran"
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-05-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,191 +20,95 @@ sources:
   - "https://www.iso.org/standard/9985.html"
   - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
   - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Substitusi Produk setelah Purchase Order
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Substitusi Produk setelah Purchase Order”
-- **Reader and situation:** Project team
-- **Reader outcome:** Require identity/evidence, geometry, processing, schedule/cost, approval, traceability
-- **Primary intent:** Control change
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No automatic approval
-- **Final public route:** `/artikel/substitusi-produk-setelah-po.html`
-- **Appointed CMS date:** `2026-05-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Substitusi Produk setelah Purchase Order**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Teman Besi.co.id!
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Substitusi produk setelah *purchase order* (PO/pesanan pembelian) terbit bukan penggantian nama barang di surat jalan. Jawaban amannya: jangan anggap penggantian otomatis sah. Tahan pemakaian sampai identitas material, geometri, proses, dampak waktu-biaya, persetujuan, dan jejak dokumennya dibandingkan dengan PO, gambar, serta spesifikasi yang disetujui. Hasilnya dapat berubah hanya jika paket bukti dan persetujuan proyek menyatakan barang pengganti memenuhi fungsi yang diminta.
 
-### KR-01
+Label “setara” juga bukan bukti. [NEEDS GATE-01: persetujuan teknis dan kontraktual untuk substitusi belum tersedia di paket ini.] Keputusan penerimaan harus datang dari pihak berwenang di proyek, bukan dari harga atau stok semata.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-11-03` → `/artikel/kebutuhan-bar-dari-cut-list.html` — Menghitung Kebutuhan Bar dari Cut List
-- `BAR-11-04` → `/artikel/moq-stock-length-cut-to-size.html` — MOQ, Stock Length, Cut-to-size, dan Waste
-- `BAR-11-06` → `/artikel/verifikasi-klaim-supplier-besi.html` — Memverifikasi Klaim Termurah, Pabrik, dan Distributor
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Substitusi Produk setelah Purchase Order”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alasan “stok habis, spesifikasi sama” perlu diuji terhadap seluruh isi PO: produsen, grade, ukuran, kuantitas, kondisi pengiriman, dan dokumen mutu. Penggantian diperlakukan sebagai usulan perubahan. Minta pemasok menunjukkan apa yang sama, apa yang berubah, dan bukti untuk setiap perbedaan.
+
+Dokumen inspeksi harus direkonsiliasi dengan pesanan, produsen, produk, heat/batch, dimensi, hasil uji, dan tanda fisik; kerangka [ISO 10474:2013](https://www.iso.org/standard/53736.html) membantu menata pemeriksaan itu. Kompetensi laboratorium menurut [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html) menambah kepercayaan pada proses uji, tetapi tidak dengan sendirinya membuktikan barang tertentu sesuai.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Substitusi Produk setelah Purchase Order”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Substitusi di sini berarti menawarkan produk pengganti setelah PO terbit dan sebelum atau saat penerimaan. Perubahannya dapat menyangkut produsen, grade, ukuran nominal, schedule, panjang, bentuk, proses pembuatan, atau skema klaim asal. Artikel ini membahas kendali perubahan dan bukti penerimaan—bukan penetapan desain baru, pengesahan hukum kontrak, atau jaminan bahwa semua pengganti aman.
+
+Bedakan *technical equivalence* (fungsi dan persyaratan teknis terpenuhi), *commercial acceptability* (harga, kuantitas, waktu), dan *contractual approval* (pihak berwenang menyetujui). Ketiganya dapat memiliki penanggung jawab berbeda. Teman Besi.co.id, temuan teknis saja tidak otomatis mengubah kewajiban kontrak.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Substitusi Produk setelah Purchase Order”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tetapkan acuan awal: PO, revisi gambar, spesifikasi, dan daftar dokumen yang dijanjikan. Minta matriks perbandingan barang PO dan usulan pengganti, berisi produsen, grade, ukuran dan ketebalan, panjang, proses, kuantitas, tanggal siap, harga, sertifikat, serta penandaan fisik.
+
+Urutkan kendali berikut:
+
+1. **Identitas.** Cocokkan heat/batch, tanda pada bundel atau produk, sertifikat, dan nomor pengiriman. Jika rantai identitas terputus, hentikan klaim kesetaraan.
+2. **Geometri.** Label nominal bukan ukuran terukur. Untuk pipa, massa teoritis terikat pada geometri, panjang, asumsi kerapatan, pembulatan, dan tabel produk; lihat [ISO 4200](https://www.iso.org/standard/9985.html) dan [ASME B36.10](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe). Rujukan tabel tidak menggantikan pengukuran penerimaan atau syarat PO.
+3. **Proses dan antarmuka.** Periksa perubahan pemotongan, pengelasan, pelapisan, atau pemesinan. [ISO 9013](https://www.iso.org/standard/60321.html) dan [ISO 13920](https://www.iso.org/standard/86032.html) memberi konteks mutu potongan termal dan toleransi umum konstruksi las; kelas toleransi dan metode ukur tetap berasal dari gambar serta prosedur yang disetujui.
+4. **Dampak.** Catat waktu tunggu pasok, biaya inspeksi, sisa stok, ongkos potong, perubahan berat yang ditagihkan, dan risiko jadwal. Massa teoritis bukan hasil timbang atau otomatis menjadi dasar tagihan.
+5. **Persetujuan.** Ajukan matriks, bukti, analisis dampak, dan rekomendasi. [NEEDS GATE-02: pejabat proyek dan mekanisme perubahan belum ditentukan.] Setelah disetujui tertulis, revisi PO atau dokumen perubahan.
+6. **Penerimaan.** Simpan sertifikat, laporan inspeksi, catatan penerimaan, dan keputusan persetujuan bersama nomor lot. Pisahkan material pengganti dari stok awal sampai statusnya jelas.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Substitusi Produk setelah Purchase Order”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Fungsi menentukan tingkat kehati-hatian. Komponen untuk sambungan kritis, tekanan, temperatur, atau lingkungan korosif tidak dapat dinilai dengan ukuran saja. “Lebih tebal” atau “lebih kuat” mungkin tetap bermasalah bila ukuran luar, sambungan, kemampuan las, atau ruang pemasangan berubah.
+
+Periksa pula batas penerapan dari dokumen yang dikirim pemasok. Judul standar atau status publik hanya membantu mengenali dokumen; ia tidak menggantikan spesifikasi kontrak, edisi yang disepakati, atau hasil inspeksi barang aktual. Bila revisi standar, gambar, dan PO tidak selaras, minta klarifikasi tertulis sebelum membuat perbandingan. [NEEDS GATE-08: edisi acuan dan hirarki dokumen proyek belum dikonfirmasi.]
+
+Geometri dan proses hilir juga penting. Diameter, ketebalan, panjang, radius tekuk, atau kondisi tepi dapat mengubah kecocokan sambungan (*fit-up*). Toleransi umum bukan pengganti toleransi gambar; penerapan harus mengaitkan bahan, ketebalan, efek panas, pengukuran, dan fungsi akhir.
+
+Untuk klaim asal atau keberlanjutan, [ISO 22095](https://www.iso.org/standard/72532.html) membedakan penjagaan identitas fisik, neraca massa (*mass balance*), dan klaim administratif. Klaim yang dapat diaudit memerlukan batas sistem, catatan input-output, aturan transfer, penanggung jawab, dan pencegahan penghitungan ganda (*double counting*). Dokumen yang dipakai perlu dibaca bersama skema yang berlaku; [NEEDS GATE-04: skema klaim, ruang jaminan, dan catatan transaksi belum diverifikasi.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Substitusi Produk setelah Purchase Order”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Situasi | Bukti minimum | Keputusan sementara |
+|---|---|---|
+| Produsen berubah, grade dan ukuran diklaim sama | Matriks, sertifikat per heat, penandaan, analisis dampak | Karantina; ajukan persetujuan |
+| Ukuran nominal sama, panjang potong berbeda | Hasil ukur, revisi daftar potong (*cut list*), dampak sisa bahan (*waste*) dan sambungan | Jangan terima sebagai sama sebelum revisi |
+| Sertifikat ada, nomor heat tidak cocok | Klarifikasi dan bukti rantai identitas | Tahan atau tolak |
+| Barang lebih cepat, klaim keberlanjutan berubah | Skema klaim, catatan input-output, cakupan jaminan | Pisahkan keputusan jadwal dari klaim |
+
+Ini pola keputusan, bukan persetujuan proyek. Sobat Besi.co.id, tandai setiap sel tanpa bukti sebagai terbuka sebelum rilis material.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Substitusi Produk setelah Purchase Order”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan hanya membandingkan harga dan ukuran. Tanyakan: apakah produsen, heat/batch, grade, ukuran terukur, dan tanda fisik tertaut ke PO? Apakah penerbit dokumen dan metode uji dapat diverifikasi? Apakah gambar dan prosedur fabrikasi menerima perubahan? Siapa menanggung inspeksi ulang, keterlambatan, atau material tersisa? Apakah keputusan tertulis mencantumkan revisi, kuantitas, dan batas penggunaan? Apakah catatan penerimaan menjaga segregasi dan jejak lot sampai serah terima?
 
-## Objection or shortcut to address
+Jangan menghapus catatan barang awal hanya karena pengganti datang lebih dulu. Jejak keputusan membantu audit dan mencegah barang tertukar.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang terlihat praktis
 
-## Required conclusion
+Mengirim barang “dulu, administrasi menyusul” memindahkan risiko ke gudang dan pelaksana. Material dapat terpasang sebelum identitas, geometri, atau kewenangan perubahan selesai. Alternatifnya adalah status karantina, pemeriksaan terbatas yang disepakati, lalu pelepasan setelah persetujuan terdokumentasi. [NEEDS GATE-06: kriteria pelepasan dan pemeriksaan proyek belum ditetapkan.]
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan dan langkah berikutnya
 
-## Draft completion checklist
+Substitusi setelah PO hanya layak diproses sebagai perubahan terkendali. Kumpulkan acuan awal PO, matriks perbandingan, sertifikat tertaut ke heat/batch, verifikasi geometri dan proses, analisis jadwal-biaya, lalu minta persetujuan pihak berwenang sebelum material dipakai. Untuk klaim rantai pasok, pastikan model dan catatan transfernya jelas.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Besi.co.id, pegang aturan ini: tidak ada label “setara” tanpa bukti identitas dan keputusan tertulis. Minta penelaahan teknis dan kontraktual untuk menutup [NEEDS GATE-08: paket persetujuan akhir dan rencana ketertelusuran belum tersedia]. Artikel ini tidak menggantikan penilaian profesional proyek.
+
+Untuk mengirim paket permintaan perubahan, mulai dari [halaman besi beton Besi.co.id](/besi-beton) dan simpan nomor revisi pada setiap lampiran. Setelah pihak berwenang menandatangani keputusan, distribusikan salinannya ke pembelian, gudang, pengendalian mutu (QC), dan pelaksana; tanpa langkah itu, status material tetap belum boleh dianggap disetujui. Bila perlu menghubungi tim untuk menutup bukti yang kurang, gunakan [kanal kontak Besi.co.id](/kontak) dan cantumkan nomor PO.

@@ -3,7 +3,7 @@ article_id: BAR-02-02
 title: "As Baja untuk Poros: Data yang Harus Diberikan ke Engineer"
 slug: "data-as-baja-untuk-poros"
 description: "Capture grade evidence, diameter, machining, load/speed, keyways, heat treatment"
-status: outline
+status: draft
 publication_date: "2025-09-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,51 +13,17 @@ reader_community: "Besi.co.id"
 reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/data-as-baja-untuk-poros.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/52949.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
   - "https://www.iso.org/standard/73841.html"
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # As Baja untuk Poros: Data yang Harus Diberikan ke Engineer
 
-## Assignment lock
 
-- **Writer task:** Expand this file into one complete article answering: “As Baja untuk Poros: Data yang Harus Diberikan ke Engineer”
-- **Reader and situation:** Machinery buyer
-- **Reader outcome:** Capture grade evidence, diameter, machining, load/speed, keyways, heat treatment
-- **Primary intent:** Prepare inputs
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No shaft design
-- **Final public route:** `/artikel/data-as-baja-untuk-poros.html`
-- **Appointed CMS date:** `2025-09-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **As Baja untuk Poros: Data yang Harus Diberikan ke Engineer**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -66,143 +32,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Kawan Besi.co.id! Untuk meminta rekomendasi as baja sebagai poros, jangan kirim pesan hanya berisi “diameter 50 mm” atau nama dagang seperti “baja as”. Data minimum yang perlu diterima engineer adalah bukti grade, bentuk dan ukuran bahan awal, geometri akhir hasil machining, beban dan putaran, detail keyway, serta kondisi heat treatment yang diinginkan. Tanpa rangkaian data itu, jawaban material mudah berubah menjadi tebakan.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban tersebut belum menetapkan ukuran poros atau menyatakan satu grade pasti. Engineer masih harus memeriksa gambar, perhitungan, lingkungan kerja, dan dokumen pembelian. Bila salah satu data utama belum ada, tandai sebagai **[NEEDS PROJECT DATA AND COMPETENT ENGINEERING REVIEW]** sebelum material dipesan.
 
-### KR-01
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-04
-
-- **Original sources:** [ISO 630-1:2021 — general delivery conditions for hot-rolled structural products](https://www.iso.org/standard/73841.html)
-- **Purpose for this article:** Separate a general structural-steel family from sheet/strip, tube, and the specific grades in other parts of the standard.
-- **Safe grounded facts:** A structural use label is not one universal product specification. Form, standard part, grade, supply condition, dimensions, and order requirements must remain linked.
-- **Limits:** Do not extract grades, chemistry, mechanical values, tolerances, or weldability from the abstract. Obtain the applicable ISO/SNI/ASTM/JIS product document and project specification through G-01/G-02.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-02-01` → `/artikel/bentuk-batang-baja.html` — Panduan Bentuk Batang Baja untuk Pembeli
-- `BAR-02-03` → `/artikel/nako-polos-vs-nako-ulir.html` — Nako Polos vs Nako Ulir: Perbedaan Geometri dan Intent
-- `BAR-02-04` → `/artikel/besi-beton-polos-dan-sirip.html` — Besi Beton Polos dan Sirip: Identitas Produk sebelum Pemakaian
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “As Baja untuk Poros: Data yang Harus Diberikan ke Engineer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“As” menggambarkan bentuk batang, bukan grade, komposisi kimia, kekuatan, atau kecocokan untuk poros. Istilah produk perlu dipisahkan dari bukti material: kosakata produk baja membedakan bentuk dan tahap pembuatan, tetapi tidak otomatis menetapkan grade, toleransi, atau suitability (kesesuaian) pemakaian ([ISO 6929:2013](https://www.iso.org/standard/52949.html)). Karena itu, kirimkan sertifikat material (mill certificate atau certificate of conformity), marking pada batang, dan standar produk yang dirujuk—bukan hanya foto atau label toko.
+
+Kawan Besi.co.id, perlakukan poros sebagai antarmuka antara material, proses bubut, dan mesin. Jika torsi, putaran, atau beban berubah, pilihan material dan perlakuan panas dapat ikut berubah. Engineer membutuhkan kondisi operasi aktual untuk menilai hal itu; artikel ini menyiapkan inputnya, bukan menggantikan desain poros.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “As Baja untuk Poros: Data yang Harus Diberikan ke Engineer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dibahas adalah data untuk mengevaluasi bahan batang baja yang akan dikerjakan menjadi poros. “Baja as”, round bar, bright bar, dan istilah pemasok lain harus ditautkan ke bentuk produk, standar, grade, kondisi pasokan, dimensi, dan persyaratan pesanan. Bahkan keluarga baja struktural memiliki bagian standar dan kondisi pengiriman yang berbeda; label penggunaan umum tidak menjadi satu spesifikasi universal ([ISO 630-1:2021](https://www.iso.org/standard/73841.html)).
+
+Yang tidak dibahas: penentuan diameter aman, faktor keamanan, umur lelah, ukuran fillet, pemilihan bantalan, atau persetujuan final. Semua itu memerlukan gambar dan tinjauan engineer yang berwenang. Data di bawah ini adalah paket permintaan agar tinjauan tersebut dapat dimulai dengan konteks yang cukup.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “As Baja untuk Poros: Data yang Harus Diberikan ke Engineer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kirim informasi dalam urutan yang mengurangi bolak-balik:
+
+1. **Identitas material.** Tulis grade persis seperti pada sertifikat, standar dan edisinya, nomor heat/batch, bentuk produk (batang canai panas atau batang presisi), serta kondisi pasokan. Lampirkan halaman sertifikat yang memuat identitas dan hasil uji; jangan menyalin angka yang tidak ada di dokumen.
+2. **Bahan awal dan ukuran.** Cantumkan diameter nominal, panjang pembelian, allowance untuk bubut, dan cara penerimaan (pengukuran diameter atau penimbangan). Tabel massa teoritis selalu terkait geometri dan tabel rujukan tertentu; massa teoritis bukan pengganti pemeriksaan barang datang ([ISO 4200:1991](https://www.iso.org/standard/9985.html)).
+3. **Gambar akhir.** Berikan diameter tiap langkah, panjang, toleransi, runout, permukaan, ulir, chamfer, radius, dan datum. Tandai mana yang dikerjakan pemasok dan mana yang dikerjakan di lokasi.
+4. **Beban dan putaran.** Jelaskan torsi kontinu dan puncak, gaya lentur atau aksial, arah pembebanan, putaran minimum–maksimum, siklus start-stop, serta cara poros terhubung ke kopling, pulley, roda gigi, atau bantalan. Jika belum ada angka, minta pemilik mesin mengesahkan rentang operasi; jangan mengisinya dengan perkiraan.
+5. **Detail keyway.** Sertakan posisi, panjang, lebar, kedalaman, jumlah, orientasi, dan standar atau gambar pasangannya. Keyway mengurangi penampang efektif dan menciptakan konsentrasi tegangan, sehingga engineer perlu melihat geometri nyata, bukan sekadar tulisan “pakai pasak”.
+6. **Heat treatment dan inspeksi.** Nyatakan apakah kondisi annealed, normalized, quenched-and-tempered, case hardening, atau tanpa perlakuan panas memang dipersyaratkan oleh proyek. Minta prosedur, rekaman temperatur, kekerasan dan metode uji yang disepakati. Jangan menyatakan target angka sebelum spesifikasi proyek menguncinya.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “As Baja untuk Poros: Data yang Harus Diberikan ke Engineer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa perubahan kecil pada input mengubah pertanyaan engineer. Putaran tinggi dan start-stop sering menuntut perhatian pada fatigue (kelelahan); beban kejut memerlukan riwayat puncak, bukan hanya beban rata-rata. Korosi, temperatur, kontaminasi, dan pelumasan menentukan lingkungan, tetapi belum cukup untuk menyimpulkan grade tertentu.
+
+Bentuk awal juga penting. Batang bulat, tabung, dan profil memiliki jalur standar serta bukti yang berbeda; klasifikasi bentuk tidak membuktikan kimia atau performa. Jika pemasok menawarkan “setara”, minta matriks perbandingan standar, grade, kondisi pasokan, dan sertifikat. [NEEDS GATE-01: standar material dan status penerimaan proyek belum ditetapkan.]
+
+Proses machining dapat mengubah kebutuhan inspeksi. Toleransi ketat, permukaan bantalan, lubang melintang, alur snap ring, dan keyway harus muncul pada gambar yang sama. Heat treatment sebelum atau sesudah bubut juga memengaruhi allowance dan kemungkinan distorsi; urutan ini harus diputuskan bersama engineer dan pelaksana proses, bukan diasumsikan dari nama grade.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “As Baja untuk Poros: Data yang Harus Diberikan ke Engineer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini saat menyiapkan lembar permintaan:
+
+| Kondisi yang diketahui | Data tambahan yang diminta | Keputusan yang boleh diambil |
+| --- | --- | --- |
+| Ada sertifikat dengan grade dan heat number | Cocokkan marking, jumlah, dan ukuran aktual | Lanjutkan ke pemeriksaan gambar dan beban |
+| Hanya ada label “baja as” | Minta standar, grade, sertifikat, dan kondisi pasokan | Tahan pembelian sampai identitas terbukti |
+| Diameter bahan ada, beban belum ada | Minta torsi, gaya, putaran, dan duty cycle | Jangan menyimpulkan diameter aman atau grade |
+| Keyway disebut, dimensinya tidak ada | Kirim gambar pasak dan detail alur | Engineer menilai geometri sebelum menetapkan bahan |
+| Heat treatment diminta tanpa target | Klarifikasi fungsi, rentang kekerasan, dan metode uji | Tetapkan spesifikasi hanya setelah review kompeten |
+
+Contoh bersyarat: bila poros hanya akan dipakai sebagai pengganti sementara, status itu harus ditulis bersama batas waktu dan inspeksi. Bila akan menjadi komponen produksi, minta engineer mengesahkan gambar, material, dan rencana verifikasi. Sobat Besi.co.id, bedakan “cukup untuk penawaran” dari “cukup untuk dirilis ke produksi”.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “As Baja untuk Poros: Data yang Harus Diberikan ke Engineer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai diameter lama sebagai bukti bahwa bahan baru setara. Periksa diameter aktual, allowance, toleransi, dan riwayat material secara terpisah. Kedua, menganggap foto marking sebagai sertifikat; foto hanya petunjuk awal sampai nomor heat dan dokumen pemasok dicocokkan.
 
-## Objection or shortcut to address
+Ketiga, mencampur massa teoritis dengan berat invoice. Tanyakan tabel, panjang, asumsi geometri, dan dasar komersial yang berlaku; timbang barang datang bila kontrak memerlukannya. Keempat, menyebut “sudah heat treatment” tanpa prosedur dan rekaman. Minta dokumen proses serta metode pemeriksaan yang dapat diaudit.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kelima, mengirim beban nominal tanpa kejadian puncak. Tambahkan start-stop, macet, getaran, dan arah gaya. Jika data itu belum tersedia, tulis `[NEEDS LOAD/SPEED HISTORY]` dan hentikan kesimpulan material sampai pemilik mesin mengonfirmasi.
 
-## Required conclusion
+## Jalan pintas yang perlu dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah membeli batang dengan diameter sama dan meminta tukang bubut “menyesuaikan”. Cara ini gagal ketika grade, keyway, putaran, atau beban berbeda dari poros lama. Machining dapat menghasilkan ukuran yang tampak benar, tetapi tidak membuktikan kapasitas atau ketahanan lelah.
 
-## Draft completion checklist
+Alternatif yang lebih aman: kirim satu paket berisi sertifikat, foto/marking, ukuran bahan awal, gambar akhir, data operasi, keyway, dan persyaratan heat treatment. Minta engineer menuliskan asumsi yang masih kosong, lalu konfirmasi setiap asumsi kepada pemilik mesin sebelum PO diterbitkan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan
+
+Untuk menjawab “as baja apa untuk poros?”, berikan bukti grade dan standar, ukuran serta bentuk bahan awal, gambar machining lengkap, beban–putaran, detail keyway, dan kebutuhan heat treatment. Jangan mengubah label dagang menjadi spesifikasi teknis tanpa dokumen.
+
+Langkah berikutnya adalah membuat lembar data satu halaman, melampirkan sertifikat dan gambar, lalu meminta tinjauan engineer untuk mengisi `[NEEDS PROJECT DATA AND COMPETENT ENGINEERING REVIEW]` serta `[NEEDS GATE-01]` yang masih terbuka. Untuk menyiapkan pertanyaan pemasok, Anda dapat mulai dari [beranda Besi.co.id](/) dan membandingkan kebutuhan bahan dengan informasi [baja struktural AS S45C](/as-s45c) sebagai konteks produk—bukan sebagai keputusan otomatis untuk poros. Jika data operasi belum lengkap, siapkan berkasnya untuk dibahas melalui [kontak Besi.co.id](/kontak). Teman Besi.co.id, operating rule-nya sederhana: tidak ada pembelian atau pelepasan ke produksi sebelum identitas material dan kondisi kerja dapat ditelusuri ke dokumen proyek yang disetujui.

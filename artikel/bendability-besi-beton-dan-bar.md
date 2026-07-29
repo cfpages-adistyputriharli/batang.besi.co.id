@@ -2,8 +2,9 @@
 article_id: BAR-07-04
 title: "Bendability Besi Beton dan Bar Tidak Bisa Ditebak"
 slug: "bendability-besi-beton-dan-bar"
-description: "Require grade, diameter, condition, current standard, equipment, temperature, procedure"
-status: outline
+description: "Kenali bukti dan kondisi yang harus diperiksa sebelum menilai kemampuan tekuk besi beton atau bar."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,51 +17,13 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/78322.html"
   - "https://www.iso.org/standard/72529.html"
-  - "https://www.iso.org/standard/89449.html"
   - "https://www.iso.org/standard/60321.html"
-  - "https://www.iso.org/standard/87851.html"
-  - "https://www.iso.org/standard/86032.html"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
   - "https://www.cdc.gov/niosh/welding/about/index.html"
   - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Bendability Besi Beton dan Bar Tidak Bisa Ditebak
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Bendability Besi Beton dan Bar Tidak Bisa Ditebak”
-- **Reader and situation:** Site/fabrication team
-- **Reader outcome:** Require grade, diameter, condition, current standard, equipment, temperature, procedure
-- **Primary intent:** Verify bending
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No bend radius
-- **Final public route:** `/artikel/bendability-besi-beton-dan-bar.html`
-- **Appointed CMS date:** `2026-02-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Bendability Besi Beton dan Bar Tidak Bisa Ditebak**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -71,148 +34,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Harga Besi Beton` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jual-besi-beton-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-besi-beton-way-kanan.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-07-02` → `/artikel/machining-allowance-bar-stock.html` — Machining Allowance dan Kondisi Permukaan Bar Stock
-- `BAR-07-03` → `/artikel/cold-vs-hot-forming-baja.html` — Cold Forming vs Hot Forming Batang Baja
-- `BAR-07-05` → `/artikel/risiko-straightening-steel-bar.html` — Straightening Bar: Risiko Property dan Damage
-- `BAR-07-06` → `/artikel/end-finish-setelah-cutting-bar.html` — Burr, Sharp Edge, dan End Finish setelah Cutting
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Bendability Besi Beton dan Bar Tidak Bisa Ditebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Halo, Sobat Besi.co.id! Kemampuan besi beton atau bar untuk ditekuk tidak dapat ditebak dari label diameter atau dari satu kali percobaan di bengkel. Keputusan yang aman memerlukan mutu/grade, diameter nyata, kondisi material, standar yang berlaku, mesin, suhu, dan prosedur yang disetujui. Jika salah satu tidak jelas, tahan pekerjaan dan minta pemeriksaan teknis.
+
+Batang yang tampak mulus bisa berasal dari mutu, panas produksi, atau riwayat penyimpanan berbeda. Karena itu, hasil tekuk pada satu batang bukan bukti bahwa seluruh stok memenuhi persyaratan. Kawan Besi.co.id, anggap percobaan sebagai pemeriksaan pada kondisi tertentu, bukan jaminan umum.
+
+![Ilustrasi Harga Besi Beton](/wp-content/uploads/2024/06/Harga-Besi-Beton.png)
+
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+
+Gambar ini hanya membantu memberi konteks dan bukan dokumentasi proyek, kondisi material, atau hasil tekuk di lapangan.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Bendability Besi Beton dan Bar Tidak Bisa Ditebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Di sini, “bendability” berarti kemampuan batang menerima pembentukan tekuk sesuai persyaratan produk dan prosedur proyek. Artikel ini membahas cara mengumpulkan bukti sebelum memutuskan boleh ditekuk atau harus ditahan. Pembahasan tidak menetapkan jari-jari tekuk; nilai itu harus datang dari gambar kerja, spesifikasi produk, atau instruksi perancang yang berlaku.
+
+Dokumen material harus menyebut grade, identitas heat atau lot bila tersedia, diameter nominal dan hasil pengukuran, serta standar produk yang menjadi acuan. Standar pengujian tarik seperti ISO 6892-1 menjelaskan cara melakukan pengujian pada suhu ruang, sedangkan ISO 377 menjelaskan pengambilan contoh dan benda uji; keduanya tidak menggantikan spesifikasi produk atau menyatakan seluruh stok otomatis lolos ([ISO 6892-1](https://www.iso.org/standard/78322.html), [ISO 377](https://www.iso.org/standard/72529.html)).
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Bendability Besi Beton dan Bar Tidak Bisa Ditebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan mencocokkan dokumen penerimaan dan tanda pada batang. Catat nomor lot, diameter, dan kondisi permukaan sebelum dipindah ke mesin. Pisahkan batang yang korosi berat, memiliki takikan, retak terlihat, atau pernah dipanaskan tanpa catatan. Pemeriksaan visual hanya menyaring tanda bahaya; ia bukan pengganti uji atau persetujuan material.
+
+Berikutnya, cocokkan alat dengan prosedur yang disetujui: jenis mesin, penjepitan, arah pembentukan, urutan operasi, dan cara mengendalikan gerakan. Suhu juga harus dicatat. Pemanasan atau pendinginan dapat mengubah respons material, tetapi tanpa instruksi teknis yang spesifik jangan menganggap pemanasan sebagai cara memperbaiki kemampuan tekuk. [NEEDS GATE-02: Pastikan setelan mesin, suhu kerja, dan urutan pembentukan disahkan untuk material serta diameter yang diperiksa.]
+
+Bila perlu pengujian, laboratorium harus menjelaskan asal spesimen, orientasi, lokasi, metode, kondisi, satuan, dan identitas produk. Laporan satu benda uji tidak cukup untuk menyimpulkan semua batang dari tumpukan yang sama. Minta rencana pengambilan contoh dan kriteria penerimaan tertulis sebelum melakukan pembentukan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Bendability Besi Beton dan Bar Tidak Bisa Ditebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Diameter yang lebih besar bukan otomatis lebih sulit atau lebih mudah tanpa melihat mutu dan alat yang digunakan. Perbedaan grade dapat berarti perbedaan respons terhadap deformasi. Permukaan yang tergores atau memiliki karat lokal dapat menjadi titik awal kerusakan saat dibentuk, sehingga kondisi penyimpanan dan penanganan perlu masuk catatan.
+
+Standar yang tercetak di sertifikat juga perlu diperiksa edisinya dan hubungan dengan kontrak. Halaman katalog standar membantu mengenali dokumen, tetapi tidak memberi toleransi, metode pembentukan, atau keputusan lulus untuk pekerjaan Anda. Jika pemotongan termal dilakukan lebih dulu, mutu tepi dan pengaruh panas harus dinilai terhadap gambar serta prosedur; ISO 9013 membahas klasifikasi mutu potongan termal, bukan satu toleransi universal untuk setiap batang ([ISO 9013](https://www.iso.org/standard/60321.html)).
+
+Keadaan lokasi ikut menentukan: ruang gerak mesin, kestabilan dudukan, suhu sekitar, pencahayaan, dan orang yang berwenang mengoperasikan alat. Rencana keselamatan kerja harus mengatur bahaya jepit, pelepasan energi, pemindahan material, serta pengawasan. Jangan menyalin daftar dari yurisdiksi lain sebagai kewajiban Indonesia; tinjau dokumen K3 dan aturan yang berlaku bersama petugas kompeten. [NEEDS GATE-04: Dapatkan penilaian risiko, izin kerja, rekaman pemeriksaan alat, dan pengawasan K3 yang spesifik untuk mesin serta lokasi.]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Bendability Besi Beton dan Bar Tidak Bisa Ditebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan dua bundel berdiameter sama. Bundel pertama memiliki sertifikat yang cocok dengan pesanan, identitas lot jelas, dan prosedur mesin telah disetujui. Bundel kedua hanya memiliki label diameter dan permukaannya lama terpapar cuaca. Keputusan yang masuk akal adalah melanjutkan verifikasi pada bundel pertama dan menahan bundel kedua untuk penelusuran dokumen atau pemeriksaan tambahan; bukan mencoba keduanya lalu memilih yang tampak paling lentur.
+
+Gunakan urutan keputusan sederhana: (1) dokumen grade dan standar tersedia; (2) diameter dan kondisi fisik cocok; (3) alat, suhu, serta prosedur memiliki persetujuan; (4) operator dan pengawasan K3 ditetapkan; (5) hasil inspeksi atau uji dicatat terhadap kriteria yang jelas. Jika jawaban pada satu langkah “belum”, beri tanda tahan dan minta keputusan teknis. Teman Besi.co.id, simpan foto tanda material, formulir pemeriksaan, dan nomor laporan agar keputusan dapat ditelusuri.
+
+Untuk kebutuhan pasokan baru, Anda dapat mulai dari [halaman besi beton](/besi-beton), lalu meminta penjual mengonfirmasi grade dan dokumen yang menyertainya. Jangan menganggap halaman produk sebagai bukti kemampuan tekuk; jika detail stok atau dokumen belum jelas, gunakan [halaman kontak](/kontak) untuk meminta konfirmasi sebelum material diproses.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Bendability Besi Beton dan Bar Tidak Bisa Ditebak”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap satu batang yang berhasil dibengkokkan sebagai bukti seluruh stok aman. Perbaikannya: cocokkan lot, ambil contoh sesuai rencana, dan hubungkan hasil dengan spesifikasi produk. Kesalahan kedua adalah memakai ukuran alat seadanya tanpa prosedur. Perbaikannya: hentikan operasi, periksa instruksi alat dan gambar kerja, lalu minta persetujuan sebelum mengubah setelan.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memanaskan batang agar “lebih mudah”. Tindakan itu bisa mengubah kondisi material dan memutus jejak proses. Tanpa instruksi tertulis, jangan lakukan. Kesalahan keempat adalah mengabaikan serpihan, asap, atau kabel dan selang di sekitar pekerjaan. Pisahkan area, kendalikan sumber energi, dan terapkan penilaian risiko setempat; panduan NIOSH dan OSHA memberi peta bahaya umum pengelasan, tetapi bukan batas paparan atau pilihan alat pelindung yang otomatis berlaku di Indonesia ([NIOSH](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA](https://www.osha.gov/welding-cutting-brazing/hazards-solutions)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering dipilih
 
-## Required conclusion
+“Kalau tidak retak saat dicoba, berarti boleh dipakai” terdengar praktis karena menghemat waktu. Masalahnya, percobaan tanpa identitas material, kondisi alat, dan kriteria penerimaan tidak dapat diulang atau diaudit. Jalur yang lebih dapat dipertanggungjawabkan adalah membuat lembar pemeriksaan singkat, menahan material yang buktinya tidak lengkap, dan melibatkan peninjau proyek untuk menetapkan uji atau tindakan lanjut.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan dan langkah berikutnya
 
-## Draft completion checklist
+Bendability besi beton dan bar memang tidak bisa ditebak dari diameter, tampilan, atau satu percobaan. Pastikan grade, diameter nyata, kondisi, standar edisi yang benar, alat, suhu, prosedur, dan catatan K3 terhubung dalam satu keputusan. [NEEDS GATE-06: Persetujuan akhir, kriteria penerimaan, dan bila diperlukan hasil uji harus diberikan oleh penanggung jawab teknis proyek; jangan gunakan artikel ini sebagai pengganti persetujuan tersebut.]
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum batang masuk mesin, tanyakan: dokumen mana yang menjadi acuan, lot mana yang diperiksa, siapa yang menyetujui setelan, dan apa tindakan bila hasil menyimpang. Bila jawaban belum tertulis, berhenti pada tahap verifikasi. Itulah aturan kerja yang menjaga keputusan tekuk tetap dapat dilacak, bukan sekadar berdasarkan tebakan.

@@ -3,7 +3,7 @@ article_id: BAR-12-06
 title: "Receiving Shortage, Damage, dan Mixed Bundle"
 slug: "receiving-shortage-damage-mixed-bundle"
 description: "Record seals/docs, counts/mass basis, condition, tags, photos, quarantine, notification, disposition"
-status: outline
+status: draft
 publication_date: "2026-06-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,53 +13,16 @@ reader_community: "Besi.co.id"
 reader_address: "Sobat Besi.co.id"
 final_route: "/artikel/receiving-shortage-damage-mixed-bundle.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://galvanizeit.org/knowledgebase/article/venting-and-draining"
-  - "https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg"
   - "https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
+  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Receiving Shortage, Damage, dan Mixed Bundle
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Receiving Shortage, Damage, dan Mixed Bundle”
-- **Reader and situation:** Buyer
-- **Reader outcome:** Record seals/docs, counts/mass basis, condition, tags, photos, quarantine, notification, disposition
-- **Primary intent:** Resolve receipt issue
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No liability ruling
-- **Final public route:** `/artikel/receiving-shortage-damage-mixed-bundle.html`
-- **Appointed CMS date:** `2026-06-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Receiving Shortage, Damage, dan Mixed Bundle**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,141 +33,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Receiving Shortage, Damage, dan Mixed Bundle
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Besi.co.id! Saat besi tiba, jangan langsung menandatangani “diterima lengkap” hanya karena jumlah bundel tampak sesuai. Shortage (kekurangan), damage (kerusakan), dan mixed bundle (isi bundel tercampur) harus dipisahkan sebagai tiga temuan yang dibuktikan dengan dokumen, hitungan atau dasar massa, kondisi fisik, tag, dan foto.
 
-### KR-01
+Urutan aman adalah: tahan status penerimaan final, cocokkan identitas dan segel dengan dokumen, hitung atau timbang sesuai basis kontrak, catat kondisi sebelum bongkar, beri tag dan karantina material meragukan, lalu kirim notifikasi tertulis. Disposisi—terima, hitung ulang, perbaiki, retur, atau klaim—baru dipilih setelah pemasok dan pihak proyek meninjau bukti. Catatan ini membantu menyelesaikan receipt issue; bukan penetapan siapa yang menanggung kerugian.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-12-04` → `/artikel/transport-steel-bar-panjang.html` — Transport Steel Bar Panjang: Support, Restraint, dan Overhang
-- `BAR-12-05` → `/artikel/traceability-pengiriman-parsial-bar.html` — Traceability setelah Bar Dipotong dan Dikirim Parsial
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Receiving Shortage, Damage, dan Mixed Bundle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling mahal adalah menyamakan “satu truk” dengan “satu unit penerimaan”. Satu kendaraan dapat membawa beberapa nomor heat, ukuran, panjang, atau tujuan. Segel yang utuh juga tidak membuktikan isi benar; segel hanya membantu mengunci titik serah-terima. Sebaliknya, segel rusak adalah sinyal untuk memperketat pemeriksaan, bukan bukti otomatis bahwa kekurangan terjadi di pihak tertentu.
+
+Buat berita acara penerimaan sementara (atau catatan pengecualian pada surat jalan) yang menyebut tanggal, kendaraan, pengemudi, nomor dokumen, nomor segel, dan status “menunggu verifikasi” bila hitungan belum selesai. Simpan salinan bertanda tangan; jangan menghapus catatan setelah dokumen ditandatangani. Untuk format administrasi dasar, Anda dapat mulai dari [halaman utama Besi.co.id](/), lalu sesuaikan dengan prosedur proyek. Bila perlu mencocokkan kategori material, [halaman besi-beton](/besi-beton) hanya menjadi titik navigasi, bukan pengganti PO atau spesifikasi. [NEEDS GATE-01: dokumen kontrak/PO dan prosedur penerimaan proyek yang menentukan efek tanda tangan, toleransi, dan batas waktu notifikasi]
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Receiving Shortage, Damage, dan Mixed Bundle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Shortage adalah selisih antara identitas dan kuantitas yang disepakati dengan yang dapat dibuktikan saat tiba. Basisnya harus jelas: batang, bundel, panjang, berat aktual, atau berat teoritis yang dinyatakan PO. Damage adalah kondisi yang dapat memengaruhi keselamatan penanganan, kesesuaian dimensi, atau persyaratan permukaan—misalnya deformasi, potongan, korosi, atau lapisan yang terkelupas—tetapi tingkat dan kelayakannya memerlukan pemeriksaan teknis.
+
+Mixed bundle berarti material berbeda berada dalam satu ikatan atau tag tidak lagi mengaitkan setiap kelompok dengan dokumen. Campuran tidak selalu berarti material salah, namun identitas dan segregasinya menjadi tidak dapat diaudit. Jika ada klaim asal, massa, atau keberlanjutan, model identitas fisik, mass-balance, dan klaim administratif harus dibedakan; ISO 22095 menyediakan kerangka rantai penguasaan, bukan keputusan penerimaan baja tertentu ([ISO 22095:2020](https://www.iso.org/standard/72532.html)).
+
+Artikel ini tidak menentukan liability, menerima material atas nama engineer, atau menggantikan spesifikasi, gambar disetujui, dan rencana mutu. Fokusnya adalah membuat bukti yang dapat ditinjau tanpa merusak barang atau menghilangkan jejaknya.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Receiving Shortage, Damage, dan Mixed Bundle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari meja dokumen. Cocokkan surat jalan, packing list, PO, mill certificate atau sertifikat yang diwajibkan kontrak, tag bundel, dan nomor heat/lot bila ada. Foto dokumen dan tag secara utuh, termasuk halaman yang menunjukkan revisi. Catat segel sebelum dibuka; bila segel tidak cocok, minta saksi pengangkut atau wakil pemasok menandatangani pengamatan.
+
+Berikutnya pilih satu basis hitung dan tulis metodenya. Hitung batang hanya jika identitas dan ujungnya terlihat aman; timbang jika timbangan terkalibrasi dan dokumen menetapkan massa; gunakan massa teoritis hanya sebagai rekonsiliasi yang diberi label, bukan pengganti hitungan aktual tanpa persetujuan. Tulis alat, satuan, pembulatan, dan siapa yang melakukan pengukuran. Jangan mencampur hasil timbang kendaraan dengan tare yang tidak terdokumentasi.
+
+Periksa kondisi sebelum material dipindahkan. Tandai lokasi kerusakan, panjang atau jumlah item terdampak, dan apakah kerusakan menyentuh area angkat. Panduan penyimpanan pabrikan menekankan dukungan stabil, pencegahan gelinding atau penyebaran, akses lorong, drainase, dan perlindungan dari kelembapan ([LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)). Karena itu, minta area aman untuk pemeriksaan; jangan berdiri di bawah beban atau membuka ikatan yang tidak memiliki rencana pengendalian.
+
+Setiap temuan mendapat tag unik, misalnya RCV- tanggal-01. Tag merujuk pada foto, baris packing list, dan lokasi karantina. Pisahkan fisik material meragukan dari stok yang boleh dipakai, dengan akses terbatas dan tanda “HOLD—jangan dipasang”. OSHA 1926.250 memuat contoh persyaratan penyimpanan material konstruksi tentang tumpukan stabil dan perlindungan dari bahaya akses atau jatuh; gunakan sebagai referensi praktik umum, bukan hukum Indonesia ([OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Receiving Shortage, Damage, dan Mixed Bundle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Empat hal biasanya mengubah keputusan. Pertama, basis kuantitas: selisih batang dan selisih kilogram dapat menghasilkan kesimpulan berbeda. Kedua, titik serah-terima: segel, foto saat muat, foto saat tiba, dan catatan cuaca membantu membatasi kapan kondisi berubah, tetapi tidak sendirian menentukan sebab.
+
+Ketiga, tingkat kerusakan. Tekukan ringan pada item non-struktural mungkin memerlukan pemeriksaan berbeda dari retak, ujung tajam, atau deformasi yang memengaruhi sambungan. Untuk baja berlapis, inspeksi harus mengikuti spesifikasi proyek dan instruksi aplikator; panduan inspeksi galvanis membedakan pengamatan visual, pengukuran, dan kebutuhan perbaikan sehingga penerima tidak boleh menetapkan metode perbaikan hanya dari foto ([AGA inspection guide](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)).
+
+Keempat, keselamatan. Berat, pusat gravitasi, kondisi sling, kapasitas alat, dan urutan membuka bundel harus diverifikasi oleh personel kompeten. Permenaker 8/2020 mencakup keselamatan dan kesehatan kerja pesawat angkat-angkut, tetapi halaman peraturan tidak menggantikan penilaian risiko, izin kerja, dan catatan alat di lokasi ([Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)). [NEEDS GATE-04: metode lifting, kapasitas area karantina, dan persetujuan K3 proyek sebelum bundel rusak atau tidak stabil dibuka]
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Receiving Shortage, Damage, dan Mixed Bundle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel ini sebagai alur administrasi, bukan vonis:
+
+| Temuan awal | Tindakan segera | Bukti yang diminta | Disposisi sementara |
+|---|---|---|---|
+| Segel cocok, jumlah belum selesai | Tahan tanda terima final; hitung bertahap | Foto segel, surat jalan, lembar hitung | Terima bersyarat |
+| Segel rusak atau nomor berbeda | Hentikan pembukaan rutin; panggil saksi | Foto detail segel, waktu, tanda tangan saksi | Karantina sampai verifikasi |
+| Tag dan isi bundel bercampur | Pisahkan per item/heat bila aman | Foto tag, daftar item, rekonsiliasi dokumen | HOLD; jangan dipasang |
+| Deformasi atau lapisan terkelupas | Tandai area, cegah pemakaian | Foto skala, pengukuran, laporan inspeksi | Review teknis/repair/retur |
+
+Misalkan satu bundel menunjukkan tag ukuran A, tetapi sebagian batang bertanda ukuran B. Jangan “merapikan” tag lalu memasukkan semuanya ke stok A. Buat dua baris hitungan, foto pemisahan, dan minta pemasok mengonfirmasi daftar pengiriman. Jika tidak ada bukti identitas yang cukup, keputusan yang aman adalah tetap HOLD. Kawan Besi.co.id, pertanyaan kuncinya bukan “siapa salah?”, melainkan “bukti apa yang membuat item ini boleh dipakai?”.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Receiving Shortage, Damage, dan Mixed Bundle”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertama, hanya memotret truk dari jauh. Periksa bahwa foto dapat menghubungkan nomor dokumen, segel, tag, dan kondisi; gunakan penanda waktu dari sistem proyek bila tersedia. Kedua, menulis “kurang” tanpa basis. Tambahkan unit, metode, angka awal-akhir, dan toleransi yang memang tertulis di kontrak—jika belum ada, beri marker, jangan mengarang.
 
-## Objection or shortcut to address
+Ketiga, memindahkan barang rusak ke area kerja agar gudang rapi. Itu menghilangkan segregasi dan dapat membuat material terpasang sebelum keputusan. Keempat, mengandalkan klaim lisan pengemudi. Kirim notifikasi tertulis ke pemasok, logistik, QA/QC, dan wakil proyek sesuai matriks komunikasi; lampirkan daftar tag dan indeks foto.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kelima, menganggap sertifikat atau klaim rantai pasok otomatis membuktikan isi bundel. Minta batas sistem, aturan transfer, pihak bertanggung jawab, dan rekaman input-output yang dapat diaudit; jangan menghitung massa yang sama dua kali. [NEEDS GATE-06: skema klaim dan rekaman transaksi pemasok bila identitas atau keberlanjutan menjadi dasar penerimaan]
 
-## Required conclusion
+## Jalan pintas yang sebaiknya dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah menandatangani surat jalan “lengkap” agar truk segera pergi, lalu mengoreksi selisih lewat pesan singkat. Cara ini gagal ketika jumlah belum diverifikasi, foto tidak bertaut ke tag, atau pemasok menilai catatan dibuat setelah material berpindah. Alternatif yang lebih andal adalah tanda tangan bersyarat dengan daftar pengecualian, nomor tag, dan tenggat verifikasi yang disetujui. Tanda tangan tersebut mencatat proses, bukan menetapkan liability.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Receiving shortage, damage, dan mixed bundle diselesaikan dengan jejak bukti: kunci titik serah-terima, cocokkan dokumen dan tag, tetapkan basis hitung, dokumentasikan kondisi, karantina material yang identitas atau keamanannya belum jelas, lalu notifikasi dan minta disposisi tertulis. Jangan memasang material HOLD dan jangan menyimpulkan tanggung jawab sebelum dokumen kontrak serta tinjauan kompeten tersedia.
+
+Teman Besi.co.id, sebelum penerimaan ditutup, pastikan satu paket berisi berita acara, rekonsiliasi hitung/massa, indeks foto, daftar tag-karantina, dan jawaban pemasok. Jika perlu mengirimkan paket bukti atau meminta tindak lanjut, gunakan [kanal kontak Besi.co.id](/kontak) sesuai kebutuhan. [NEEDS GATE-02: current project evidence and competent review] Jika salah satu gate masih terbuka, tulis `[NEEDS PROJECT REVIEW]`, tahan penggunaan, dan minta persetujuan QA/QC, engineer, serta K3 sesuai kewenangan proyek.

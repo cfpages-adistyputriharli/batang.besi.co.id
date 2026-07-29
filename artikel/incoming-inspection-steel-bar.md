@@ -3,7 +3,8 @@ article_id: BAR-10-01
 title: "Incoming Inspection Steel Bar"
 slug: "incoming-inspection-steel-bar"
 description: "Check PO, tags, form, quantity, dimensions, condition, MTC, traceability, quarantine"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -25,183 +26,77 @@ sources:
   - "https://www.iso.org/standard/64622.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001; source type: local; placement: after opening.
+**Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
+Caption/credit: Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+Selection basis: filename/source metadata only; no pixels inspected.
+Hard boundary: do not infer visual details, ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: if unavailable, use [NEEDS IMAGE REVIEW: LOCAL-001].
+END MANAGED IMAGE PLAN -->
 
 # Incoming Inspection Steel Bar
 
-## Assignment lock
+Halo, Sobat Besi.co.id! Baja batang yang baru tiba belum otomatis boleh masuk stok atau dipakai. Incoming inspection harus mencocokkan PO, tanda fisik, bentuk, jumlah, ukuran, kondisi, MTC, dan jejak heat atau batch. Hasilnya adalah keputusan terkontrol: rilis, tahan untuk klarifikasi, atau karantina.
 
-- **Writer task:** Expand this file into one complete article answering: “Incoming Inspection Steel Bar”
-- **Reader and situation:** Warehouse/QA
-- **Reader outcome:** Check PO, tags, form, quantity, dimensions, condition, MTC, traceability, quarantine
-- **Primary intent:** Inspect receipt
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Sobat Besi.co.id`
-- **Natural variants:** `Kawan Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No acceptance limits
-- **Final public route:** `/artikel/incoming-inspection-steel-bar.html`
-- **Appointed CMS date:** `2026-04-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dari identitas dan bukti, bukan dari asumsi bahwa semua bundel sama. Jika label tidak cocok dengan PO, MTC tidak dapat ditautkan ke heat/batch, atau ada kerusakan yang belum dinilai, material ditahan. Batas penerimaan, rencana sampling, dan keputusan akhir mengikuti spesifikasi produk, kontrak, ITP, serta persetujuan QA proyek; artikel ini tidak menetapkan angka lulus.
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Incoming Inspection Steel Bar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Besi.co.id`, `Kawan Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-14
-
-- **Original sources:** [ISO 17635:2025 — general rules for NDT of welds](https://www.iso.org/standard/85705.html) and [ISO 9712:2021 — NDT personnel qualification/certification](https://www.iso.org/standard/75614.html)
-- **Purpose for this article:** Ground the visual/PT/MT/UT/RT comparison and prevent “NDT passed” from becoming an unqualified conformity claim.
-- **Safe grounded facts:** A defensible NDT record identifies object/joint, method/technique, procedure, personnel, equipment/calibration, surface/access, coverage, sensitivity, findings, criterion source, result, and disposition.
-- **Limits:** Do not select method, extent, technique, acceptance level, or personnel route from the abstracts. Use the full application/inspection standards and approved NDT plan through G-08.
-
-### KR-23
-
-- **Original sources:** [ISO 2859-1:2026 — lot-by-lot attribute sampling](https://www.iso.org/standard/85464.html), [ISO 28590:2017 — introduction to the ISO 2859 series](https://www.iso.org/standard/64622.html), and [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Keep receiving inspection, ITP, supplier audit, and test-plan articles from inventing sample sizes or treating one result as a lot decision.
-- **Safe grounded facts:** A test plan must define lot/population, characteristic, method, sample selection, sample identity, frequency/size, criterion source, decision rule, responsibilities, records, and nonconformance route.
-- **Limits:** Never choose AQL, sample size, switching rule, test extent, uncertainty rule, or release from abstracts. Obtain the full current sampling/product standards and approved ITP through G-01/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-10-02` → `/artikel/receiving-inspection-besi-beton.html` — Receiving Inspection Besi Beton
-- `BAR-10-03` → `/artikel/measurement-plan-bar.html` — Measurement Plan untuk Dimensi dan Massa Bar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Incoming Inspection Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Incoming Inspection Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Incoming inspection steel bar adalah pemeriksaan ketika batang baja tiba, sebelum statusnya berubah menjadi stok siap pakai. Objeknya mencakup dokumen pengiriman dan PO, tag bundel, bentuk penampang, jumlah, dimensi yang diwajibkan pesanan, kondisi permukaan yang terlihat, MTC, serta hubungan antara bukti dan benda fisik. Ini bukan pengganti pengujian laboratorium lengkap atau verifikasi kapasitas struktur.
+
+Catat pemasok, nomor PO atau surat jalan, deskripsi produk, ukuran dari pesanan, heat/batch, nomor bundel, dan tanggal penerimaan. ISO 10474 meminta dokumen inspeksi direkonsiliasi dengan order, produsen, produk, heat/batch, dimensi, pengujian, dan penandaan fisik ([ISO 10474](https://www.iso.org/standard/53736.html)). Kerangka penelusuran itu belum membuktikan material memenuhi kriteria proyek.
+
+**[NEEDS GATE-01/GATE-02: spesifikasi produk, kontrak, ITP, dan edisi standar yang mengatur batas penerimaan.]** Tanpa paket tersebut, petugas boleh mendokumentasikan fakta dan menahan material, tetapi tidak boleh menciptakan ambang sendiri.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Incoming Inspection Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+1. **Amankan penerimaan.** Catat waktu, pemasok, kendaraan, surat jalan, dan kondisi kemasan. Pisahkan material yang belum diperiksa dari stok rilis.
+2. **Baca PO lebih dulu.** Tandai grade atau deskripsi, bentuk, ukuran, panjang, kuantitas, persyaratan dokumen, dan revisi yang disetujui.
+3. **Cocokkan tag.** Bandingkan tag bundel dan penandaan batang dengan surat jalan serta PO. Tag hilang atau tidak terbaca adalah masalah identitas, bukan alasan untuk menebak.
+4. **Periksa bentuk, jumlah, dimensi, dan kondisi.** Gunakan alat ukur dengan status kalibrasi yang dapat ditelusuri. Catat metode, titik ukur, unit, dan nomor bundel.
+5. **Tinjau MTC.** Pastikan produsen, produk, heat/batch, ukuran, metode uji, hasil, unit, dan otorisasi laporan konsisten. ISO/IEC 17025 membuat kompetensi laboratorium relevan bagi kepercayaan pada hasil, tetapi akreditasi sendiri tidak membuktikan item tertentu konform ([ISO/IEC 17025](https://www.iso.org/standard/66912.html)).
+6. **Tetapkan status sementara.** Rilis hanya jika bukti yang diwajibkan proyek cocok. Bila ada selisih, beri status hold dan buka klarifikasi. Bila material berisiko tercampur atau rusak, pindahkan ke area karantina berlabel.
+7. **Serahkan rekaman.** Form, daftar tag, hasil ukur, MTC, foto identifikasi, dan catatan penyimpangan harus menunjuk ke nomor penerimaan yang sama.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Incoming Inspection Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Identitas lot adalah simpul pertama. Perubahan heat, batch, ukuran, atau produsen memutus asumsi bahwa satu MTC mencakup seluruh kiriman. Kondisi fisik—karat, bengkok, penyok, ujung rusak, atau kontaminasi—harus dideskripsikan faktual lalu dinilai terhadap kriteria yang disetujui, bukan langsung disebut aman.
+
+Cara ukur juga menentukan keterbandingan data. Catat posisi alat, titik pengukuran, resolusi, unit, dan status kalibrasi. ISO 6892-1 menjelaskan metode uji tarik pada suhu ruang, sedangkan ISO 377 menjelaskan prinsip pengambilan dan penyiapan benda uji; keduanya tidak menggantikan spesifikasi material atau keputusan penerimaan ([ISO 6892-1](https://www.iso.org/standard/78322.html), [ISO 377](https://www.iso.org/standard/72529.html)). Amandemen metode harus ditautkan ke edisi dan laporan yang benar ([ISO 377/Amd 1](https://www.iso.org/standard/89449.html)).
+
+Rencana sampling harus sudah menetapkan lot, karakteristik, metode, pemilihan dan identitas sampel, frekuensi, kriteria, aturan keputusan, penanggung jawab, rekaman, serta jalur nonkonformitas. ISO 2859-1 dan ISO 28590 memberi kerangka seri sampling atribut, bukan izin memilih AQL atau ukuran sampel dari ringkasan standar ([ISO 2859-1](https://www.iso.org/standard/85464.html), [ISO 28590](https://www.iso.org/standard/64622.html)). **[NEEDS GATE-04/GATE-06: rencana sampling dan aturan release yang disetujui.]**
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Incoming Inspection Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Temuan | Status aman sementara | Tindakan |
+|---|---|---|
+| PO, tag, ukuran, jumlah, kondisi, dan MTC konsisten | Pisahkan sampai form selesai | Ajukan rilis sesuai otorisasi |
+| Tag cocok, MTC belum ada atau heat tidak terbaca | Hold berlabel | Minta dokumen atau identifikasi ulang |
+| Jumlah atau dimensi berbeda dari PO | Tahan lot terdampak | Buka klarifikasi teknis/komersial |
+| Kerusakan atau korosi terlihat | Karantina | Minta penilaian kompeten |
+| Hasil uji ada, identitas sampel putus | Hold | Telusuri rantai identitas atau ulangi sesuai rencana |
+
+Misalnya satu bundel bertag benar tetapi dua batang terpisah tanpa tanda. Jangan menganggap keduanya berasal dari heat sama. Catat lokasinya, tahan bundel, lalu minta bukti penelusuran. Teman Besi.co.id, keputusan kecil ini mencegah hasil uji ditempelkan ke benda yang salah.
+
+Jika NDT diminta, rekaman harus menyebut objek, metode/teknik, prosedur, personel, peralatan atau kalibrasi, akses, cakupan, sensitivitas, temuan, sumber kriteria, hasil, dan disposisi. ISO 17635 dan ISO 9712 memberi konteks umum NDT dan kompetensi personel ([ISO 17635](https://www.iso.org/standard/85705.html), [ISO 9712](https://www.iso.org/standard/75614.html)); pemilihan metode tetap menunggu rencana disetujui. **[NEEDS GATE-08: kebutuhan, metode, extent, acceptance level, dan personel NDT proyek.]**
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Incoming Inspection Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan menerima berdasarkan jumlah bundel tanpa memeriksa tag. Tanyakan, “Apakah setiap unit fisik memiliki identitas yang dapat ditautkan ke PO dan MTC?” Jangan menganggap MTC sebagai stempel universal; periksa produsen, heat/batch, ukuran, metode, unit, dan otorisasi laporan.
 
-## Objection or shortcut to address
+Hindari catatan “sesuai” tanpa angka, unit, titik ukur, atau alat. Jangan mengambil satu hasil uji lalu menyimpulkan seluruh lot; hubungkan hasil dengan spesimen, orientasi atau lokasi, persiapan, kondisi, metode, unit, dan identitas produk/heat. Terakhir, jangan menaruh material bermasalah di area stok biasa sambil menunggu jawaban. Gunakan label hold atau karantina yang terlihat dan tetapkan pemilik tindak lanjut. Kawan Besi.co.id, status fisik yang jelas sering lebih efektif daripada catatan panjang yang tidak dibaca operator berikutnya.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang perlu ditolak
 
-## Required conclusion
+“Tag dan MTC terlihat benar, jadi langsung rilis” gagal ketika tag tertukar, MTC mencakup heat berbeda, kerusakan tidak tercatat, atau aturan sampling belum diterapkan. Alternatifnya adalah urutan identitas, kuantitas dan ukuran, kondisi, dokumen, lalu status. Bila bukti belum lengkap, tahan secara terkontrol; jangan mengisi celah dengan asumsi.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
+Incoming inspection steel bar berarti memastikan batang yang datang dapat ditelusuri dan dibandingkan dengan PO sebelum dipakai: periksa tag, bentuk, jumlah, dimensi, kondisi, MTC, dan hubungan heat/batch; kemudian rilis, hold, atau karantina sesuai prosedur. Sobat Besi.co.id, kumpulkan PO, surat jalan, form pemeriksaan, MTC, catatan ukur, dan daftar tag untuk ditinjau QA.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jangan menetapkan acceptance limit, AQL, ukuran sampel, atau metode NDT dari artikel ini. Jika ada selisih identitas, dokumen, ukuran, atau kondisi, pertahankan hold dan minta keputusan proyek yang kompeten. Untuk menyiapkan dokumen awal, gunakan [beranda Besi.co.id](/) sebagai titik masuk informasi internal, lihat [informasi besi as](/as-s45c) bila perlu mencocokkan deskripsi produk, atau gunakan [halaman kontak Besi.co.id](/kontak) untuk meneruskan pertanyaan; simpan bukti penerimaan bersama rekaman proyek. Aturan operasionalnya: material tanpa identitas dan bukti yang tersambung tidak boleh dianggap siap pakai.

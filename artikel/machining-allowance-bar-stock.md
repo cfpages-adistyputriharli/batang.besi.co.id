@@ -3,7 +3,8 @@ article_id: BAR-07-02
 title: "Machining Allowance dan Kondisi Permukaan Bar Stock"
 slug: "machining-allowance-bar-stock"
 description: "Cover decarb/scale, straightness, defects, tolerance, stock allowance, traceability"
-status: outline
+writing_contract_version: "native-id-v2"
+status: draft
 publication_date: "2026-01-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -20,193 +21,97 @@ sources:
   - "https://www.iso.org/standard/60321.html"
   - "https://www.iso.org/standard/87851.html"
   - "https://www.iso.org/standard/86032.html"
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
----
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+---
 
 # Machining Allowance dan Kondisi Permukaan Bar Stock
 
-## Assignment lock
+Halo, Teman Besi.co.id! Sebelum bar stock masuk mesin, jangan langsung menganggap diameter atau sisi luarnya sebagai ukuran siap jadi. Keputusan yang aman adalah menetapkan **machining allowance** (tambahan material untuk dibuang) dari ukuran jadi pada gambar, lalu memeriksa kondisi permukaan, kelurusan, cacat, toleransi, dan identitas heat atau lot. Jika data itu belum lengkap, bar belum siap direncanakan untuk machining.
 
-- **Writer task:** Expand this file into one complete article answering: “Machining Allowance dan Kondisi Permukaan Bar Stock”
-- **Reader and situation:** Machine shop
-- **Reader outcome:** Cover decarb/scale, straightness, defects, tolerance, stock allowance, traceability
-- **Primary intent:** Plan machining
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No machining parameter
-- **Final public route:** `/artikel/machining-allowance-bar-stock.html`
-- **Appointed CMS date:** `2026-01-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Allowance bukan angka tebakan dan bukan pengganti toleransi. Decarb atau scale, kulit hasil pemotongan panas, goresan, lubang, atau bagian yang tidak lurus dapat menghabiskan allowance sebelum bentuk akhir tercapai. Nilai yang benar bergantung pada kondisi pasokan, proses pemotongan, datum, ukuran akhir, dan persyaratan gambar. Karena packet ini tidak memuat gambar atau sertifikat material proyek, keputusan penerimaan akhir memerlukan **[NEEDS GATE-01: gambar, spesifikasi produk, dan persetujuan QC]**.
 
-## Opening instructions
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Machining Allowance dan Kondisi Permukaan Bar Stock**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-15
-
-- **Original sources:** [ISO 9013:2017 — thermal cuts](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html), and [ISO 13920:2023 — general tolerances for welded constructions](https://www.iso.org/standard/86032.html)
-- **Purpose for this article:** Support fabrication planning and dimensional-QC articles without inventing one universal workshop tolerance.
-- **Safe grounded facts:** Process capability, drawing requirement, material, thickness, heat effects, edge preparation, measurement, and downstream function must be linked. A general standard is not automatically applicable to every cut, machined part, bend, or welded assembly.
-- **Limits:** Exact tolerance class, range, measurement method, bend radius, heat input, correction, and acceptance require approved drawings/procedures and full documents through G-01/G-04/G-07.
-
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-07-01` → `/artikel/memilih-metode-cutting-steel-bar.html` — Memilih Metode Cutting Steel Bar
-- `BAR-07-03` → `/artikel/cold-vs-hot-forming-baja.html` — Cold Forming vs Hot Forming Batang Baja
-- `BAR-07-04` → `/artikel/bendability-besi-beton-dan-bar.html` — Bendability Besi Beton dan Bar Tidak Bisa Ditebak
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Machining Allowance dan Kondisi Permukaan Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari ukuran jadi, bukan ukuran nominal bar. Tulis allowance sebagai selisih yang sengaja disediakan pada setiap permukaan yang akan dimachining. Setelah itu, pastikan permukaan yang tersisa setelah material dibuang masih bebas dari lapisan atau cacat yang tidak boleh masuk ke komponen. Bar yang “lebih besar” belum tentu lebih aman: scale tebal, decarb, ovalitas, atau bengkok dapat membuat material bersih tidak cukup di satu sisi.
+
+Salah paham lain adalah menyamakan hasil uji tarik dengan jaminan seluruh batang. ISO 6892-1 menjelaskan metode uji tarik pada temperatur ruang, sedangkan ISO 377 menjelaskan pengambilan sampel dan benda uji; keduanya tidak otomatis membuktikan seluruh bar memenuhi grade atau toleransi. Identitas spesimen, orientasi, lokasi, kondisi, metode, dan heat harus tetap tertaut pada laporan ([ISO 6892-1:2019](https://www.iso.org/standard/78322.html), [ISO 377:2017](https://www.iso.org/standard/72529.html), serta amendemennya [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)).
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Machining Allowance dan Kondisi Permukaan Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Bar stock** di sini berarti batang bahan awal yang akan dijadikan komponen melalui proses pemotongan dan machining. **Machining allowance** adalah material ekstra antara ukuran pasokan dan ukuran akhir; allowance harus cukup untuk menghilangkan kulit, ketidaklurusan, dan variasi proses, tetapi tidak boleh membuat proses boros atau mengganggu rasio penampang.
+
+**Decarb** adalah zona permukaan dengan perubahan kandungan karbon akibat pemanasan; **scale** adalah lapisan oksida. Keduanya tidak boleh diasumsikan hilang hanya karena permukaan tampak gelap atau mengilap. Cacat seperti lap, retak terbuka, laminasi, atau pitting memerlukan kriteria penerimaan dari spesifikasi produk dan pemeriksaan yang disetujui. Artikel ini tidak menetapkan parameter spindle, feed, depth of cut, atau strategi toolpath. Fokusnya adalah keputusan sebelum machining.
+
+Ukuran nominal, toleransi manufaktur bar, dan toleransi komponen adalah tiga hal berbeda. Standar umum atau katalog hanya memberi kerangka; kelas toleransi dan metode ukurnya harus berasal dari gambar dan spesifikasi yang berlaku. **[NEEDS GATE-04: toleransi bar, toleransi komponen, dan metode ukur yang disetujui]**
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Machining Allowance dan Kondisi Permukaan Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutkan pemeriksaan agar allowance tidak dihitung dari data yang salah:
+
+1. **Kunci identitas.** Cocokkan heat/lot, ukuran, grade, bentuk penampang, sertifikat, dan tanda pada bundel. Pisahkan batang yang identitasnya putus.
+2. **Baca kebutuhan jadi.** Dari gambar, catat datum, permukaan kritis, ukuran akhir, toleransi, chamfer, dan area yang tidak boleh memiliki cacat. Jangan mengubah toleransi menjadi allowance.
+3. **Petakan kondisi awal.** Ukur diameter atau sisi pada beberapa posisi dan arah, cek straightness dengan metode yang disetujui, serta tandai scale, decarb, goresan, lubang, atau ujung rusak. Catatan inspeksi harus menyebut alat, titik, kondisi, dan hasil; bukan hanya “OK”.
+4. **Hitung kebutuhan penghilangan.** Untuk tiap permukaan, gabungkan selisih ukuran, penyimpangan bentuk, material kulit yang harus dibuang, dan margin proses yang disetujui. Nilai minimum di sisi terburuk yang menentukan apakah stok cukup.
+5. **Tentukan datum dan urutan.** Permukaan referensi harus dipilih agar ketidaklurusan dan run-out tidak dipindahkan ke fitur kritis. Tandai orientasi serta panjang potong supaya jejak identitas tetap terbaca.
+6. **Verifikasi setelah roughing.** Periksa apakah kulit dan cacat yang ditolak sudah hilang sebelum finishing. Bila tidak, hentikan dan naikkan isu ke QC; jangan menutupinya dengan memperkecil ukuran akhir tanpa persetujuan.
+
+Sobat Besi.co.id, catatan traceability bukan formalitas. Saat hasil ukur atau uji dipertanyakan, hubungan antara potongan, heat, sertifikat, dan laporan inspeksi menentukan apakah keputusan dapat dipertanggungjawabkan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Machining Allowance dan Kondisi Permukaan Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa faktor sering mengubah allowance yang dibutuhkan:
+
+- **Kondisi pasokan:** hot-rolled, cold-finished, forged, atau thermal-cut memiliki kulit dan variasi berbeda. Untuk tepi hasil potong panas, ISO 9013 dan amendemennya membahas klasifikasi kualitas potongan termal, tetapi kelas yang dipilih tetap harus ditetapkan oleh gambar atau prosedur proyek ([ISO 9013:2017](https://www.iso.org/standard/60321.html), [ISO 9013:2017/Amd 1:2024](https://www.iso.org/standard/87851.html)).
+- **Bentuk dan panjang:** batang panjang dapat memiliki straightness dan perubahan penampang sepanjang sumbu. Mengukur satu ujung saja dapat melewatkan sisi terburuk.
+- **Cacat permukaan:** cacat dangkal mungkin hilang saat roughing; cacat dalam atau memanjang dapat tetap muncul dan memerlukan disposition, bukan sekadar allowance lebih besar.
+- **Kebutuhan fungsi:** datum bantalan, ulir, seal, atau sambungan membutuhkan kontrol berbeda. General tolerance tidak otomatis berlaku untuk setiap fitur; ISO 13920 adalah standar toleransi umum konstruksi las, bukan izin memakai satu angka untuk semua komponen machined ([ISO 13920:2023](https://www.iso.org/standard/86032.html)).
+- **Bukti dan alat ukur:** kalibrasi, resolusi alat, temperatur, metode sampling, dan kompetensi pemeriksa memengaruhi keyakinan pada hasil. **[NEEDS GATE-06: rencana inspeksi, alat terkalibrasi, dan disposition cacat]**
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Machining Allowance dan Kondisi Permukaan Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan skenario berikut sebagai cara berpikir, bukan angka siap pakai.
+
+| Situasi stok | Keputusan awal | Bukti yang harus diminta |
+|---|---|---|
+| Ukuran awal cukup, permukaan bersih, identitas lengkap | Lanjutkan review datum dan allowance per sisi | Gambar, sertifikat, catatan ukur |
+| Ukuran cukup di satu arah tetapi oval atau bengkok | Tahan; hitung sisi terburuk dan evaluasi stok baru | Peta ukur multi-titik, batas straightness |
+| Scale/decarb diperkirakan lebih dalam dari material ekstra | Jangan mulai produksi | Kriteria kedalaman/permukaan dari spesifikasi dan pemeriksaan yang disetujui |
+| Heat/lot tidak terbaca atau sertifikat tidak cocok | Karantina dan telusuri ulang | Rekaman penerimaan, mill certificate, identifikasi potongan |
+| Cacat terbuka terlihat setelah roughing | Hentikan, dokumentasikan, minta disposition | Foto/rekaman inspeksi, keputusan QC/engineering |
+
+Kawan Besi.co.id, perhatikan kata “cukup” dalam tabel: cukup berarti lolos seluruh pemeriksaan dan persyaratan proyek, bukan sekadar diameter lebih besar dari ukuran akhir. Tanpa data gambar dan spesifikasi produk, **[NEEDS GATE-01]** tetap terbuka.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Machining Allowance dan Kondisi Permukaan Bar Stock”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memakai satu allowance untuk semua diameter dan panjang. Periksa setiap permukaan kritis dan nyatakan sisi minimum setelah memperhitungkan bentuk awal. Kedua, mengukur sebelum bar stabil atau tanpa metode yang konsisten. Tetapkan kondisi ukur, titik sampling, dan alat sebelum membandingkan hasil.
 
-## Objection or shortcut to address
+Ketiga, menghapus tanda heat saat memotong. Buat aturan pemindahan identitas ke setiap potongan dan rekam siapa yang memverifikasi. Keempat, menerima sertifikat tanpa mencocokkan heat, grade, ukuran, dan dokumen pembelian. Kelima, menganggap standar metode uji sebagai spesifikasi penerimaan. ISO 6892-1 dan ISO 377 membantu menjelaskan bagaimana pengujian dilakukan dan sampel disiapkan; nilai lulus/gagal tetap mengikuti spesifikasi material dan laporan aktual.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Pakai pertanyaan berhenti berikut sebelum mengeluarkan work order: “Apa ukuran akhir dan datum-nya? Berapa material kulit yang harus dihilangkan menurut dokumen yang berlaku? Di mana titik terburuk hasil ukur? Bagaimana identitas potongan dijaga? Siapa yang menyetujui cacat atau deviasi?” Jika salah satu jawabannya belum terdokumentasi, tahan rencana dan buka **[NEEDS TECHNICAL REVIEW: GATE-04/GATE-06]**.
 
-## Required conclusion
+## Jalan pintas yang tampak praktis
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah membeli bar sedikit lebih besar lalu menyerahkan keputusan kepada operator mesin. Cara ini gagal ketika cacat atau bengkok berada di sisi yang tidak terlihat, atau ketika material tambahan habis sebelum permukaan bersih tercapai. Perubahan grade, toleransi, atau disposition cacat harus mengikuti persetujuan yang ditetapkan proyek; jangan mengandalkan keputusan operator seorang diri.
 
-## Draft completion checklist
+Alternatif yang lebih andal adalah membuat lembar penerimaan sederhana: identitas heat/lot, ukuran multi-titik, straightness, kondisi kulit, cacat, allowance minimum per permukaan, dan tanda tangan pemeriksa. Lampirkan gambar serta spesifikasi yang menjadi dasar. Bila bukti tidak cukup, tandai **[NEEDS CURRENT PROJECT EVIDENCE AND COMPETENT REVIEW]** dan jangan mengisi kekosongan dengan asumsi.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Langkah penutup
+
+Machining allowance bar stock harus ditetapkan dari ukuran akhir dan kondisi terburuk stok, lalu diverifikasi terhadap permukaan, straightness, cacat, toleransi, dan traceability. Ukuran nominal atau satu hasil uji tidak cukup untuk menyatakan stok siap.
+
+Langkah berikutnya: minta gambar terbaru, spesifikasi produk, sertifikat heat/lot, dan format inspeksi; ukur stok pada titik yang disepakati; kemudian minta QC/engineering menutup **[NEEDS GATE-01, GATE-04, GATE-06]** sebelum work order diterbitkan. Untuk membandingkan kebutuhan material awal, lihat [panduan besi beton](/besi-beton); bila dokumen proyek belum lengkap, lanjutkan koordinasi melalui [halaman kontak](/kontak). Aturan operasinya sederhana: jika allowance minimum, identitas, atau kriteria cacat belum terbukti, bar tetap berstatus hold.

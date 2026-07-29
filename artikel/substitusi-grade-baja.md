@@ -3,7 +3,8 @@ article_id: BAR-03-06
 title: "Mengelola Substitusi Grade Baja"
 slug: "substitusi-grade-baja"
 description: "Require equivalence basis, properties, weldability, processing, approval, traceability"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-03"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -20,188 +21,96 @@ sources:
   - "https://www.iso.org/standard/73841.html"
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
   - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Mengelola Substitusi Grade Baja
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Mengganti grade (kelas mutu) baja bukan sekadar mencari angka kekuatan tarik yang tampak lebih tinggi. Substitusi baru layak diproses bila ada dasar ekuivalensi yang memeriksa produk, komposisi dan sifat, kemampuan las, cara pemrosesan, persetujuan pihak yang ditetapkan proyek, serta jejak dokumennya. Tanpa rangkaian itu, material pengganti tetap berstatus usulan—bukan otomatis setara.
 
-- **Writer task:** Expand this file into one complete article answering: “Mengelola Substitusi Grade Baja”
-- **Reader and situation:** Project team
-- **Reader outcome:** Require equivalence basis, properties, weldability, processing, approval, traceability
-- **Primary intent:** Control change
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No automatic equivalence
-- **Final public route:** `/artikel/substitusi-grade-baja.html`
-- **Appointed CMS date:** `2025-11-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: bekukan dulu persyaratan material pada gambar, spesifikasi, dan pesanan; petakan perbedaan grade lama dan calon pengganti; buktikan setiap perbedaan dengan dokumen pemasok dan pemeriksaan yang sesuai; lalu minta persetujuan tertulis sebelum material dipakai. Hasil uji tarik saja tidak membuktikan kesesuaian seluruh stok atau kapasitas struktur. Metode uji tarik dan penyiapan benda uji dijelaskan oleh [ISO 6892-1:2019](https://www.iso.org/standard/78322.html) dan [ISO 377:2017](https://www.iso.org/standard/72529.html), tetapi nilai yang diterima tetap harus berasal dari spesifikasi produk dan persyaratan proyek yang berlaku.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mengelola Substitusi Grade Baja**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- Image ID: LOCAL-001
+- Source type: local
+- Placement: after the opening, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
+- Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-001].
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-04
-
-- **Original sources:** [ISO 630-1:2021 — general delivery conditions for hot-rolled structural products](https://www.iso.org/standard/73841.html)
-- **Purpose for this article:** Separate a general structural-steel family from sheet/strip, tube, and the specific grades in other parts of the standard.
-- **Safe grounded facts:** A structural use label is not one universal product specification. Form, standard part, grade, supply condition, dimensions, and order requirements must remain linked.
-- **Limits:** Do not extract grades, chemistry, mechanical values, tolerances, or weldability from the abstract. Obtain the applicable ISO/SNI/ASTM/JIS product document and project specification through G-01/G-02.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-03-04` → `/artikel/chemistry-strength-hardness-toughness.html` — Chemistry, Strength, Hardness, dan Toughness Itu Berbeda
-- `BAR-03-05` → `/artikel/heat-treatment-steel-bar.html` — Heat Treatment Mengubah Apa pada Steel Bar?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mengelola Substitusi Grade Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mengelola Substitusi Grade Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Dalam artikel ini, substitusi grade berarti mengusulkan material dengan penamaan atau standar berbeda untuk memenuhi fungsi yang semula ditetapkan pada grade tertentu. “Ekuivalen” bukan label pemasaran; ia adalah kesimpulan yang harus ditopang oleh persyaratan yang sama atau perbedaan yang telah dinilai dan diterima. Cakupannya adalah pengendalian perubahan material pada proyek, bukan daftar grade universal dan bukan pengganti penilaian insinyur.
+
+Bentuk produk harus dikunci sejak awal. Baja profil, pelat, strip, pipa, batang, kawat las, dan rakitan terpasang dapat berada dalam keluarga standar yang berbeda. [ISO 630-1:2021](https://www.iso.org/standard/73841.html) sendiri membahas kondisi penyerahan umum untuk produk struktural canai panas; abstraknya tidak boleh dipakai untuk mengambil nilai kimia, mekanik, toleransi, atau kemampuan las grade tertentu. Katalog BSN juga memisahkan kelompok profil dan produk baja datar ([profil](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [baja datar](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=)); status “Berlaku” pada daftar bukan pengganti pemeriksaan edisi, amandemen, atau aturan kontrak. Untuk melihat contoh halaman grade tanpa menganggapnya sebagai bukti ekuivalensi, Anda dapat membaca [contoh halaman AS S45C](/as-s45c).
+
+Batas penting lainnya: sifat bahan tidak sama dengan kinerja sistem terpasang. Ketebalan, kondisi pasok, detail sambungan, lingkungan, urutan fabrikasi, dan inspeksi perlu ditinjau terpisah. Karena data proyek, spesifikasi pembelian, dan edisi standar tidak tersedia di sini, kesimpulan penerimaan harus tetap ditandai **[NEEDS GATE-01: dasar ekuivalensi dan persetujuan teknis proyek]**.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mengelola Substitusi Grade Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan alur berikut dan tetapkan pemilik keputusan di setiap tahap.
+
+1. **Bekukan garis dasar (baseline).** Salin grade, bentuk, dimensi, kondisi pasok, fungsi komponen, persyaratan las, pelapisan, dan dokumen rujukan dari gambar serta pesanan. Catat juga lot atau heat (identitas peleburan) yang sudah dipesan agar perubahan tidak menyamarkan material yang telanjur datang.
+2. **Bangun matriks perbandingan.** Buat kolom grade asli dan pengganti untuk komposisi, sifat mekanik, ketangguhan bila dipersyaratkan, ketebalan, toleransi, kondisi perlakuan, kemampuan dibentuk, dan kompatibilitas proses. Tandai setiap sel sebagai “ada bukti”, “perlu uji”, atau “tidak relevan dengan desain”. Jangan mengisi nilai dari brosur yang tidak menyebut identitas heat atau produk.
+3. **Periksa bukti uji.** Minta sertifikat dan laporan yang menghubungkan spesimen dengan produk. ISO 377 menekankan pentingnya sumber, lokasi, orientasi, dan penyiapan benda uji; [Amd 1:2025](https://www.iso.org/standard/89449.html) harus ikut diperiksa bila tercantum pada dokumen yang dipakai. [NEEDS GATE-02: laboratorium, metode, sampling, dan ketidakpastian harus ditinjau oleh pihak kompeten.]
+4. **Nilai fabrikasi dan pengelasan.** Tanyakan apakah panas masukan, urutan pemotongan, pembentukan, pemanasan awal, bahan tambah, dan inspeksi perlu berubah. Kemampuan las tidak boleh disimpulkan hanya dari nama grade atau satu angka karbon; prosedur pengelasan dan kualifikasi yang berlaku harus menutup perbedaan tersebut.
+5. **Tinjau dampak desain.** Insinyur yang bertanggung jawab membandingkan keadaan batas (limit state), sambungan, deformasi, ketahanan lingkungan, serta detail konstruksi. Bila pengganti mengubah asumsi desain atau detail gambar, terbitkan revisi dan rujuk perubahan secara eksplisit.
+6. **Ajukan persetujuan sebelum rilis.** Paket perubahan dapat memuat matriks ekuivalensi, sertifikat, laporan uji, evaluasi proses/las, revisi gambar atau spesifikasi, dan daftar penyimpangan. [NEEDS GATE-04: pihak yang diwajibkan kontrak dan penanggung jawab desain belum teridentifikasi.]
+7. **Kunci ketertelusuran saat penerimaan.** Cocokkan heat/batch, ukuran, tanda fisik, jumlah, dan dokumen dengan pesanan. Material yang identitasnya putus diberi status tahan (hold), bukan dicampur dengan stok lulus.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mengelola Substitusi Grade Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Produk dan geometri.** Grade yang tampak sekeluarga tetap perlu dibaca bersama bentuk, dimensi, dan kondisi pasoknya. Karena itu, “grade sama” tanpa bentuk dan dimensi tidak cukup sebagai kunci penerimaan.
+
+**Komposisi dan sifat.** Kekuatan luluh, tarik, elongasi, dan ketangguhan menjawab pertanyaan berbeda. Nilai pada sertifikat harus terikat pada unit, kondisi uji, spesimen, dan heat. ISO 6892-1 adalah metode, bukan batas penerimaan; batas tersebut harus berasal dari dokumen produk yang diwajibkan proyek.
+
+**Las dan pemrosesan.** Perbedaan komposisi, mikrostruktur, atau kondisi pasok perlu ditanyakan kepada penanggung jawab las karena artikel ini tidak menyediakan dasar untuk menyatakan prosedur lama tetap berlaku. Sobat Besi.co.id, minta ia menyatakan apakah prosedur yang ada tetap berlaku atau perlu kualifikasi ulang; jangan mengandalkan kesamaan nama dagang.
+
+**Lingkungan dan umur layanan.** Sifat bahan yang tersedia di laboratorium tidak dengan sendirinya membuktikan kinerja sistem terpasang. Evaluasi perlu mengacu pada kondisi lingkungan dan sistem proteksi yang benar-benar ada, bukan asumsi umum.
+
+**Bukti dan rantai identitas.** [ISO 10474:2013](https://www.iso.org/standard/53736.html) membantu kerangka membaca dokumen inspeksi: rekonsiliasi harus mencakup pesanan, produsen, produk, heat/batch, dimensi, pengujian, dan penandaan fisik. Kompetensi laboratorium menurut [ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html) meningkatkan kepercayaan pada hasil, tetapi akreditasi laboratorium saja tidak membuktikan barang tertentu memenuhi spesifikasi.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mengelola Substitusi Grade Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan tabel keputusan ini sebagai penyaring awal, bukan sebagai persetujuan otomatis.
+
+| Kondisi yang ditemukan | Keputusan sementara | Bukti berikutnya |
+|---|---|---|
+| Bentuk, edisi produk, dimensi, dan heat cocok; semua persyaratan terpetakan | Lanjutkan review teknis | Sertifikat, laporan uji tertaut, dan tanda fisik |
+| Sifat mekanik tersedia, tetapi kemampuan las atau kondisi pasok berbeda | Tahan rilis material | Evaluasi welding procedure, dampak fabrikasi, dan persetujuan desain |
+| Dokumen menyebut grade, tetapi heat/batch dan ukuran tidak dapat ditautkan | Tolak untuk dipakai sementara | Klarifikasi pemasok atau pemeriksaan independen; jangan membuat identitas baru |
+| Standar calon pengganti berbeda dan edisinya belum dipastikan | Jangan simpulkan ekuivalen | Salinan standar produk yang berlaku, kontrak, dan keputusan pihak berwenang |
+
+Misalnya, tim menemukan pelat pengganti dengan nilai tarik yang memenuhi angka pada lembar pemasok, tetapi sertifikat tidak menyebut orientasi spesimen dan sambungan pada gambar memakai prosedur las lama. Keputusan yang aman adalah menahan material, meminta bukti yang tertaut ke heat, lalu meminta penilaian desain dan pengelasan. Detail proyek seperti ketebalan, lingkungan, atau edisi standar tidak boleh diasumsikan dari contoh ini.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mengelola Substitusi Grade Baja”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- **Menyamakan angka tarik dengan grade.** Periksa komposisi, sifat lain yang diwajibkan, bentuk produk, dan identitas heat.
+- **Mengutip standar umum sebagai spesifikasi lengkap.** Buka dokumen produk dan edisi yang dirujuk kontrak; abstrak katalog hanya membantu identifikasi ruang lingkup.
+- **Mengabaikan proses.** Tanyakan perubahan pada pemotongan, pembentukan, pemanasan awal, consumable, dan inspeksi setelah penggantian.
+- **Mengandalkan sertifikat tanpa rekonsiliasi fisik.** Cocokkan tanda, ukuran, jumlah, heat/batch, dan dokumen saat penerimaan.
+- **Menganggap akreditasi sebagai jaminan barang.** Verifikasi ruang lingkup, metode, otorisasi laporan, dan rantai sampel; lalu cocokkan hasil dengan persyaratan produk.
+- **Melewati persetujuan karena material sudah tersedia.** Tanggal kedatangan bukan dasar teknis. Catat penyimpangan dan dapatkan keputusan tertulis sebelum fabrikasi.
 
-## Objection or shortcut to address
+Teman Besi.co.id, bila satu jawaban di checklist masih “belum ada”, status yang jujur adalah *hold* atau **[NEEDS GATE-06: keputusan penerimaan, inspeksi, dan ketertelusuran proyek]**, bukan “diasumsikan setara”.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sering dipilih
 
-## Required conclusion
+Jalan pintas yang paling menggoda adalah menerima grade pengganti karena stoknya tersedia dan brosurnya menampilkan kekuatan lebih tinggi. Cara ini berisiko ketika bentuk produk, ketangguhan, kemampuan las, atau jejak heat tidak sama dengan garis dasar. Angka lebih besar pada satu kolom tidak menghapus perbedaan lain.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih dapat diaudit adalah membuat paket perubahan: garis dasar, matriks perbandingan, bukti uji tertaut, evaluasi proses dan las, dampak desain, serta persetujuan. Simpan versi dokumen dan status tahan/lepas (hold/release) sehingga keputusan dapat ditelusuri saat inspeksi atau serah terima.
 
-## Draft completion checklist
+## Kesimpulan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Mengelola substitusi grade baja berarti mengendalikan perubahan, bukan mencari padanan nama. Kunci keputusan adalah ekuivalensi yang dibuktikan untuk produk dan penggunaan yang sama, lalu ditinjau dan disetujui oleh pihak yang ditetapkan dalam proyek.
+
+Langkah Anda berikutnya: minta tim mengisi matriks persyaratan awal dan pengganti, lalu mengikat setiap baris pada dokumen produk, heat/batch, hasil uji, serta perubahan proses. Jika salah satu persyaratan bukti belum tertutup, tandai material *tahan* (hold) dan jadwalkan tinjauan teknis. Bila perlu meminta peninjauan, sampaikan daftar dokumen melalui [halaman kontak](/kontak). Itulah batas aman: tanpa bukti dan persetujuan proyek yang lengkap, tidak ada substitusi grade yang boleh dianggap otomatis ekuivalen.

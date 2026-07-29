@@ -3,7 +3,8 @@ article_id: BAR-05-01
 title: "Cara Membaca Mill Test Certificate Steel Bar"
 slug: "membaca-mill-test-certificate-steel-bar"
 description: "Check product, heat, grade, standard, chemistry, tests, issuer, traceability"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-03"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,197 +15,89 @@ reader_address: "Kawan Besi.co.id"
 final_route: "/artikel/membaca-mill-test-certificate-steel-bar.html"
 technical_review: required
 sources:
-  - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
-  - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
   - "https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024"
-  - "https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf"
   - "https://pesta.bsn.go.id/produk/detail/11443-sni20522017"
-  - "https://pesta.bsn.go.id/produk/detail/11700-20522017"
   - "https://www.iso.org/standard/53736.html"
   - "https://www.iso.org/standard/66912.html"
   - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+**Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
+Placement: setelah jawaban pembuka, sebelum H2 pertama
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata; piksel tidak diperiksa.
+Hard boundary: jangan menginfer detail visual, kepemilikan, lokasi, orang, merek, kondisi, performa, atau hasil.
+Substitution rule: jika URL/aset tidak tersedia, gunakan [NEEDS IMAGE REVIEW: LOCAL-001].
+END MANAGED IMAGE PLAN -->
 
 # Cara Membaca Mill Test Certificate Steel Bar
 
-## Assignment lock
+Halo, Kawan Besi.co.id! Mill Test Certificate (MTC) steel bar dibaca dengan mencocokkan identitas material dan hasil uji terhadap pesanan, standar yang benar, serta tanda pada fisik batang. Jadi, jangan mulai dari angka kimia atau kuat tarik saja. Mulailah dari produsen, nomor sertifikat, heat atau cast number, bentuk dan ukuran produk, grade, serta standar acuannya.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Membaca Mill Test Certificate Steel Bar”
-- **Reader and situation:** Buyer/QA
-- **Reader outcome:** Check product, heat, grade, standard, chemistry, tests, issuer, traceability
-- **Primary intent:** Verify certificate
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Kawan Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Teman Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No authenticity guarantee
-- **Final public route:** `/artikel/membaca-mill-test-certificate-steel-bar.html`
-- **Appointed CMS date:** `2025-12-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Sertifikat yang datanya cocok memberi dasar pemeriksaan dokumen, bukan jaminan keaslian atau penerimaan otomatis. Status standar dan kewajiban regulasi harus diperiksa pada rekaman BSN, peraturan yang berlaku, kontrak, dan edisi standar lengkap. Catatan BSN dapat menampilkan status atau edisi yang berbeda; rekaman SNI 2052:2017 sendiri perlu dibaca bersama konteks produk dan edisinya ([rekaman BSN SNI 2052:2017](https://pesta.bsn.go.id/produk/detail/11443-sni20522017)).
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Membaca Mill Test Certificate Steel Bar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Besi.co.id`, `Sobat Besi.co.id`, or `Teman Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-06
-
-- **Original sources:** [Permenperin 55/2024 status and abstract](https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024), [official regulation PDF](https://peraturan.bpk.go.id/Download/368410/2024pmperin055.pdf), [BSN SNI 2052:2017 record showing `Berlaku` and a related 2024 edition](https://pesta.bsn.go.id/produk/detail/11443-sni20522017), and [separate BSN 2052:2017 record showing `Tidak Berlaku`](https://pesta.bsn.go.id/produk/detail/11700-20522017)
-- **Purpose for this article:** Ground rebar procurement in a current regulatory source while preserving the unresolved edition/product/scope details.
-- **Safe grounded facts:** Regulatory scope, product definitions, conformity assessment, responsibilities, exceptions, transition, and marking cannot be reconstructed from a BSN title alone. Reinforcing bar, rerolled bar, and coiled product must not be collapsed into one generic `besi beton`.
-- **Limits:** A legal/technical reviewer must read the current consolidated regulation and referenced current SNI before stating requirements, effective transitions, exemptions, SPPT-SNI details, or acceptance. Recheck law and BSN status through G-01/G-02.
-
-### KR-07
-
-- **Original sources:** [ISO 10474:2013 — inspection documents](https://www.iso.org/standard/53736.html) and [ISO/IEC 17025:2017 — laboratory competence](https://www.iso.org/standard/66912.html)
-- **Purpose for this article:** Structure certificate reading, material traceability, laboratory review, and handover evidence.
-- **Safe grounded facts:** An inspection document must be reconciled to the order, producer, product, heat/batch, dimensions, tests, and physical markings. Laboratory accreditation/competence is relevant to confidence in results but does not itself prove that a particular item conforms.
-- **Limits:** Do not name document types, required signatories, sampling, or acceptance rules without the current full standard/order. Verify issuer, accreditation scope, method, report authorization, and chain of identity through G-03/G-13.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-05-02` → `/artikel/marking-traceability-besi-beton.html` — Marking dan Traceability Besi Beton
-- `BAR-05-03` → `/artikel/certificate-test-report-declaration.html` — Certificate, Test Report, dan Declaration: Bedanya
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Mill Test Certificate Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil pemeriksaan adalah keputusan terdokumentasi: “data MTC cocok dan dapat diajukan untuk review”, “minta klarifikasi”, atau “tahan material”. Buyer menyiapkan purchase order (PO), spesifikasi proyek, daftar kebutuhan ukuran/grade, delivery note, MTC asli dari pemasok, dan foto atau catatan marking pada bundel. QA/QC atau inspektor yang berwenang menetapkan penerimaan; pembaca artikel ini tidak menggantikan persetujuan proyek.
 
-## Langkah 1 — tetapkan scope
+Gunakan satu lembar pemeriksaan untuk setiap heat atau lot. Catat siapa yang memeriksa, tanggal, dokumen yang dibandingkan, dan pertanyaan terbuka. ISO 10474 menempatkan dokumen inspeksi dalam hubungan dengan pesanan, produsen, produk, dimensi, pengujian, dan identifikasi material ([ISO 10474:2013](https://www.iso.org/standard/53736.html)).
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Mill Test Certificate Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan lingkup
+
+Pastikan yang diperiksa benar-benar steel bar yang dibeli, bukan plate, wire, mesh, atau produk reroll yang memiliki jalur spesifikasi berbeda. Tuliskan bentuk produk (batang lurus atau kumparan bila relevan), diameter atau ukuran, panjang, grade, kuantitas, dan tujuan pemakaian. Pisahkan “sesuai PO” dari “sesuai regulasi”: keduanya dapat memakai rujukan berbeda.
+
+Untuk besi beton, jangan menyimpulkan persyaratan hanya dari judul SNI. Permenperin 55/2024 memiliki ruang lingkup, definisi, penilaian kesesuaian, dan ketentuan transisi yang harus dibaca pada naskah resmi ([status dan abstrak Permenperin 55/2024](https://peraturan.bpk.go.id/Details/307983/permenperin-no-55-tahun-2024)). Jika produk berupa reinforcing bar, rerolled bar, atau coil, minta reviewer memastikan kategori dan edisi standar yang tepat. Untuk membedakan konteks produk sebelum mencocokkan dokumen, Anda dapat melihat [ruang besi beton](/besi-beton). **[NEEDS LEGAL/TECHNICAL REVIEW: edisi SNI, ruang lingkup produk, dan status kewajiban untuk proyek ini belum dapat dipastikan dari ringkasan publik.]**
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Mill Test Certificate Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Baca MTC berurutan. Pertama, periksa nama dan alamat produsen, nomor dokumen, tanggal, halaman, serta penandatangan atau otorisasi yang tercantum. Kedua, cocokkan heat/cast number, nomor coil atau bundle, ukuran, grade, dan jumlah dengan label pengiriman. Ketiga, cari standar atau spesifikasi pembelian yang disebut pada MTC; jangan mengganti standar itu dengan standar yang sekadar terdengar mirip.
+
+Setelah identitas cocok, baca tabel kimia: unsur yang diuji, satuan, nilai aktual, dan batas penerimaan. Nilai aktual tanpa batas atau tanpa metode uji belum cukup untuk menyatakan lulus. Lanjutkan ke uji tarik, luluh, elongasi, tekuk, atau uji lain yang memang diminta PO. Jangan menambah jenis uji yang tidak ada di pesanan.
+
+Periksa laboratorium dan penerbit laporan secara terpisah. Kompetensi laboratorium yang diakui relevan terhadap kepercayaan pada hasil, tetapi akreditasi tidak otomatis membuktikan bahwa batang tertentu sesuai ([ISO/IEC 17025:2017](https://www.iso.org/standard/66912.html)). Tanyakan ruang lingkup akreditasi, metode, identitas sampel, tanggal pengujian, dan siapa yang mengesahkan laporan.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Mill Test Certificate Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan urutan praktis berikut pada setiap heat:
 
-## Hold point dan kondisi berhenti
+1. **Kunci identitas.** Salin heat number, grade, ukuran, dan produsen persis seperti tertulis; jangan mengoreksi ejaan tanpa klarifikasi.
+2. **Cocokkan fisik.** Bandingkan marking batang, tag bundel, delivery note, dan MTC. Jika satu angka berbeda, hentikan pencocokan dan minta bukti rantai identitas.
+3. **Cocokkan persyaratan.** Tandai setiap persyaratan PO, standar, dan regulasi sebagai ada, tidak ada, atau perlu review. Status “Berlaku” pada katalog publik hanya titik awal penelusuran, bukan pembacaan seluruh persyaratan.
+4. **Baca hasil uji.** Pastikan unit, metode, arah nilai (aktual versus batas), dan heat yang diuji jelas. Jangan memindahkan nilai dari heat lain.
+5. **Rekam keputusan.** Simpan salinan terkendali, daftar selisih, pertanyaan ke pemasok, dan keputusan QA/QC.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Mill Test Certificate Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk klaim asal, segregasi, atau kandungan tertentu, perlakukan bukti serah-terima sebagai rantai kustodi. Kerangka ISO 22095 membedakan model identitas fisik, mass-balance, dan klaim administratif; tiap klaim memerlukan batas sistem, catatan input-output, pihak bertanggung jawab, dan pencegahan penghitungan ganda ([ISO 22095:2020](https://www.iso.org/standard/72532.html)). MTC saja tidak cukup untuk membuktikan klaim tersebut.
 
-## Verifikasi hasil dan handover
+## Titik tahan dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Mill Test Certificate Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tahan material bila heat number hilang atau berbeda, grade/ukuran tidak cocok, standar tidak jelas, halaman atau tanda tangan meragukan, tabel uji tidak menyebut metode atau unit, atau pemasok tidak dapat menjelaskan hubungan MTC dengan bundel. Jangan memotong, memasang, atau mencampur bundel yang identitasnya belum pulih.
 
-## Objection or shortcut to address
+Sobat Besi.co.id, tahan juga bila hasil terlihat “bagus” tetapi dokumen pendukungnya tidak dapat ditelusuri. Keputusan lulus membutuhkan bukti yang terkait pada item, bukan angka yang berdiri sendiri. **[NEEDS PROJECT EVIDENCE: keaslian dokumen, kecukupan sampling, dan penerimaan akhir harus dikonfirmasi melalui inspeksi serta persetujuan pihak berwenang.]**
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah-terima
 
-## Required conclusion
+Serahkan paket yang memungkinkan orang lain mengulang pemeriksaan: PO dan revisinya, spesifikasi serta edisi standar yang disetujui, MTC per heat, delivery note, foto atau transkrip marking, laporan uji tambahan, korespondensi klarifikasi, dan formulir keputusan QA/QC. Beri nama berkas dengan nomor heat dan tanggal, lalu kendalikan revisinya.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Checklist penutupan:
 
-## Draft completion checklist
+- Identitas produsen, MTC, heat, produk, ukuran, dan grade cocok.
+- Standar dan ruang lingkup produk telah disetujui reviewer.
+- Kimia dan uji mekanis memiliki nilai, unit, metode, dan batas yang dapat dibaca.
+- Laboratorium, otorisasi laporan, dan rantai sampel terverifikasi sesuai kebutuhan PO.
+- Selisih, asumsi, dan keputusan hold tercatat; tidak ada sel kosong yang ditutup dengan tebakan.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Besi.co.id, simpan paket ini di lokasi kendali dokumen dan pastikan pihak berikutnya dapat menelusuri revisinya dari [beranda Besi.co.id](/) bila membutuhkan konteks pembelian. Bila klarifikasi pemasok atau review dokumen belum selesai, ajukan pertanyaan melalui [kontak Besi.co.id](/kontak) tanpa menganggap sertifikat itu sudah diterima.
+
+## Jalan pintas yang sering gagal
+
+Jalan pintasnya adalah menerima MTC karena logo produsen terlihat familiar atau karena satu nilai kuat tarik melewati batas. Cara ini gagal ketika sertifikat tertukar antar-heat, standar yang dipakai berbeda, atau angka berasal dari laporan laboratorium yang tidak terkait dengan bundel. Alternatif yang lebih aman adalah rekonsiliasi identitas tiga arah—PO, MTC, dan marking fisik—lalu meminta klarifikasi tertulis sebelum material dipakai.
+
+## Kesimpulan
+
+Cara membaca MTC steel bar adalah memeriksa identitas heat dan produk lebih dulu, mencocokkan grade serta standar yang benar, membaca kimia dan uji dengan unit/metode/batasnya, kemudian memastikan penerbit dan jejak serah-terima. Langkah berikutnya: kumpulkan PO, MTC, dan marking satu bundel, isi checklist per heat, lalu minta QA/QC atau inspektor yang berwenang menyelesaikan **[NEEDS TECHNICAL REVIEW]** sebelum penerimaan. Sertifikat yang rapi membantu keputusan; ia tidak menggantikan verifikasi keaslian dan persetujuan proyek.

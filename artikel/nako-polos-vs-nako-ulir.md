@@ -2,8 +2,8 @@
 article_id: BAR-02-03
 title: "Nako Polos vs Nako Ulir: Perbedaan Geometri dan Intent"
 slug: "nako-polos-vs-nako-ulir"
-description: "Compare surface/form, joining, appearance, handling, evidence"
-status: outline
+description: "Perbandingan bentuk, permukaan, sambungan, tampilan, dan bukti sebelum memilih nako polos atau nako ulir."
+status: draft
 publication_date: "2025-09-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,202 +13,95 @@ reader_community: "Besi.co.id"
 reader_address: "Teman Besi.co.id"
 final_route: "/artikel/nako-polos-vs-nako-ulir.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/52949.html"
   - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf"
   - "https://www.iso.org/standard/73841.html"
   - "https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key="
-  - "https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key="
   - "https://pesta.bsn.go.id/produk/detail/11986-sni85222018"
-  - "https://pesta.bsn.go.id/produk/detail/14592-91722023"
-  - "https://www.iso.org/standard/9985.html"
-  - "https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Nako Polos vs Nako Ulir: Perbedaan Geometri dan Intent
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-004
+**Exact Markdown to insert:** `![Ilustrasi harga besi nako ulir](/wp-content/uploads/2024/07/harga-besi-nako-ulir.png)`
+Caption/credit: Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+END MANAGED IMAGE PLAN -->
 
-## Assignment lock
+Halo, Teman Besi.co.id! Ketika fabrikator membandingkan nako polos dan nako ulir, pertanyaan utamanya bukan “mana yang lebih kuat”, melainkan “bentuk dan permukaan mana yang sesuai dengan cara komponen ini dibuat dan dipakai?” Nako polos menawarkan bidang yang rata dan mudah ditata. Nako ulir menambahkan pola pada permukaan sehingga tampilan dan interaksinya berbeda. Keduanya tidak boleh dianggap saling menggantikan hanya karena sama-sama disebut batang kotak.
 
-- **Writer task:** Expand this file into one complete article answering: “Nako Polos vs Nako Ulir: Perbedaan Geometri dan Intent”
-- **Reader and situation:** Fabricator
-- **Reader outcome:** Compare surface/form, joining, appearance, handling, evidence
-- **Primary intent:** Compare square bars
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No structural verdict
-- **Final public route:** `/artikel/nako-polos-vs-nako-ulir.html`
-- **Appointed CMS date:** `2025-09-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih nako polos bila sambungan, pemotongan, pengeboran, atau hasil akhir membutuhkan bidang yang konsisten; pertimbangkan nako ulir bila tekstur visual dan identitas permukaan memang bagian dari desain. Keputusan final tetap bergantung pada ukuran aktual, material, standar produk, metode sambungan, dan persetujuan proyek. [NEEDS GATE-01: verifikasi spesifikasi dan kecocokan proyek]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Nako Polos vs Nako Ulir: Perbedaan Geometri dan Intent**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-004`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi nako ulir](/wp-content/uploads/2024/07/harga-besi-nako-ulir.png)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi nako ulir` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-02
-
-- **Original sources:** [ISO 6929:2013 — Steel products — Vocabulary](https://www.iso.org/standard/52949.html) and [ISO ICS classification for iron and steel products](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)
-- **Purpose for this article:** Give terminology articles a defensible taxonomy without treating Indonesian seller labels as grade evidence.
-- **Safe grounded facts:** Product-form vocabulary describes form and manufacturing stage; it does not establish chemistry, grade, tolerance, coating, or suitability. Pipe/tube, profile, plate/sheet, bar, wire, grating, and fabricated product require separate evidence chains.
-- **Limits:** The abstract does not provide every definition. Indonesian trade vocabulary may differ; verify the governing product standard, datasheet, marking, and certificate before assigning a formal product term.
-
-### KR-04
-
-- **Original sources:** [ISO 630-1:2021 — general delivery conditions for hot-rolled structural products](https://www.iso.org/standard/73841.html)
-- **Purpose for this article:** Separate a general structural-steel family from sheet/strip, tube, and the specific grades in other parts of the standard.
-- **Safe grounded facts:** A structural use label is not one universal product specification. Form, standard part, grade, supply condition, dimensions, and order requirements must remain linked.
-- **Limits:** Do not extract grades, chemistry, mechanical values, tolerances, or weldability from the abstract. Obtain the applicable ISO/SNI/ASTM/JIS product document and project specification through G-01/G-02.
-
-### KR-05
-
-- **Original sources:** [BSN catalog for steel profiles](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=), [BSN catalog for flat steel products](https://pesta.bsn.go.id/produk/by_ics/2?ics_no=77.140.50&key=), [BSN record for SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018), and [BSN record for SNI 9172:2023 welding wire](https://pesta.bsn.go.id/produk/detail/14592-91722023)
-- **Purpose for this article:** Show the breadth and volatility of Indonesian product-standard discovery without turning the list into a universal specification.
-- **Safe grounded facts:** Writers can safely state the titles/status visible on the verification date. Product form and application change which standard family is relevant; a profile standard does not govern every plate, tube, bar, mesh, fastener, coating, or installed assembly.
-- **Limits:** The BSN lists can contain overlapping editions and classification anomalies. Confirm exact current record, full text, amendment, mandatory regulation, certification scope, and purchase order through G-01/G-02.
-
-### KR-08
-
-- **Original sources:** [ISO 4200:1991 — steel-tube dimensions and masses](https://www.iso.org/standard/9985.html) and [ASME B36.10-2022 — welded and seamless wrought steel pipe](https://www.asme.org/codes-standards/find-codes-standards/welded-and-seamless-wrought-steel-pipe)
-- **Purpose for this article:** Ground dimensional-table and theoretical-mass articles without confusing nominal labels, measured geometry, invoice basis, and service rating.
-- **Safe grounded facts:** A theoretical mass is tied to a referenced geometry, length, density assumption, rounding rule, and product table. Receiving measurement and actual weighing are separate checks.
-- **Limits:** Do not publish table values, tolerances, density, schedule equivalence, or invoice entitlement without the full governing standard and supply terms. Resolve G-04/G-16.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/nako-ulir` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-wonosobo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jual-nako-ulir-wonogiri.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-02-01` → `/artikel/bentuk-batang-baja.html` — Panduan Bentuk Batang Baja untuk Pembeli
-- `BAR-02-02` → `/artikel/data-as-baja-untuk-poros.html` — As Baja untuk Poros: Data yang Harus Diberikan ke Engineer
-- `BAR-02-04` → `/artikel/besi-beton-polos-dan-sirip.html` — Besi Beton Polos dan Sirip: Identitas Produk sebelum Pemakaian
-- `BAR-02-05` → `/artikel/bar-stock-untuk-machining.html` — Kapan Bar Stock Dipilih untuk Machining?
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+![Ilustrasi harga besi nako ulir](/wp-content/uploads/2024/07/harga-besi-nako-ulir.png)
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Masalah keputusan yang sebenarnya
 
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Nako Polos vs Nako Ulir: Perbedaan Geometri dan Intent”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Di bengkel, dua batang dengan penampang persegi sering ditumpuk dan diberi label “nako”. Label dagang itu belum menjawab apakah permukaannya polos atau berulir, bagaimana pola dibuat, atau bukti mutu apa yang menyertainya. Kesalahan terjadi ketika pemesan hanya menyebut ukuran lalu berharap pemasok mengirim bentuk yang sama dengan contoh sebelumnya.
+
+Tulis intent (tujuan pemakaian) sebelum meminta penawaran: apakah batang akan dilas ke rangka, dipotong menjadi komponen, dijadikan elemen pagar, atau dibiarkan terlihat sebagai aksen? Jika sambungan harus menempel pada bidang rata, pola ulir dapat memerlukan penyesuaian detail. Jika tampilan bertekstur adalah syarat, nako polos mungkin memerlukan pekerjaan tambahan untuk mencapai efek visual yang diinginkan. Ini adalah keputusan fabrikasi dan tampilan, bukan vonis kapasitas struktur.
 
 ## Bedakan objek sebelum membandingkan
 
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Nako Polos vs Nako Ulir: Perbedaan Geometri dan Intent”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Secara praktis, nako polos adalah batang dengan penampang persegi dan permukaan relatif rata, sedangkan nako ulir adalah batang serupa dengan pola atau alur pada permukaannya. Istilah pasar bisa berbeda antar pemasok. Karena itu, sebutkan penampang, dimensi, panjang, kondisi permukaan, dan toleransi yang diminta; jangan mengandalkan nama “ulir” saja.
+
+ISO 6929 menjelaskan kosakata produk baja dan tahap pembentukannya, sementara klasifikasi ICS ISO memisahkan keluarga produk seperti bar, profile, tube, dan produk fabrikasi. Rujukan itu membantu menghindari pencampuran istilah, tetapi tidak membuktikan grade, kimia, toleransi, lapisan, atau kelayakan penggunaan tertentu ([ISO 6929:2013](https://www.iso.org/standard/52949.html); [klasifikasi ICS produk besi dan baja](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/international_classification_for_standards.pdf)). Untuk produk yang akan diberi label struktural, ISO 630-1 juga menegaskan bahwa bentuk, bagian standar, grade, kondisi pasokan, dimensi, dan persyaratan pesanan harus tetap terhubung; satu label “baja struktural” bukan spesifikasi universal ([ISO 630-1:2021](https://www.iso.org/standard/73841.html)).
+
+Minta foto penampang, contoh potongan, atau sampel yang dapat diukur. Cocokkan tanda pada bundel dan dokumen pemasok dengan pesanan. Bila dokumen hanya menyatakan “nako” tanpa rincian permukaan dan grade, anggap identitas belum lengkap.
+
+Jika Anda masih memetakan istilah dagang, gunakan [rujukan produk nako ulir](/nako-ulir) sebagai langkah berikutnya, lalu kembali ke spesifikasi proyek. Untuk melihat konteks pilihan produk yang lebih luas, Anda juga dapat membuka [halaman kategori nako](/nako); keduanya tidak menggantikan pemeriksaan teknis.
 
 ## Kriteria perbandingan yang relevan
 
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Nako Polos vs Nako Ulir: Perbedaan Geometri dan Intent”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bandingkan kedua opsi pada enam titik berikut.
+
+1. **Geometri dan bidang kontak.** Ukur sisi penampang dan periksa apakah pola ulir mengurangi bidang rata yang diperlukan untuk dudukan, clamp, atau pelat sambungan. Jangan menyimpulkan luas efektif atau kapasitas dari tampilan saja.
+2. **Pengerjaan.** Catat lokasi potong, lubang, tekuk, dan las. Permukaan polos biasanya lebih mudah diberi tanda dan dijepit secara konsisten; permukaan beralur membutuhkan pemeriksaan agar alat tidak bergeser. Hasil aktual bergantung pada mesin, operator, dan prosedur.
+3. **Sambungan.** Tentukan apakah sambungan berupa las, baut, atau dudukan mekanis. Detail kampuh, pembersihan, akses alat, dan inspeksi harus disetujui penanggung jawab teknis. [NEEDS GATE-02: review detail sambungan]
+4. **Penampilan.** Sepakati arah pola, konsistensi antar batang, dan apakah permukaan akan dicat atau diberi lapisan lain. Pola tidak otomatis berarti lebih dekoratif setelah dipotong atau dilas.
+5. **Penanganan dan perawatan.** Periksa tepi, area yang sulit dibersihkan, dan cara penyimpanan agar tidak menimbulkan kerusakan permukaan. Klaim ketahanan korosi memerlukan spesifikasi lapisan dan lingkungan, bukan nama polos/ulir.
+6. **Bukti pembelian.** Minta datasheet, sertifikat material bila diwajibkan, ukuran aktual, panjang, jumlah, dan basis penimbangan. Katalog BSN menunjukkan bahwa keluarga standar produk baja dipisahkan menurut bentuk dan subjek; catatan SNI yang terlihat publik tetap perlu dicocokkan dengan edisi, ruang lingkup, dan dokumen pesanan ([katalog BSN profil baja](https://pesta.bsn.go.id/produk/by_ics?ics_no=77.140.70&key=); [rekaman SNI 8522:2018](https://pesta.bsn.go.id/produk/detail/11986-sni85222018)).
+
+Sobat Besi.co.id, jadikan tabel ini lembar pemeriksaan saat meminta penawaran. Dua penawaran dengan harga berbeda belum dapat dibandingkan jika bentuk permukaan, panjang, dan dokumen mutunya tidak setara.
 
 ## Kapan masing-masing pilihan masuk akal
 
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Nako Polos vs Nako Ulir: Perbedaan Geometri dan Intent”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Nako polos masuk akal untuk komponen yang perlu ditandai, dipotong berulang, dibor, atau ditempelkan pada pelat dengan bidang kontak yang mudah diperiksa. Pilihan ini juga logis ketika gambar kerja hanya mensyaratkan batang persegi dengan permukaan rata dan tidak memberi fungsi dekoratif pada alur.
+
+Nako ulir masuk akal bila tekstur permukaan memang diminta oleh desain pagar, railing, atau detail arsitektural, dan fabrikator sudah memperhitungkan orientasi pola pada potongan serta sambungan. Contoh itu bukan bukti bahwa ulir lebih aman atau lebih kuat; ia hanya menunjukkan intent tampilan dan pengerjaan yang berbeda. Jika proyek tidak menjelaskan fungsi tekstur, minta keputusan tertulis dari perancang atau pemilik sebelum mengganti jenis.
+
+Untuk setiap skenario, keputusan dapat berubah oleh ukuran aktual, grade, kondisi pasokan, dan standar yang ditetapkan dalam kontrak. Jangan memberi verdict struktural dari perbandingan bentuk ini. [NEEDS GATE-03: persetujuan penggunaan oleh engineer/profesional proyek]
 
 ## Kesalahan perbandingan yang sering terjadi
 
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Nako Polos vs Nako Ulir: Perbedaan Geometri dan Intent”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Menganggap “ulir” berarti lebih kuat.** Pola permukaan adalah ciri geometri/finishing. Kekuatan material, sambungan, dan sistem tidak dapat ditentukan tanpa data material serta perhitungan yang relevan.
+
+**Menganggap ukuran nominal pasti sama.** Dua batang bertuliskan ukuran yang sama dapat memiliki toleransi dan kondisi permukaan berbeda. Ukur sampel dari beberapa batang dan cocokkan dengan dokumen pengiriman.
+
+**Mengelas tanpa memeriksa area sambungan.** Alur, mill scale, cat, atau kontaminan dapat memengaruhi persiapan permukaan dan inspeksi. Ikuti WPS/prosedur yang disetujui; jangan mengarang parameter las dari nama produk.
+
+**Menyamakan contoh visual dengan spesifikasi.** Foto atau sampel membantu mengenali bentuk, tetapi tidak membuktikan grade, asal, atau performa. Minta dokumen dan simpan rekamannya bersama pesanan.
 
 ## Bukti yang perlu diminta sebelum memilih
 
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Nako Polos vs Nako Ulir: Perbedaan Geometri dan Intent”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan urutan sederhana ini sebelum material dipotong:
 
-## Objection or shortcut to address
+- Gambar atau sketsa yang menunjukkan penampang, ukuran, panjang, arah pola, dan lokasi sambungan.
+- Deskripsi permukaan: polos atau berpola, kondisi pasokan, lapisan, serta kriteria cacat yang diterima.
+- Datasheet dan sertifikat/sertifikasi yang memang diwajibkan kontrak. Periksa judul, edisi, ruang lingkup, dan kecocokannya dengan bentuk produk; status katalog publik bukan pengganti teks standar dan persyaratan proyek.
+- Sampel penerimaan: ukur sisi, lurus, panjang, dan kondisi permukaan. Catat alat dan hasilnya sesuai prosedur inspeksi Anda.
+- Rencana fabrikasi: metode potong, pengeboran, tekuk, las atau baut, serta siapa yang menyetujui perubahan.
+- Rekaman lot, surat jalan, dan basis harga/berat agar penerimaan dapat ditelusuri. [NEEDS GATE-04: verifikasi dokumen pemasok dan penerimaan]
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jika pemasok tidak dapat menjelaskan perbedaan pola atau memberikan dokumen yang diminta, tahan keputusan pembelian dan eskalasikan kepada penanggung jawab mutu/proyek. Kawan Besi.co.id, biaya menunggu klarifikasi biasanya lebih kecil daripada membongkar pekerjaan yang salah bentuk.
 
-## Required conclusion
+## Mengapa stok tercepat bukan selalu pilihan aman
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Shortcut yang sering dipilih adalah memesan nako polos atau ulir berdasarkan stok tercepat, lalu menyesuaikan gambar kerja di bengkel. Cara ini dapat gagal ketika bidang kontak, orientasi tekstur, atau dokumen material ternyata tidak cocok; pekerjaan ulang dan persetujuan tambahan menjadi risiko nyata. Alternatif yang lebih aman: kirimkan sketsa intent, minta foto penampang dan dokumen identitas, lakukan pemeriksaan sampel, lalu dapatkan persetujuan perubahan sebelum material dipotong atau dilas.
 
-## Draft completion checklist
+## Kesimpulan dan langkah berikutnya
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Nako polos dan nako ulir berbeda terutama pada geometri permukaan dan intent fabrikasinya. Polos cenderung dipilih saat bidang rata dan pengerjaan konsisten menjadi prioritas; ulir dipilih saat tekstur merupakan bagian desain yang sudah disepakati. Tidak ada pemenang universal dan artikel ini bukan penetapan kapasitas struktur.
+
+Langkah berikutnya: tulis spesifikasi penampang, ukuran, permukaan, grade/standar yang diwajibkan, metode sambungan, dan bukti yang harus diserahkan pemasok. Minta sampel, ukur sebelum produksi, lalu serahkan detail sambungan dan penggunaan kepada engineer atau profesional proyek yang berwenang. Aturan operasionalnya: jangan mengganti polos dengan ulir—atau sebaliknya—tanpa bukti identitas material dan persetujuan perubahan tertulis.

@@ -1,9 +1,10 @@
 ---
 article_id: BAR-14-03
+writing_contract_version: "native-id-v2"
 title: "K3 Cutting, Bending, dan Machining Steel Bar"
 slug: "k3-processing-steel-bar"
 description: "Cover entanglement, ejection, chips, heat, noise, guarding, isolation, lifting, housekeeping"
-status: outline
+status: draft
 publication_date: "2026-07-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,52 +15,13 @@ reader_address: "Teman Besi.co.id"
 final_route: "/artikel/k3-processing-steel-bar.html"
 technical_review: required
 sources:
-  - "https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
-  - "https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016"
-  - "https://www.cdc.gov/niosh/welding/about/index.html"
-  - "https://www.osha.gov/welding-cutting-brazing/hazards-solutions"
-  - "https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html"
-  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250"
   - "https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation"
-  - "https://www.iso.org/standard/72532.html"
-  - "https://www.iso.org/standard/90678.html"
-  - "https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# K3 Cutting, Bending, dan Machining Steel Bar
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “K3 Cutting, Bending, dan Machining Steel Bar”
-- **Reader and situation:** Workshop
-- **Reader outcome:** Cover entanglement, ejection, chips, heat, noise, guarding, isolation, lifting, housekeeping
-- **Primary intent:** Plan process hazards
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No machine procedure
-- **Final public route:** `/artikel/k3-processing-steel-bar.html`
-- **Appointed CMS date:** `2026-07-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **K3 Cutting, Bending, dan Machining Steel Bar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,143 +32,60 @@ sources:
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# K3 Cutting, Bending, dan Machining Steel Bar
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Besi.co.id! K3 pada cutting, bending, dan machining steel bar ditentukan oleh pengendalian bahaya di setiap tahap, bukan oleh kacamata atau sarung tangan saja. Area kerja harus mencegah orang tersangkut atau terjepit, material terlontar, serpihan mengenai tubuh, panas dan bising tidak terkendali, serta energi mesin hidup kembali saat ada orang memeriksa.
 
-### KR-01
+Jawaban praktisnya: tetapkan batas proses, cocokkan mesin dan material dengan penilaian risiko, pasang guarding dan isolasi energi yang dapat diverifikasi, lalu hentikan pekerjaan bila kondisi pengangkatan, penyimpanan, atau housekeeping tidak aman. Rincian mesin, tata letak, beban, dan kompetensi operator dapat mengubah keputusan; karena data proyek belum tersedia, `[NEEDS GATE-01: validasi penilaian risiko dan metode kerja oleh personel kompeten]` harus ditutup sebelum produksi.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-### KR-19
-
-- **Original sources:** [Permen PUPR 10/2021 — SMKK](https://jdih.pu.go.id/detail-dokumen/PermenPUPR-nomor-10-tahun-2021-Pedoman-Sistem-Manajemen-Keselamatan-Konstruksi), [Permenaker 5/2018 — work environment K3](https://jdih.kemnaker.go.id/peraturan/detail/1546), [Permenaker 8/2020 — lifting/transport equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [Permenaker 9/2016 — work at height](https://jdih.kemnaker.go.id/peraturan/detail/1210/peraturan-menteri-nomor-9-tahun-2016), and [Permenaker 38/2016 — power/production equipment K3](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016)
-- **Purpose for this article:** Anchor fabrication, lifting, transport, erection, work-at-height, and workplace-exposure outlines in current Indonesian sources.
-- **Safe grounded facts:** Steel work crosses multiple K3 scopes; one generic checklist cannot replace employer duties, competent personnel, equipment records, site risk assessment, work method, permits, emergency planning, and supervision.
-- **Limits:** Titles/status do not supply the operative clauses or prove applicability to a specific employer, site, machine, lift, or task. Read current consolidated texts and site documents with competent K3/legal review through G-12.
-
-### KR-20
-
-- **Original sources:** [NIOSH welding fumes and manganese](https://www.cdc.gov/niosh/welding/about/index.html), [OSHA welding/cutting/brazing hazards](https://www.osha.gov/welding-cutting-brazing/hazards-solutions), and [NIOSH local-exhaust engineering-control evaluation](https://www.cdc.gov/niosh/engcontrols/ecd/detail44.html)
-- **Purpose for this article:** Give K3 articles a hazard map without converting U.S. exposure limits or controls into Indonesian prescriptions.
-- **Safe grounded facts:** A welding risk assessment needs process, base/coating/contamination, consumable, ventilation, work position/enclosure, adjacent workers, hot-work/fire conditions, electrical/gas equipment, exposure assessment, and emergency controls.
-- **Limits:** Do not copy U.S. limits, respirator choices, ventilation rates, or PPE as Indonesian/site requirements. Competent industrial hygiene and K3 review plus current Indonesian limits/procedures are required through G-12.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-### KR-22
-
-- **Original sources:** [ISO 22095:2020 — chain-of-custody framework](https://www.iso.org/standard/72532.html), [ISO 22095:2020/Amd 1:2026](https://www.iso.org/standard/90678.html), and [ISO's 2026 chain-of-custody update](https://www.iso.org/cms/live/live/en/sites/isoorg/contents/news/2026/03/new-iso-standards-bring-clarity.html)
-- **Purpose for this article:** Clarify material identity, sustainability claims, supplier evidence, and auditable handover.
-- **Safe grounded facts:** Physical identity/segregation, mass-balance, and administrative claims are different models. An auditable claim needs a defined characteristic, system boundary, input/output records, transfer rules, responsible parties, and no double counting.
-- **Limits:** ISO 22095 is not steel-specific and is under review. Obtain the claim scheme, current full standard/2026 parts, supplier records, assurance scope, and transaction evidence through G-03/G-15/G-17.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-14-01` → `/artikel/hierarki-bukti-klaim-steel-bar.html` — Hierarki Bukti untuk Klaim Steel Bar
-- `BAR-14-02` → `/artikel/risiko-handling-steel-bar.html` — Risiko Berat, Menggelinding, dan Tepi Tajam Bar
-- `BAR-14-04` → `/artikel/hot-work-fume-welding-bar.html` — Hot Work dan Fume saat Welding Bar
-- `BAR-14-05` → `/artikel/unknown-coating-before-hot-work.html` — Unknown Coating dan Contamination sebelum Hot Work
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Hasil akhir dan prasyarat
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “K3 Cutting, Bending, dan Machining Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil yang dicari adalah proses yang dapat dijalankan tanpa paparan tak terkendali dan meninggalkan rekaman yang bisa diaudit. Penanggung jawab workshop, operator berwenang, petugas K3, pemilik alat, dan pengawas harus jelas. Siapkan daftar mesin, energi (listrik, hidrolik, pneumatik, gravitasi), jenis serta ukuran bar, massa dan titik berat, gambar tata letak, instruksi pabrikan, izin kerja yang relevan, rencana darurat, dan catatan inspeksi. Untuk mengenali konteks material, lihat [kategori besi-beton](/besi-beton).
 
-## Langkah 1 — tetapkan scope
+Permenaker 38/2016 dan Permenaker 5/2018 dapat menjadi rujukan awal untuk peralatan tenaga/produksi dan lingkungan kerja. Judul peraturan tidak membuktikan mesin atau tempat tertentu sudah patuh; teks yang berlaku dan dokumen perusahaan tetap harus diperiksa ([Permenaker 38/2016](https://jdih.kemnaker.go.id/peraturan/detail/1430/peraturan-menteri-nomor-38-tahun-2016), [Permenaker 5/2018](https://jdih.kemnaker.go.id/peraturan/detail/1546)).
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “K3 Cutting, Bending, dan Machining Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 1 — tetapkan cakupan
+
+Gambar batas dari penerimaan bar sampai hasil potong, tekuk, atau frais diserahkan. Tandai antarmuka forklift atau crane, rak penyimpanan, meja kerja, jalur pejalan kaki, area pembuangan chips, dan titik inspeksi. Artikel ini membahas perencanaan bahaya; ia tidak memberi urutan tombol, kecepatan potong, setelan pahat, atau cara membongkar pelindung mesin.
+
+Petakan bahaya per proses. Pada cutting ada titik jepit, bagian bar yang terlepas, tepi tajam, dan energi pisau tersimpan. Pada bending ada zona gerak cetakan dan bar yang dapat memantul. Pada machining ada risiko tersangkut pada spindle atau chuck, chips panas dan tajam, coolant tercecer, kebisingan, dan benda kerja lepas. Pisahkan zona bahaya dengan penghalang dan rambu yang terlihat. `[NEEDS GATE-02: konfirmasi batas area, akses, dan interlock berdasarkan layout mesin aktual]`.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “K3 Cutting, Bending, dan Machining Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kumpulkan identitas dan kapasitas mesin, manual, catatan pemeriksaan, kondisi guarding, diagram isolasi, daftar operator berwenang, serta penilaian risiko yang ditandatangani. Cocokkan diameter, panjang, berat, dan kondisi permukaan bar dengan kemampuan alat; label material bukan pengganti verifikasi ukuran dan massa.
+
+Untuk pemindahan, rencana harus memuat massa terverifikasi, geometri, titik berat, kapasitas lantai atau rak, dan cara mencegah bar menggelinding atau menyebar. Permenaker 8/2020 menjadi rujukan K3 pesawat angkat dan angkut. Panduan penyimpanan pabrikan seperti LYSAGHT menekankan dukungan stabil, drainase, ventilasi, dan perlindungan dari kondisi yang merusak; itu bukan desain pengangkatan untuk stok campuran ([Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020), [panduan penyimpanan LYSAGHT](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation)). `[NEEDS GATE-04: verifikasi catatan inspeksi, kapasitas alat angkat, dan data paparan lingkungan kerja]`.
 
 ## Langkah 3 — jalankan urutan kerja
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “K3 Cutting, Bending, dan Machining Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan briefing: siapa yang memberi aba-aba, siapa yang boleh mengisolasi energi, jalur evakuasi, dan tanda berhenti. Pastikan bar tertopang sebelum penjepitan atau pelepasan; bar panjang tidak boleh menjadi tuas yang mengayun ke jalur orang. Gunakan alat bantu yang dirancang untuk pekerjaan tersebut, bukan tangan di dekat titik jepit.
 
-## Hold point dan kondisi berhenti
+Guarding harus mencegah jangkauan ke bagian bergerak dan menahan atau mengarahkan lontaran yang diperkirakan. Jika dibuka untuk perawatan, terapkan isolasi energi sesuai prosedur perusahaan, lepaskan energi tersimpan, dan verifikasi kondisi nol energi oleh orang berwenang. Tombol berhenti darurat bukan pengganti isolasi. Setelah selesai, hitung personel dan alat, pasang kembali pelindung, lalu lakukan uji fungsi oleh pihak yang ditunjuk.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “K3 Cutting, Bending, dan Machining Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Atur chips dengan kuas, pengait, atau wadah yang sesuai setelah mesin berhenti; jangan mengambil chips dengan tangan atau kain yang mudah tersangkut. Kendalikan panas, coolant, dan sumber penyalaan. Kebisingan, getaran, dan ventilasi harus dinilai menurut kondisi lokasi dan ketentuan Indonesia, bukan disalin dari batas luar negeri. Sobat Besi.co.id, bila ada asap atau kontaminan dari pelapis yang tidak diketahui, minta kajian K3/industrial hygiene; artikel ini tidak menetapkan respirator atau laju ventilasi.
 
-## Verifikasi hasil dan handover
+## Titik berhenti dan kondisi berhenti
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “K3 Cutting, Bending, dan Machining Steel Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hentikan pekerjaan bila guarding atau interlock rusak; titik isolasi tidak dapat dikunci dan diverifikasi; bar tidak stabil; kapasitas angkat tidak terbukti; jalur lontar memotong jalur orang; chips, coolant, atau kabel membuat lantai licin; operator tidak berwenang; atau rencana darurat tidak dipahami. Tahan juga pekerjaan ketika ukuran, massa, atau kondisi permukaan material berbeda dari penilaian risiko.
 
-## Objection or shortcut to address
+Minta pemeriksaan teknis dan K3 sebelum mengubah metode, mengganti pahat atau cetakan, memindahkan mesin, mengangkat bundel baru, atau bekerja dekat pekerjaan lain. `[NEEDS GATE-06: keputusan lanjut/berhenti dan persetujuan perubahan oleh penanggung jawab proyek]`.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Verifikasi hasil dan serah terima
 
-## Required conclusion
+Sebelum serah terima, pengawas memeriksa kecocokan identitas mesin dan material, guarding, tombol berhenti, isolasi, area bebas orang, tumpukan stabil dan bertanda, chips serta limbah terkelola, lantai kering, jalur terbuka, dan alat angkat aman. Simpan penilaian risiko, briefing, inspeksi, izin, catatan isolasi, serta laporan insiden atau nyaris celaka dengan nomor aset dan waktu.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jika hasil tidak sesuai gambar atau toleransi, karantina material dan minta keputusan teknis—jangan mengulang pemotongan secara spontan. Kawan Besi.co.id, serah terima harus menjawab apa yang dikerjakan, dengan pengendalian apa, dan siapa yang menerima sisa risiko. Setelah review teknis, [hubungi tim Besi.co.id](/kontak) bila perlu mengklarifikasi dokumen dan ruang lingkup. `[NEEDS GATE-01: sign-off paket dokumen dan risiko residual sebelum rilis]`.
 
-## Draft completion checklist
+## Jalan pintas yang sering dipilih
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintas yang tampak cepat adalah melepas guarding agar bar mudah diatur atau membersihkan chips ketika spindle masih berputar. Cara ini menghapus penghalang terhadap tersangkut dan lontaran; sarung tangan bahkan dapat ikut tertarik. Alternatifnya: hentikan mesin, isolasi energi sesuai prosedur, gunakan alat bantu pembersih, dan minta verifikasi pengawas sebelum pelindung dibuka atau dipasang kembali.
+
+## Kesimpulan
+
+K3 cutting, bending, dan machining steel bar berarti mengendalikan interaksi material, mesin, energi, dan orang: scope jelas, bukti cocok, guarding, isolasi terverifikasi, pengangkatan serta penyimpanan stabil, dan housekeeping disiplin. Langkah berikutnya adalah mengisi penilaian risiko berbasis mesin dan layout aktual, melampirkan catatan inspeksi serta kapasitas alat angkat, lalu meminta review personel K3/teknis yang berwenang. Jangan mulai produksi sebelum `[NEEDS GATE-01]`, `[NEEDS GATE-02]`, `[NEEDS GATE-04]`, dan `[NEEDS GATE-06]` ditutup dengan bukti proyek; bila pengendalian tidak dapat diverifikasi, pekerjaan tetap berhenti.

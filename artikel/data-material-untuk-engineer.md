@@ -3,10 +3,11 @@ article_id: BAR-06-01
 title: "Data Material yang Dibutuhkan Engineer sebelum Memilih Bar"
 slug: "data-material-untuk-engineer"
 description: "Capture grade/condition, geometry, loads, environment, connection, process, service"
-status: outline
+status: draft
 publication_date: "2025-12-29"
 publication_date_basis: editorial_backfill
 date_modified: null
+writing_contract_version: "native-id-v2"
 parent_topic: BAR-06
 primary_intent: "Prepare design inputs"
 reader_community: "Besi.co.id"
@@ -23,187 +24,80 @@ sources:
   - "https://pesta.bsn.go.id/produk/detail/12885-sni83692020"
   - "https://pesta.bsn.go.id/produk/detail/9714-sni79712013"
   - "https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf"
-  - "https://www.fhwa.dot.gov/bridge/inspection/"
-  - "https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Data Material yang Dibutuhkan Engineer sebelum Memilih Bar
 
-## Assignment lock
+Halo, Teman Besi.co.id! Jangan memilih bar hanya karena label “baja struktural”, diameter, atau angka kuat tarik pada brosur. Engineer perlu satu paket data yang menghubungkan identitas material dengan bentuk, beban, lingkungan, sambungan, proses pembuatan, dan masa layanan. Tanpa hubungan itu, angka yang benar pada sertifikat dapat dipakai untuk keputusan yang keliru.
 
-- **Writer task:** Expand this file into one complete article answering: “Data Material yang Dibutuhkan Engineer sebelum Memilih Bar”
-- **Reader and situation:** Project coordinator
-- **Reader outcome:** Capture grade/condition, geometry, loads, environment, connection, process, service
-- **Primary intent:** Prepare design inputs
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No design
-- **Final public route:** `/artikel/data-material-untuk-engineer.html`
-- **Appointed CMS date:** `2025-12-29` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: minta dokumen grade dan kondisi material, telusuri identitas heat atau lot serta riwayat kondisi, catat geometri dan toleransinya, definisikan beban dan pola pemakaian, lalu cocokkan lingkungan, detail sambungan, proses fabrikasi, dan kebutuhan inspeksi. Hasilnya adalah input desain dan verifikasi—bukan desain jadi. [NEEDS PROJECT REVIEW: standar produk, edisi yang berlaku, data beban, dan penerimaan material belum ditetapkan untuk proyek tertentu.]
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Data Material yang Dibutuhkan Engineer sebelum Memilih Bar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-03
-
-- **Original sources:** [ISO 6892-1:2019 — tensile testing at room temperature](https://www.iso.org/standard/78322.html), [ISO 377:2017 — steel samples and test pieces](https://www.iso.org/standard/72529.html), and [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html)
-- **Purpose for this article:** Prevent a property name or isolated test value from being presented as proof of grade, whole-stock conformity, or structural capacity.
-- **Safe grounded facts:** A reported property must stay linked to specimen source, orientation/location, preparation, method, condition, unit, and product/heat identity. A method defines how to test; the governing material/product specification defines required values and disposition.
-- **Limits:** Full method, product standard, sampling plan, amendment, laboratory scope, uncertainty, and actual report are required for any acceptance claim; resolve through G-01/G-13.
-
-### KR-04
-
-- **Original sources:** [ISO 630-1:2021 — general delivery conditions for hot-rolled structural products](https://www.iso.org/standard/73841.html)
-- **Purpose for this article:** Separate a general structural-steel family from sheet/strip, tube, and the specific grades in other parts of the standard.
-- **Safe grounded facts:** A structural use label is not one universal product specification. Form, standard part, grade, supply condition, dimensions, and order requirements must remain linked.
-- **Limits:** Do not extract grades, chemistry, mechanical values, tolerances, or weldability from the abstract. Obtain the applicable ISO/SNI/ASTM/JIS product document and project specification through G-01/G-02.
-
-### KR-11
-
-- **Original sources:** [PP 16/2021 status and abstract](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021), [BSN SNI 1729:2020 record](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [BSN SNI 8369:2020 record](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), and [BSN SNI 7971:2013 record](https://pesta.bsn.go.id/produk/detail/9714-sni79712013)
-- **Purpose for this article:** Establish that building regulation, structural design, standard practice, and cold-formed design are related but distinct evidence layers.
-- **Safe grounded facts:** A product page, section table, certificate, or fabrication dossier does not constitute structural design. Member capacity, stability, connection, load path, fire, temporary state, retrofit, and safety require project facts and competent design/review.
-- **Limits:** Public records do not provide design clauses. Confirm national/local rules, current standards, actions, site, occupancy, materials, drawings, calculations, changes, and approvals through G-02/G-06.
-
-### KR-26
-
-- **Original sources:** [FHWA fatigue/fracture reference manual](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf), [FHWA bridge-inspection resource hub](https://www.fhwa.dot.gov/bridge/inspection/), and [FHWA fatigue-crack NDE program](https://www.fhwa.dot.gov/publications/ndec/ndecnews.cfm)
-- **Purpose for this article:** Ground fatigue/fracture and defect-escalation articles while preventing bridge guidance from becoming a generic building rule.
-- **Safe grounded facts:** Fatigue/fracture review requires asset/detail identity, load/use history and changes, stress/detail context, material/fabrication/weld history, corrosion/damage, prior findings/repairs, access, monitoring, and competent evaluation.
-- **Limits:** FHWA bridge rules are not Indonesian building requirements. Do not estimate remaining life, inspection interval, criticality, or repair from these public sources; resolve through G-06/G-08/G-14.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-06-02` → `/artikel/input-desain-poros.html` — Input Poros: Beban, Putaran, Keyway, dan Lingkungan
-- `BAR-06-03` → `/artikel/fatigue-batang-baja.html` — Fatigue pada Batang Baja: Mengapa Strength Saja Tidak Cukup
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Data Material yang Dibutuhkan Engineer sebelum Memilih Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+“Bar” di sini berarti batang yang dipilih sebagai komponen proyek, bukan satu spesifikasi universal. Nama dagang atau kegunaan umum tidak menetapkan grade, proses, atau kapasitas. [ISO 630-1:2021](https://www.iso.org/standard/73841.html) menempatkan produk struktural dalam kondisi penyerahan yang harus tetap terkait dengan bentuk, bagian standar, grade, kondisi pasokan, dimensi, dan persyaratan pemesanan. Untuk membandingkan pilihan material yang umum di lapangan, Anda dapat melihat [ruang lingkup besi-beton](/besi-beton) sebagai rujukan navigasi, bukan sebagai pengganti spesifikasi proyek.
+
+Sertifikat material juga bukan tiket otomatis untuk dipakai. Nilai uji hanya bermakna bila jelas dari spesimen mana nilai itu berasal, bagaimana orientasi dan penyiapannya, metodenya, satuannya, serta identitas produk atau heat. Prinsip penelusuran itu selaras dengan [ISO 377:2017](https://www.iso.org/standard/72529.html) dan amendemennya [ISO 377:2017/Amd 1:2025](https://www.iso.org/standard/89449.html); metode pengambilan benda uji tidak menggantikan spesifikasi produk dan rencana sampling proyek.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Data Material yang Dibutuhkan Engineer sebelum Memilih Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Paket data material adalah catatan keputusan sebelum pemilihan: apa barangnya, kondisi saat diterima, bagaimana dipakai, dan bukti apa yang akan diperiksa. Artikel ini tidak menghitung luas penampang, kapasitas, faktor reduksi, detail las, atau umur lelah. Angka-angka itu memerlukan gambar, model, kombinasi aksi, material sambungan, dan tinjauan engineer yang berwenang.
+
+Bedakan empat lapisan dokumen. Pertama, identitas dan spesifikasi produk. Kedua, bukti mutu seperti mill certificate, heat number, laporan uji, dan catatan inspeksi. Ketiga, fakta proyek—beban, lokasi, paparan, urutan kerja, dan akses. Keempat, keputusan desain serta persetujuan. Catatan [PP 16/2021](https://peraturan.bpk.go.id/Home/Details/161846/pp-no-16-tahun-2021) dan rekaman BSN untuk [SNI 1729:2020](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [SNI 8369:2020](https://pesta.bsn.go.id/produk/detail/12885-sni83692020), dan [SNI 7971:2013](https://pesta.bsn.go.id/produk/detail/9714-sni79712013) membantu mengidentifikasi lapisan aturan dan standar; halaman publik itu tidak menggantikan teks standar, spesifikasi kontrak, atau perhitungan proyek.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Data Material yang Dibutuhkan Engineer sebelum Memilih Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari daftar kebutuhan, bukan dari stok yang tersedia. Minta: (1) bentuk produk—round bar, flat bar, atau bentuk lain—beserta ukuran, panjang, toleransi, dan kondisi permukaan; (2) grade, standar produk, kondisi pasokan, heat/lot, asal dokumen, dan tanggal; (3) data mekanik serta kimia yang dilaporkan dengan metode dan unitnya; (4) riwayat pemotongan, pembengkokan, pemanasan, pelapisan, atau penyimpanan.
+
+Lanjutkan dengan konteks pemakaian. Catat gaya aksial, lentur, geser, torsi, kejutan, siklus, durasi, dan perubahan beban yang diharapkan. Tambahkan temperatur, kelembapan, garam, bahan kimia, abrasi, kebakaran, atau kontak dengan material lain. Untuk sambungan, tanyakan apakah akan dilas, dibaut, diberi ulir, dipres, atau memakai keyway; proses itu menentukan kebutuhan kompatibilitas dan pemeriksaan, tetapi detail penerimaannya tetap harus ditetapkan engineer.
+
+Terakhir, sepakati alur bukti: siapa memeriksa sertifikat, bagaimana heat number dicocokkan ke batang, kapan inspeksi visual atau pengujian tambahan dilakukan, dan siapa yang menyetujui penyimpangan. [ISO 6892-1:2019](https://www.iso.org/standard/78322.html) menjelaskan metode uji tarik pada temperatur ruang; ia tidak menyatakan bahwa seluruh stok memenuhi grade atau mampu menahan beban proyek.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Data Material yang Dibutuhkan Engineer sebelum Memilih Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Beberapa faktor mengubah pilihan meski diameter sama:
+
+| Kelompok | Data yang dicatat | Mengapa penting |
+| --- | --- | --- |
+| Grade dan kondisi | standar produk, grade, kondisi pasokan, heat/lot, sertifikat | Menentukan bukti apa yang dapat dibandingkan dan ditelusuri. |
+| Geometri | diameter atau sisi, panjang, kelurusan, toleransi, ujung, ulir/keyway | Mengubah kecocokan dengan detail dan proses sambungan. |
+| Beban dan layanan | besar/arah, siklus, kecepatan, kejutan, durasi, perubahan | Membedakan pemakaian statis dari risiko lelah atau fraktur. |
+| Lingkungan | korosi, temperatur, bahan kimia, abrasi, api, kontak galvanik | Memengaruhi kondisi awal, perlindungan, dan inspeksi. |
+| Proses | potong, bor, ulir, las, pemanasan, pelapisan, penyimpanan | Dapat mengubah permukaan, geometri, atau kondisi material. |
+| Bukti dan kontrol | rencana sampling, laboratorium, rekaman inspeksi, persetujuan | Menentukan apakah data layak dipakai untuk keputusan. |
+
+Untuk komponen yang menerima siklus atau perubahan penggunaan, jangan berhenti pada “strength”. Referensi [FHWA tentang fatigue dan fracture](https://www.fhwa.dot.gov/bridge/steel/pubs/nhi16016.pdf) menunjukkan bahwa evaluasi semacam itu membutuhkan identitas detail, riwayat beban, konteks tegangan, sejarah fabrikasi dan las, korosi atau kerusakan, serta temuan dan perbaikan sebelumnya. Itu panduan jembatan, bukan aturan bangunan Indonesia; gunakan sebagai pengingat jenis data, lalu minta evaluasi yang sesuai proyek.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Data Material yang Dibutuhkan Engineer sebelum Memilih Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan koordinator menerima bar tanpa heat number yang terbaca. Jika pemakaian hanya sementara, keputusan tetap tidak boleh diasumsikan aman; status sementara, beban, dan pemeriksaannya harus tertulis. Jika bar akan dilas atau menerima siklus berulang, kekurangan penelusuran menjadi alasan untuk menahan pemakaian sampai identitas dan bukti pengganti disetujui.
+
+Contoh lain: dua pemasok menawarkan ukuran sama, tetapi satu menawarkan kondisi pasokan berbeda. Jangan memilih dari harga atau angka kuat tarik saja. Bandingkan standar produk, kondisi, toleransi, metode uji, traceability, dan kemampuan pemasok menjaga pemisahan lot. Sobat Besi.co.id, bila satu kolom tidak dapat diisi, tandai sebagai pertanyaan terbuka—bukan sebagai “sesuai”.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Data Material yang Dibutuhkan Engineer sebelum Memilih Bar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap “Berlaku” pada satu halaman standar berarti edisinya otomatis mengatur proyek. Periksa standar yang dirujuk kontrak, perubahan atau amendemen, dan persyaratan pemerintah atau pemilik. Kesalahan kedua adalah menyalin nilai uji dari satu kupon ke semua batang. Cocokkan nomor heat/lot, lokasi spesimen, orientasi, metode, unit, dan laboratorium; bila rantainya putus, minta keputusan penerimaan tertulis.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memakai data material untuk menyimpulkan kapasitas. Data material hanya salah satu input; stabilitas, jalur beban, sambungan, kondisi sementara, api, dan perubahan lapangan tetap perlu desain dan review. Kesalahan keempat adalah melupakan kondisi setelah fabrikasi. Simpan catatan pemanasan, las, ulir, pelapisan, benturan, dan penyimpanan agar pemeriksa berikutnya tahu apa yang berubah.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Jalan pintas yang sebaiknya ditolak
 
-## Required conclusion
+Jalan pintas yang sering muncul adalah, “diameternya sama, jadi bar pengganti pasti setara.” Kesamaan geometri tidak membuktikan grade, kondisi, weldability, ketahanan lingkungan, atau riwayat beban yang sama. Alternatif yang lebih aman adalah membuat lembar substitusi: identitas produk, perbandingan standar, seluruh data sertifikat, dampak proses, kondisi lingkungan, dan persetujuan engineer. Kawan Besi.co.id, hentikan pemakaian ketika data kunci hilang dan eskalasikan sebagai [NEEDS MATERIAL ACCEPTANCE REVIEW].
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Kesimpulan
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum memilih bar, engineer memerlukan paket yang mengikat grade dan kondisi pada identitas heat/lot, geometri, beban dan pola layanan, lingkungan, sambungan, proses, serta rencana bukti dan inspeksi. Langkah berikutnya adalah mengisi lembar data itu dari dokumen pemasok dan fakta lapangan, lalu meminta engineer penanggung jawab menetapkan standar produk, kriteria penerimaan, dan keputusan atas setiap celah data. Anda dapat menyimpan lembar tersebut bersama [ruang rujukan proyek](/) saat ada revisi, lalu [menghubungi tim Besi.co.id](/kontak) bila perlu menyampaikan pertanyaan komersial atau dokumen untuk ditinjau. Aturan operasionalnya sederhana: jika identitas, kondisi, atau konteks pemakaian tidak dapat ditelusuri, jangan mengubah kekosongan bukti menjadi asumsi desain.

@@ -3,7 +3,8 @@ article_id: BAR-09-04
 title: "Cut Ends, Threads, dan Coating Damage"
 slug: "cut-ends-threads-coating-damage"
 description: "Cover preparation, repair system ownership, thickness/fit, handling, inspection, records"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -28,185 +29,84 @@ sources:
   - "https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-001
+Placement: after opening, before first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
+Caption/credit: Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies harga besi as; no pixels inspected.
+END MANAGED IMAGE PLAN -->
 
 # Cut Ends, Threads, dan Coating Damage
 
-## Assignment lock
+Halo, Teman Besi.co.id! Ujung potong, ulir, dan lapisan yang tergores bukan detail kosmetik. Ketiganya memutus atau menipiskan perlindungan pada titik yang sering terkena air, alat, dan kontak. Keputusan yang aman bukan “olesi apa saja”, melainkan tetapkan dulu sistem pelapisan, siapa pemilik keputusan perbaikannya, lalu buktikan kecocokan, ketebalan, dan hasil inspeksinya.
 
-- **Writer task:** Expand this file into one complete article answering: “Cut Ends, Threads, dan Coating Damage”
-- **Reader and situation:** Fabricator
-- **Reader outcome:** Cover preparation, repair system ownership, thickness/fit, handling, inspection, records
-- **Primary intent:** Detail vulnerable areas
-- **Reader community:** `Besi.co.id`
-- **Primary friendly address:** `Teman Besi.co.id`
-- **Natural variants:** `Sobat Besi.co.id` and `Kawan Besi.co.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No repair recipe
-- **Final public route:** `/artikel/cut-ends-threads-coating-damage.html`
-- **Appointed CMS date:** `2026-03-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jika batang akan dipotong atau diulir setelah pelapisan, tandai area itu sebagai pekerjaan khusus sejak gambar kerja dan permintaan pembelian. Untuk baja galvanis celup panas, rute pelapisan dan standar produknya harus dipastikan; ISO 1461 membahas artikel fabrikasi, bukan otomatis lembaran, kawat, pipa, atau fastener lain ([ISO 1461:2022](https://www.iso.org/standard/81435.html)). Metode pengujian atau katalog standar juga tidak membuktikan bahwa lapisan pada barang Anda telah lulus.
 
-## Opening instructions
+![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Besi.co.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cut Ends, Threads, dan Coating Damage**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Besi.co.id`, `Sobat Besi.co.id`, or `Kawan Besi.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi harga besi as](/wp-content/uploads/2024/07/harga-besi-as.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `harga besi as` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `batang.besi.co.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** A public record can support document identity, visible status, and scope. BSN says SNI may be accessed through free and paid mechanisms. The structural-metal catalog visibly lists multiple editions for some subjects, so `Berlaku` is not a substitute for determining the governing edition.
-- **Limits:** Do not quote clauses or infer mandatory status from these pages. Recheck the exact BSN record, amendment/corrigendum, regulation, contract, and full text at outline start and before publication.
-
-### KR-16
-
-- **Original sources:** [ISO 12944-2:2017 — classification of environments](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 — protective paint systems](https://www.iso.org/standard/77795.html), and [AMPP Corrosion Basics catalog](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)
-- **Purpose for this article:** Ground corrosion mechanisms, exposure surveys, and coating-system comparisons.
-- **Safe grounded facts:** Selection begins with substrate and exposure: wetness/condensation, salt, pollutants/chemicals, immersion/soil, shelter, drainage, crevices, contact metals, temperature, damage, access, and maintenance. “Cat” is not a complete protection specification.
-- **Limits:** ISO 12944-2 and -5 are marked for revision on their catalog pages. Exact categories, preparation, system, dry-film thickness, test, durability, repair, and service-life claims require current full parts, manufacturer data, and site facts through G-09.
-
-### KR-17
-
-- **Original sources:** [ISO 1461:2022 — fabricated articles](https://www.iso.org/standard/81435.html), [ISO 14713-2:2019 — design for hot-dip galvanizing](https://www.iso.org/standard/71136.html), and [ISO 1460:2020 — gravimetric coating-mass method](https://www.iso.org/standard/79581.html)
-- **Purpose for this article:** Separate after-fabrication hot-dip galvanizing from continuously galvanized sheet/wire/mesh, automatic pipe/tube plants, hardware standards, and extra paint layers.
-- **Safe grounded facts:** The same word `galvanis` can refer to materially different base product, coating route, and governing standard. A test method's scope does not state that an actual coating passed.
-- **Limits:** Do not transfer ISO 1461 values or acceptance rules to sheet, wire, mesh, pipe, fasteners, or Indonesian procurement without the applicable full standard and order. Resolve G-01/G-05/G-09.
-
-### KR-18
-
-- **Original sources:** [AGA venting and draining guidance](https://galvanizeit.org/knowledgebase/article/venting-and-draining), [AGA design/fabrication practices](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg), and [AGA inspection guide page](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)
-- **Purpose for this article:** Provide practical questions for galvanizer coordination, coating inspection, transport damage, and repair.
-- **Safe grounded facts:** Enclosed/overlapped geometry, vent/drain paths, lift orientation, welds, material chemistry, surface contamination, handling, appearance expectations, inspection, and repair interact. Final hole size/location and structural effects require the responsible designer and galvanizer.
-- **Limits:** Do not import AGA/ASTM dimensions, acceptance, or repair values into an Indonesian project. Obtain the actual galvanizer's written review, governing standard, product data, approved drawings, and coating specification through G-05/G-09/G-10.
-
-### KR-21
-
-- **Original sources:** [OSHA 1926.250 material-storage requirements](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250), [LYSAGHT product care and storage](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation), and Indonesian lifting-equipment source [Permenaker 8/2020](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)
-- **Purpose for this article:** Support receiving, transport, lifting-input, storage-layout, moisture, and damage-record articles.
-- **Safe grounded facts:** A storage plan needs verified mass/geometry/center of gravity, stable ground/rack/supports, rolling/spreading prevention, stack access, aisles, drainage/ventilation, segregation, marking visibility, coating/contact protection, weather/condensation, inspection, and quarantine.
-- **Limits:** Foreign/manufacturer guidance is not an Indonesian legal rule or a design for mixed stock. Obtain supplier handling instructions, packaging plan, lift/storage design, site capacity, weather/exposure, and competent approval through G-05/G-12.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `BAR-09-02` → `/artikel/exposure-proteksi-korosi-bar.html` — Menentukan Exposure sebelum Memilih Proteksi Korosi
-- `BAR-09-03` → `/artikel/paint-galvanizing-alternatif-bar.html` — Paint, Galvanizing, dan Material Alternative untuk Bar
-- `BAR-09-05` → `/artikel/dissimilar-metals-crevice-bar.html` — Dissimilar Metals dan Crevice pada Sambungan Bar
-- `BAR-09-06` → `/artikel/koordinasi-proteksi-api-korosi-baja.html` — Proteksi Api dan Korosi Harus Dikoordinasikan
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Ilustrasi umum dari aset lokal Besi.co.id; bukan dokumentasi proyek tertentu.
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cut Ends, Threads, dan Coating Damage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Perlakukan cut end, thread, dan coating damage sebagai tiga antarmuka berbeda: persiapan permukaan, sistem perbaikan yang disetujui, serta pemeriksaan setelah penanganan. Jangan menutup kerusakan sebelum permukaan bebas kontaminasi dan material perbaikan dinyatakan kompatibel oleh pemilik spesifikasi atau galvanizer. “Galvanis” sendiri bukan satu resep; rute produksi, substrat, dan standar yang berlaku dapat berbeda.
+
+Risiko berubah mengikuti lingkungan. Kelembapan, kondensasi, garam, polutan, bahan kimia, genangan, celah, logam tak sejenis, suhu, dan akses pemeliharaan memengaruhi pilihan sistem proteksi ([ISO 12944-2](https://www.iso.org/standard/64834.html); [ISO 12944-5](https://www.iso.org/standard/77795.html); [AMPP Corrosion Basics](https://content.ampp.org/books/book/12/Corrosion-Basics-An-Introduction)). Karena data lokasi dan spesifikasi proyek tidak ada di sini, [NEEDS GATE-01: klasifikasi paparan dan sistem proteksi disahkan berdasarkan kondisi proyek].
+
+[NEEDS GATE-02: batas tanggung jawab antara fabrikator, galvanizer, aplikator repair, dan inspektor perlu ditetapkan dalam dokumen proyek].
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Cut Ends, Threads, dan Coating Damage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Cut end** adalah permukaan yang muncul setelah pemotongan; ia dapat memerlukan perlakuan berbeda dari permukaan pabrik. **Thread** mencakup puncak, lembah, dan toleransi ulir; lapisan tambahan dapat mengubah fit. **Coating damage** berarti lapisan tergores, terkelupas, terbakar panas, atau aus saat diangkat dan dipasang. Ketiganya dibahas dari sudut kendali fabrikator: kapan pekerjaan dilakukan, siapa yang menyetujui sistem perbaikan, bagaimana kecocokan diperiksa, dan dokumen apa yang disimpan.
+
+Artikel ini tidak memberi merek, campuran, urutan aplikasi, angka ketebalan, atau “resep” perbaikan. Nilai tersebut bergantung pada standar kontrak, data produk, kondisi substrat, dan persetujuan kompeten. ISO 1461, ISO 14713-2, metode massa ISO 1460, dan panduan desain galvanizing menekankan perlunya membedakan rute produk serta mengoordinasikan detail fabrikasi, kimia material, ventilasi, drainase, dan inspeksi; jangan memindahkan angka dari sumber luar ke proyek Indonesia tanpa verifikasi tertulis ([ISO 14713-2:2019](https://www.iso.org/standard/71136.html); [ISO 1460:2020](https://www.iso.org/standard/79581.html); [AGA design/fabrication](https://galvanizeit.org/aess-for-specifiers/design-details-and-fabrication-best-practices-for-hdg)).
+
+Untuk menyiapkan dokumen kerja, simpan checklist dan rekaman di satu paket mutu; halaman [Besi.co.id](/) dapat menjadi titik kembali untuk konteks teknis umum, bukan pengganti persetujuan proyek. Bila perlu menyamakan istilah produk batang, lihat [konteks AS S45C](/as-s45c) sebagai navigasi umum, bukan spesifikasi repair.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Cut Ends, Threads, dan Coating Damage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan kendali dimulai sebelum potong: identifikasi material dan rute coating pada purchase order, tetapkan apakah pemotongan/ulir dilakukan sebelum atau sesudah pelapisan, dan minta tinjauan galvanizer atau pemilik coating. Geometri tertutup dan tumpang tindih perlu jalur ventilasi serta drainase agar proses galvanizing tidak menjebak cairan atau menimbulkan bahaya ([AGA venting and draining](https://galvanizeit.org/knowledgebase/article/venting-and-draining)). Ukuran dan lokasi lubang akhir tetap keputusan perancang struktur dan galvanizer, bukan keputusan lapangan sepihak.
+
+Setelah fabrikasi, pisahkan tiga pemeriksaan. Pertama, kondisi permukaan: catat karat, minyak, serpihan, atau kontaminasi dan metode persiapan yang diizinkan. Kedua, sistem: cocokkan produk perbaikan, urutan kerja, waktu pengeringan, dan batas aplikasinya dengan datasheet serta spesifikasi. Ketiga, fungsi: ukur atau verifikasi fit ulir, tepi tajam, akses, dan kemungkinan air tertahan. Pemeriksaan galvanis harus mengikuti spesifikasi yang berlaku dan rencana inspeksi; panduan AGA menempatkan penerimaan, penanganan, dan perbaikan sebagai bagian dari rekaman mutu ([AGA inspection guide](https://galvanizeit.org/education-and-resources/publications/inspection-of-hot-dip-galvanized-steel-products)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Cut Ends, Threads, dan Coating Damage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Empat kelompok faktor perlu dicatat dalam ITP atau checklist:
+
+- **Lingkungan:** paparan basah-kering, garam, bahan kimia, atau rendaman menentukan tingkat konsekuensi bila cut end terbuka. Survei paparan lebih berguna daripada menyebut “luar ruang” saja.
+- **Geometri dan fit:** ulir halus, lubang buta, celah, dan sambungan logam berbeda dapat menahan air atau mengurangi toleransi. Minta persetujuan desain bila ada perubahan ukuran.
+- **Pelaksanaan:** alat angkat, sling, tumpuan, gesekan, dan penumpukan dapat menggores lapisan baru. Rencanakan orientasi angkat dan titik kontak bersama tim galvanizer.
+- **Bukti:** nomor heat/batch, identitas komponen, foto sebelum-sesudah, hasil pengukuran, datasheet, lot material perbaikan, nama pemeriksa, tanggal, dan disposition (terima, perbaiki, karantina) membuat keputusan dapat ditelusuri.
+
+Untuk penyimpanan, sediakan tanah atau rak stabil, pencegah gelinding dan penyebaran, akses antar tumpukan, drainase, ventilasi, serta perlindungan dari kondensasi dan kontak yang merusak coating. Panduan LYSAGHT dan OSHA dapat menjadi pertanyaan awal, tetapi bukan pengganti rencana site dan persetujuan kompeten ([LYSAGHT product care](https://lysaght.com/support-technical/support/installation/product-care-and-storage-installation); [OSHA 1926.250](https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.250)). Untuk aktivitas angkat, selaraskan massa, geometri, pusat gravitasi, dan kapasitas peralatan dengan ketentuan Indonesia yang berlaku, termasuk Permenaker 8/2020 ([JDIH Kemnaker](https://jdih.kemnaker.go.id/peraturan/detail/1668/peraturan-menteri-nomor-8-tahun-2020)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Cut Ends, Threads, dan Coating Damage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan skenario bersyarat berikut, bukan sebagai persetujuan otomatis:
+
+| Temuan | Keputusan awal | Bukti yang harus diminta |
+|---|---|---|
+| Ujung dipotong sebelum galvanizing | Konfirmasi area dan ventilasi/drainase pada gambar | Tinjauan tertulis galvanizer dan gambar disetujui |
+| Ulir harus tetap bisa dirakit | Hentikan aplikasi yang dapat mengubah fit sebelum ada data | Toleransi, datasheet, dan uji fit yang disaksikan |
+| Goresan muncul saat unloading | Karantina komponen dan lindungi dari air | Foto ber-ID, lokasi kerusakan, metode disposition |
+| Lapisan terbakar di sekitar las | Jangan menutupinya dengan produk generik | Spesifikasi repair, persetujuan pemilik coating, hasil inspeksi |
+
+Teman Besi.co.id, bila salah satu kolom bukti kosong, statusnya bukan “siap ditutup” tetapi menunggu klarifikasi. [NEEDS GATE-04: penerimaan sistem perbaikan, kecocokan ulir, dan kriteria inspeksi harus disetujui pemilik spesifikasi].
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Cut Ends, Threads, dan Coating Damage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap semua permukaan perak sama. Periksa sertifikat atau identitas produk untuk membedakan artikel galvanis setelah fabrikasi dari sheet, wire, mesh, pipa, atau fastener. Kesalahan kedua adalah memilih material perbaikan karena tersedia di gudang. Cocokkan substrat, paparan, kompatibilitas, dan ketebalan target pada dokumen yang disetujui; jangan mengutip nilai katalog sebagai hasil lapangan.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah memeriksa tampilan saja. Jalankan pemeriksaan visual, dimensi/fit, dan pengukuran yang diwajibkan ITP; tandai alat, kalibrasi, lokasi, dan hasil. Kesalahan keempat adalah memindahkan komponen tanpa rekaman kondisi awal. Buat foto ber-ID komponen sebelum angkat, setelah tiba, dan setelah pemasangan. Catat siapa yang memutuskan repair atau reject.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan kelima adalah menutup celah atau lubang tanpa koordinasi. Ventilasi dan drainase yang keliru dapat memengaruhi proses galvanizing dan keselamatan; final geometry harus ditinjau perancang dan galvanizer. [NEEDS GATE-05: gambar fabrikasi, urutan kerja, dan perubahan lapangan belum memiliki persetujuan proyek yang dapat ditunjukkan].
 
-## Required conclusion
+## Jalan pintas yang tampak praktis
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering dipilih adalah “amplas sebentar lalu semprot cat apa pun agar terlihat rapi”. Itu dapat gagal karena kontaminasi tersisa, material tidak kompatibel, ketebalan mengganggu ulir, atau area basah kembali sebelum sistem siap. Alternatif yang lebih dapat diaudit: hentikan komponen, identifikasi kerusakan dan paparan, minta sistem repair tertulis, lakukan persiapan sesuai instruksi, lalu inspeksi dan dokumentasikan sebelum release.
 
-## Draft completion checklist
+Kawan Besi.co.id, shortcut lain adalah menerima barang hanya berdasarkan warna atau kilap. Penampilan tidak menggantikan identitas standar, fit, atau rekaman pengukuran. [NEEDS GATE-06: koordinator teknis perlu memeriksa paket bukti penerimaan dan menetapkan disposition setiap temuan].
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Besi.co.id!` and uses friendly `Besi.co.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Penutup: aturan operasi
+
+Cut ends, threads, dan coating damage aman dikendalikan bila diperlakukan sebagai antarmuka desain–fabrikasi–galvanizer–inspeksi, bukan pekerjaan touch-up terpisah. Sebelum komponen keluar dari area kerja, kumpulkan gambar yang disetujui, spesifikasi coating dan repair, datasheet, rekaman fit/ketebalan, foto penanganan, serta tanda tangan pemeriksa. Bila klasifikasi paparan, sistem repair, atau kriteria penerimaan belum jelas, tahan pekerjaan dan minta review teknis; jangan mengisi kekosongan dengan asumsi. Untuk meminta peninjauan dokumen atau menjelaskan data yang masih kurang, gunakan [kanal kontak Besi.co.id](/kontak). Aturan operasinya sederhana: tidak ada penutupan kerusakan tanpa pemilik sistem, bukti kecocokan, dan rekaman inspeksi yang bisa ditelusuri.
